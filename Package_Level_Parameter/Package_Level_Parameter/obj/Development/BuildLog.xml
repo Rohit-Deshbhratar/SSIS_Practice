@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Package_Level_Parameter</Name>
-    <LastWriteTime>2023-11-17T05:15:01.1078207Z</LastWriteTime>
+    <LastWriteTime>2023-11-17T05:24:20.7089721Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2023-11-17T05:15:01.0906444Z</LastWriteTime>
+      <Name>Package_Level_Parameter_txt.dtsx</Name>
+      <LastWriteTime>2023-11-17T05:24:20.6933368Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

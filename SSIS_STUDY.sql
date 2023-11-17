@@ -32,7 +32,7 @@ CREATE TABLE STUDENTS(
 );
 SELECT * FROM STUDENTS;
 ------------------------------------------------------------------------------------------------------------------------------------------
---FOR SSIS PROJECT "Project_Level_Parameter" USE FOLLOWING COMMANDS.
+--FOR SSIS PROJECT "Package_Level_Parameter" USE FOLLOWING COMMANDS.
 --THE "?" CONTAINS PACKAGE LEVEL PARAMETER VALUE i.e. "CA".
 
 SELECT * FROM CUSTOMERS

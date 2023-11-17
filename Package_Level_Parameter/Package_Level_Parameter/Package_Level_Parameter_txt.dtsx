@@ -5,14 +5,14 @@
   DTS:CreationName="SSIS.Package.3"
   DTS:CreatorComputerName="ROHIT"
   DTS:CreatorName="ROHIT\Rohit"
-  DTS:DTSID="{CF3AB7EF-E807-437B-B1C4-D70BB87B4D21}"
+  DTS:DTSID="{4E89770B-2180-4507-80FC-C65DA05DF490}"
   DTS:ExecutableType="SSIS.Package.3"
   DTS:LastModifiedProductVersion="11.0.5583.0"
   DTS:LocaleID="16393"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="Package_Level_Parameter_txt"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{810690F3-5800-4A5C-8139-96AB774166BD}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{04676295-1645-466E-9E9E-2FD7E7522F45}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>
@@ -339,12 +339,12 @@ WHERE State = ?</property>
               </outputs>
             </component>
             <component
-              refId="Package\Data Flow Task\Project_Level_Parameter_txt"
+              refId="Package\Data Flow Task\Package_Level_Parameter_txt"
               componentClassID="{8DA75FED-1B7C-407D-B2AD-2B24209CCCA4}"
               contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
               description="Flat File Destination"
               localeId="16393"
-              name="Project_Level_Parameter_txt">
+              name="Package_Level_Parameter_txt">
               <properties>
                 <property
                   dataType="System.Boolean"
@@ -358,84 +358,84 @@ WHERE State = ?</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Data Flow Task\Project_Level_Parameter_txt.Connections[FlatFileConnection]"
+                  refId="Package\Data Flow Task\Package_Level_Parameter_txt.Connections[FlatFileConnection]"
                   connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager]"
                   connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager]"
                   name="FlatFileConnection" />
               </connections>
               <inputs>
                 <input
-                  refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input]"
+                  refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input]"
                   hasSideEffects="true"
                   name="Flat File Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[Name]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[Name]"
                       cachedCodepage="1252"
                       cachedDataType="str"
                       cachedLength="50"
                       cachedName="Name"
-                      externalMetadataColumnId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Name]"
+                      externalMetadataColumnId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Name]"
                       lineageId="Package\Data Flow Task\CUSTOMERS.Outputs[OLE DB Source Output].Columns[Name]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[Address]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[Address]"
                       cachedCodepage="1252"
                       cachedDataType="str"
                       cachedLength="100"
                       cachedName="Address"
-                      externalMetadataColumnId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Address]"
+                      externalMetadataColumnId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Address]"
                       lineageId="Package\Data Flow Task\CUSTOMERS.Outputs[OLE DB Source Output].Columns[Address]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[City]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[City]"
                       cachedCodepage="1252"
                       cachedDataType="str"
                       cachedLength="30"
                       cachedName="City"
-                      externalMetadataColumnId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[City]"
+                      externalMetadataColumnId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[City]"
                       lineageId="Package\Data Flow Task\CUSTOMERS.Outputs[OLE DB Source Output].Columns[City]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[State]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[State]"
                       cachedCodepage="1252"
                       cachedDataType="str"
                       cachedLength="30"
                       cachedName="State"
-                      externalMetadataColumnId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[State]"
+                      externalMetadataColumnId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[State]"
                       lineageId="Package\Data Flow Task\CUSTOMERS.Outputs[OLE DB Source Output].Columns[State]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[Zip]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].Columns[Zip]"
                       cachedDataType="i4"
                       cachedName="Zip"
-                      externalMetadataColumnId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Zip]"
+                      externalMetadataColumnId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Zip]"
                       lineageId="Package\Data Flow Task\CUSTOMERS.Outputs[OLE DB Source Output].Columns[Zip]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Name]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Name]"
                       codePage="1252"
                       dataType="str"
                       length="50"
                       name="Name" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Address]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Address]"
                       codePage="1252"
                       dataType="str"
                       length="100"
                       name="Address" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[City]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[City]"
                       codePage="1252"
                       dataType="str"
                       length="30"
                       name="City" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[State]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[State]"
                       codePage="1252"
                       dataType="str"
                       length="30"
                       name="State" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Zip]"
+                      refId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input].ExternalColumns[Zip]"
                       dataType="i4"
                       name="Zip" />
                   </externalMetadataColumns>
@@ -446,7 +446,7 @@ WHERE State = ?</property>
           <paths>
             <path
               refId="Package\Data Flow Task.Paths[OLE DB Source Output]"
-              endId="Package\Data Flow Task\Project_Level_Parameter_txt.Inputs[Flat File Destination Input]"
+              endId="Package\Data Flow Task\Package_Level_Parameter_txt.Inputs[Flat File Destination Input]"
               name="OLE DB Source Output"
               startId="Package\Data Flow Task\CUSTOMERS.Outputs[OLE DB Source Output]" />
           </paths>
@@ -483,35 +483,35 @@ WHERE State = ?</property>
           Id="Package\Data Flow Task\CUSTOMERS"
           TopLeft="129.142859342147,50.164706585894" />
         <NodeLayout
-          Size="214.4,41.6"
-          Id="Package\Data Flow Task\Project_Level_Parameter_txt"
-          TopLeft="320.000005449568,137.035296039515" />
+          Size="220.8,41.6"
+          Id="Package\Data Flow Task\Package_Level_Parameter_txt"
+          TopLeft="320.571434030728,137.035296039515" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
           TopLeft="198.742859342147,91.764706585894">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="228.457146107421,45.2705894536213"
+              EndConnector="232.228574688581,45.270589453621"
               Start="0,0"
-              End="228.457146107421,37.7705894536213">
+              End="232.228574688581,37.770589453621">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,18.6352947268107" />
+                    End="0,18.6352947268105" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,18.6352947268107"
-                    Point2="0,22.6352947268107"
-                    Point3="4,22.6352947268107" />
+                    Point1="0,18.6352947268105"
+                    Point2="0,22.6352947268105"
+                    Point3="4,22.6352947268105" />
                   <mssgle:LineSegment
-                    End="224.457146107421,22.6352947268107" />
+                    End="228.228574688581,22.6352947268105" />
                   <mssgle:CubicBezierSegment
-                    Point1="224.457146107421,22.6352947268107"
-                    Point2="228.457146107421,22.6352947268107"
-                    Point3="228.457146107421,26.6352947268107" />
+                    Point1="228.228574688581,22.6352947268105"
+                    Point2="232.228574688581,22.6352947268105"
+                    Point3="232.228574688581,26.6352947268105" />
                   <mssgle:LineSegment
-                    End="228.457146107421,37.7705894536213" />
+                    End="232.228574688581,37.770589453621" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
