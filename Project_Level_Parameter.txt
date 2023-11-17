@@ -1,0 +1,2 @@
+Name|Address|City|State|Zip
+John Smith|123 Main St|San Francisco|CA|27262
