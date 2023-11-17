@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "EXCEL_TO_SQL", "EXCEL_TO_SQL\EXCEL_TO_SQL.dtproj", "{E521BAA8-D1CA-49C0-AD1F-41EA73CBF017}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Project_Level_Parameter", "Project_Leve_Parameter\Project_Level_Parameter.dtproj", "{0DE854B6-5AAD-4AA9-9F92-BA06DC1FFCF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E521BAA8-D1CA-49C0-AD1F-41EA73CBF017}.Development|Default.ActiveCfg = Development
-		{E521BAA8-D1CA-49C0-AD1F-41EA73CBF017}.Development|Default.Build.0 = Development
+		{0DE854B6-5AAD-4AA9-9F92-BA06DC1FFCF5}.Development|Default.ActiveCfg = Development
+		{0DE854B6-5AAD-4AA9-9F92-BA06DC1FFCF5}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

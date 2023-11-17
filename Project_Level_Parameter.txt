@@ -1,0 +1,2 @@
+CustomerNumber|Name|Address|City|State|Zip
+54321|Bill Jones|3636 Hale Ave.|Chicago|IL|60643

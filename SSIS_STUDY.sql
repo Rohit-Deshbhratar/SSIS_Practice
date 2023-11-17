@@ -28,7 +28,7 @@ CREATE TABLE STUDENTS(
 	SCIENCE INT NOT NULL CHECK(SCIENCE < 0 OR SCIENCE > 100),
 	MATHS INT NOT NULL CHECK(MATHS < 0 OR MATHS > 100),
 	HISTORY INT NOT NULL CHECK(HISTORY < 0 OR HISTORY > 100),
-	GEOGRAPHY INT NOT NULL CHECK(GEOGRAPHY < 0 OR GEOGRAPHY > 100),
+	GEOGRAPHY INT NOT NULL CHECK(GEOGRAPHY < 0 OR GEOGRAPHY > 100)
 );
 SELECT * FROM STUDENTS;
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,4 +37,10 @@ SELECT * FROM STUDENTS;
 
 SELECT * FROM CUSTOMERS
 WHERE State = ?
+------------------------------------------------------------------------------------------------------------------------------------------
+--FOR SSIS PROJECT "Project_Level_Parameter" USE FOLLOWING COMMANDS.
+--THE "?" CONTAINS PROJECT LEVEL PARAMETER VALUE i.e. 60643.
+
+SELECT * FROM CUSTOMERS
+WHERE Zip = ?
 ------------------------------------------------------------------------------------------------------------------------------------------
