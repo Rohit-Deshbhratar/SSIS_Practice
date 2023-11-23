@@ -22,3 +22,8 @@ We've performed this project using SQL command which points to this global varib
 In this project we are transferring data from CSV to database table.
 .csv file has data in it and database table is empty.
 CSV file is "Students_Mark.csv" and table is "STUDENTS".
+
+## 6. Dynamic_Connection_Manager
+In this project we are creating flat file named "Dynamic_Connection_date_time.TXT". Where date is "YYYY_MM_DD",
+time is "HOUR_MINUTE" and ".TXT" is extension. Whenever we run this project it will create a new file with name
+mentioned in above format. For this we have used variables for formatting file name we have used SUBSTRING(). 
