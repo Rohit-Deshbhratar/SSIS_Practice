@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="FF_To_DB"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{28DF86D4-C253-4EB6-AEA3-69DEE8CB8152}">
+  DTS:VersionBuild="7"
+  DTS:VersionGUID="{0B7A5C19-5DF6-4ED0-91A9-23BAEDF18050}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>
@@ -30,7 +30,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="D:\MyThings\Development\SSIS\Customer_Flat_File.txt">
+          DTS:ConnectionString="D:\MyThings\Development\SSIS_Practice\Customer_Flat_File.txt">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -38,7 +38,7 @@
               DTS:DataType="3"
               DTS:TextQualified="True"
               DTS:ObjectName="CustomerNumber"
-              DTS:DTSID="{671C555F-4100-4AF8-9348-6C4AB0EC9B89}"
+              DTS:DTSID="{60D269D3-D4D3-46FA-93EE-8ABFF82B5393}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -47,34 +47,34 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Name"
-              DTS:DTSID="{C76545C5-23B8-4518-91C8-9E293E67A133}"
+              DTS:DTSID="{674CD0F5-A4AD-464E-980C-F77421A94151}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
-              DTS:MaximumWidth="100"
+              DTS:MaximumWidth="50"
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Address"
-              DTS:DTSID="{4903A75D-7884-479F-A61E-1FAE097ED1C6}"
+              DTS:DTSID="{CB86C022-97B4-471A-8216-7162E990210A}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
-              DTS:MaximumWidth="30"
+              DTS:MaximumWidth="50"
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="City"
-              DTS:DTSID="{C5E90A5F-A578-4946-995D-6EDBA4461911}"
+              DTS:DTSID="{A189A235-667A-4CD0-9ACA-836B3807D3A2}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x002C_"
-              DTS:MaximumWidth="30"
+              DTS:MaximumWidth="50"
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="State"
-              DTS:DTSID="{3D93B9C0-8195-48D5-8732-C3A475EA03B0}"
+              DTS:DTSID="{5F6049B2-2DAA-4C60-8061-BC30167FC100}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -82,7 +82,7 @@
               DTS:DataType="3"
               DTS:TextQualified="True"
               DTS:ObjectName="Zip"
-              DTS:DTSID="{97F7581F-79F0-42A5-822B-A4DCB23A2E07}"
+              DTS:DTSID="{9E759633-25F7-4FA9-9DBF-154477A5FC2C}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -91,7 +91,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[ROHIT.SSIS_STUDY]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{81169FDD-1771-447F-8225-BC44CE9B9A66}"
+      DTS:DTSID="{03825F9F-1B84-4D3D-B10A-7B02CEB3B4E3}"
       DTS:ObjectName="ROHIT.SSIS_STUDY">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -195,7 +195,7 @@
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].ExternalColumns[Address]"
-                      length="100"
+                      length="50"
                       lineageId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].Columns[Address]"
                       name="Address"
                       truncationRowDisposition="FailComponent">
@@ -217,7 +217,7 @@
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].ExternalColumns[City]"
-                      length="30"
+                      length="50"
                       lineageId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].Columns[City]"
                       name="City"
                       truncationRowDisposition="FailComponent">
@@ -239,7 +239,7 @@
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].ExternalColumns[State]"
-                      length="30"
+                      length="50"
                       lineageId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].Columns[State]"
                       name="State"
                       truncationRowDisposition="FailComponent">
@@ -291,19 +291,19 @@
                       refId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].ExternalColumns[Address]"
                       codePage="1252"
                       dataType="str"
-                      length="100"
+                      length="50"
                       name="Address" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].ExternalColumns[City]"
                       codePage="1252"
                       dataType="str"
-                      length="30"
+                      length="50"
                       name="City" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].ExternalColumns[State]"
                       codePage="1252"
                       dataType="str"
-                      length="30"
+                      length="50"
                       name="State" />
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].ExternalColumns[Zip]"
@@ -430,7 +430,7 @@
                       refId="Package\Data Flow Task\SSIS_STUDY_CUSTOMERS.Inputs[OLE DB Destination Input].Columns[Address]"
                       cachedCodepage="1252"
                       cachedDataType="str"
-                      cachedLength="100"
+                      cachedLength="50"
                       cachedName="Address"
                       externalMetadataColumnId="Package\Data Flow Task\SSIS_STUDY_CUSTOMERS.Inputs[OLE DB Destination Input].ExternalColumns[Address]"
                       lineageId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].Columns[Address]" />
@@ -438,7 +438,7 @@
                       refId="Package\Data Flow Task\SSIS_STUDY_CUSTOMERS.Inputs[OLE DB Destination Input].Columns[City]"
                       cachedCodepage="1252"
                       cachedDataType="str"
-                      cachedLength="30"
+                      cachedLength="50"
                       cachedName="City"
                       externalMetadataColumnId="Package\Data Flow Task\SSIS_STUDY_CUSTOMERS.Inputs[OLE DB Destination Input].ExternalColumns[City]"
                       lineageId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].Columns[City]" />
@@ -446,7 +446,7 @@
                       refId="Package\Data Flow Task\SSIS_STUDY_CUSTOMERS.Inputs[OLE DB Destination Input].Columns[State]"
                       cachedCodepage="1252"
                       cachedDataType="str"
-                      cachedLength="30"
+                      cachedLength="50"
                       cachedName="State"
                       externalMetadataColumnId="Package\Data Flow Task\SSIS_STUDY_CUSTOMERS.Inputs[OLE DB Destination Input].ExternalColumns[State]"
                       lineageId="Package\Data Flow Task\Customer_Flat_File.Outputs[Flat File Source Output].Columns[State]" />
@@ -558,37 +558,37 @@
         <NodeLayout
           Size="168,41.6"
           Id="Package\Data Flow Task\Customer_Flat_File"
-          TopLeft="268.571433145173,91.1529424548562" />
+          TopLeft="178.857145903062,47.7176480197577" />
         <NodeLayout
           Size="204.8,41.6"
           Id="Package\Data Flow Task\SSIS_STUDY_CUSTOMERS"
-          TopLeft="372.571434916282,229.411767923296" />
+          TopLeft="364.000006198883,193.741178907243" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Flat File Source Output]"
-          TopLeft="352.571433145173,132.752942454856">
+          TopLeft="262.857145903062,89.3176480197577">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="122.400001771109,96.6588254684396"
+              EndConnector="203.542860295821,104.423530887485"
               Start="0,0"
-              End="122.400001771109,89.1588254684396">
+              End="203.542860295821,96.9235308874851">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,44.3294127342198" />
+                    End="0,48.2117654437426" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,44.3294127342198"
-                    Point2="0,48.3294127342198"
-                    Point3="4,48.3294127342198" />
+                    Point1="0,48.2117654437426"
+                    Point2="0,52.2117654437426"
+                    Point3="4,52.2117654437426" />
                   <mssgle:LineSegment
-                    End="118.400001771109,48.3294127342198" />
+                    End="199.542860295821,52.2117654437426" />
                   <mssgle:CubicBezierSegment
-                    Point1="118.400001771109,48.3294127342198"
-                    Point2="122.400001771109,48.3294127342198"
-                    Point3="122.400001771109,52.3294127342198" />
+                    Point1="199.542860295821,52.2117654437426"
+                    Point2="203.542860295821,52.2117654437426"
+                    Point3="203.542860295821,56.2117654437426" />
                   <mssgle:LineSegment
-                    End="122.400001771109,89.1588254684396" />
+                    End="203.542860295821,96.9235308874851" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

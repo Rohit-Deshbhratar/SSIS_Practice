@@ -5,8 +5,8 @@
   <SchemaVersion>9.0.1.0</SchemaVersion>
   <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
   <Database>
-    <Name>FlatFile_To_DataBase.database</Name>
-    <FullPath>FlatFile_To_DataBase.database</FullPath>
+    <Name>CSV_TO_SQL_DB.database</Name>
+    <FullPath>CSV_TO_SQL_DB.database</FullPath>
   </Database>
   <DataSources />
   <DataSourceViews />
@@ -14,38 +14,38 @@
     <Manifest>
       <SSIS:Project SSIS:ProtectionLevel="EncryptSensitiveWithUserKey" xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
         <SSIS:Properties>
-          <SSIS:Property SSIS:Name="ID">{325dc245-b7ea-4ce8-94bc-9edc33f6759b}</SSIS:Property>
-          <SSIS:Property SSIS:Name="Name">FlatFile_To_DataBase</SSIS:Property>
+          <SSIS:Property SSIS:Name="ID">{37b3d9e6-0ac6-46f6-ada6-39ffa69e7be5}</SSIS:Property>
+          <SSIS:Property SSIS:Name="Name">CSV_TO_SQL_DB</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionComments">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="CreationDate">2023-11-15T11:32:45.989186+05:30</SSIS:Property>
+          <SSIS:Property SSIS:Name="CreationDate">2023-11-17T12:00:17.088271+05:30</SSIS:Property>
           <SSIS:Property SSIS:Name="CreatorName">ROHIT\Rohit</SSIS:Property>
           <SSIS:Property SSIS:Name="CreatorComputerName">ROHIT</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhyKcwWzu7EyQ7Ai9noGPBwAAAAACAAAAAAAQZgAAAAEAACAAAAC4m+WBnLWIqITJ4AbfuynvGsZEiZct4W2pwoUjXueLPAAAAAAOgAAAAAIAACAAAADHNGKBYhKjvfU8it/gtF9TX43X4NHIer3a8wY2IwzMkZAAAAA4gPXGnHqtW/NJm2/fwkISf+XYZefL5+Tt8CrSYf2lQzyQEjfZUkHhjm7hmUFsjmMCfhMNO2CN8QSJwC6uP3xV86N3QBLsubxlyivOtLmDPmbNcoYYJJXPuCxIchDpbFjRoXIeV/+8Cn/q4Y5ctQ0bZzB1iGDZmRCHyqlyUr3aRnCxwCqhtnhMROJgXD80VlVAAAAA6IVtc04miFPzhqtog9xZuPX2mS26v0YG0KOEnNfl3gly7JzWxYKrGgD1EHGPK0tv++eDrH3Hbd5ASOSkDS6llQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhyKcwWzu7EyQ7Ai9noGPBwAAAAACAAAAAAAQZgAAAAEAACAAAAAPWhWvtSAqNdELuvJJkZriHb9DTqAy6m2qc80zupXa9wAAAAAOgAAAAAIAACAAAAD3F5AM8suDVBaYkSXG8DKfU4gXyLCOTxj3DBhb7EJ+U5AAAADtUZ9VkeXNy2QtTPCvpcu1BHL8Fx7OFJny85hZmExu1e97NAlKYen6bzzSVRX9WJNwONzeFaP7uFaZ5rf3WGDpAsyfC08MoGnVHWdt+ORTAuIXXSN5Ead8ZDuoBrtJ+0uh0qdSOZaw3uqpuiBxL+vS64sLom+R6QzdESnCwmE2pkApwdU7IlKdFl6mQPI32/FAAAAAVnD06zaetxNela8vmfR+TxNBm9rEV42vUXI1fna3Q1KMmPPQ3EmHegDm9+4OAok5K/HxLjcW00pIrV/pOMoE5g==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="FF_To_DB.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters />
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="FF_To_DB.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="Package.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{04F7026D-F9BF-4A74-A5D0-EC9BF8F5FDDB}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">FF_To_DB</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{7D3E8094-C4BE-4248-9628-9909BBAAA342}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">7</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">4</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{0B7A5C19-5DF6-4ED0-91A9-23BAEDF18050}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{301590AF-8A57-4966-9425-F74BA4082BD6}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">6</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -108,7 +108,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">D:\MyThings\Development\SSIS_Practice\Customer_Flat_File.txt</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">D:\MyThings\Development\SSIS_Practice\Student_Marks.csv</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -343,7 +343,7 @@
           <ConfigurationSetting>
             <Id>LastModifiedTime</Id>
             <Name>LastModifiedTime</Name>
-            <Value xsi:type="xsd:dateTime">2023-11-15T06:06:28.0507387Z</Value>
+            <Value xsi:type="xsd:dateTime">2023-11-17T06:47:24.6532395Z</Value>
           </ConfigurationSetting>
         </ParameterConfigurationValues>
       </Options>
