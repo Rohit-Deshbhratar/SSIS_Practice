@@ -27,3 +27,11 @@ CSV file is "Students_Mark.csv" and table is "STUDENTS".
 In this project we are creating flat file named "Dynamic_Connection_date_time.TXT". Where date is "YYYY_MM_DD",
 time is "HOUR_MINUTE" and ".TXT" is extension. Whenever we run this project it will create a new file with name
 mentioned in above format. For this we have used variables for formatting file name we have used SUBSTRING(). 
+
+## 7. Row_Count_Transformation
+In this project we are counting number of rows in a table. We have used OLEDB source, row count transformation and
+script task. In script task C# is used as scripting language. Following code is used to show total number of rows
+"MessageBox.Show(Dts.Variable["User::row_count"].value.ToString());" (without "" quotes). This code is reponsible to 
+show row count in table. "User::row_count" is variable.
+
+## 8.
