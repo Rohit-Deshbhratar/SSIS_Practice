@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Derived_Column_Transformation", "Derived_Column_Transformation\Derived_Column_Transformation.dtproj", "{AF9B8071-28C5-4A6E-AD3C-C3508CB7ABB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9B8071-28C5-4A6E-AD3C-C3508CB7ABB5}.Development|Default.ActiveCfg = Development
+		{AF9B8071-28C5-4A6E-AD3C-C3508CB7ABB5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
