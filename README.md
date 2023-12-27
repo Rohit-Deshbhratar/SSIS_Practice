@@ -38,3 +38,9 @@ show row count in table. "User::row_count" is variable.
 In this project we are going to use a table named "PATIENTS" which contains patients data. We are going to apply 
 conditional split on "GENDER" column of table "PATIENTS". Data will be split into "MALE" & "FEMALE" and stored into
 flat file named "PATIENTS_MALE" and "PATIENTS_FEMALE".
+
+## 9. Merge Transformation(With "SORT" transformation)
+In this project we are combining input from two flat files into one flat file. The data from both input file will be
+sorted first then merged and then saved into final output file. The data will be sorted on the basis of "PATIENT_ID"
+column present in both files. File used in this project are "Merge_Transformation_Female", "Merge_Transformation_Male"
+and "Merge_Transformation_Output".

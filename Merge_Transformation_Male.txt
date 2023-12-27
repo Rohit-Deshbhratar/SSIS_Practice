@@ -1,0 +1,2469 @@
+PATIENT_ID,FIRST_NAME,LAST_NAME,GENDER,BIRTH_DATE,CITY,PROVINCE_ID,ALLERGIES,HEIGHT,WEIGHT
+1,Donald,Waterfield,M,1963-02-12,Barrie,ON,,156,65
+2,Mickey,Baasha,M,1981-05-28,Dundas,ON,Sulfa,185,76
+3,Jiji,Sharma,M,1957-09-05,Hamilton,ON,Penicillin,194,106
+4,Blair,Diaz,M,1967-01-07,Hamilton,ON,,191,104
+5,Charles,Wolfe,M,2017-11-19,Orillia,ON,Penicillin,47,10
+7,Thomas,ONeill,M,1993-01-31,Burlington,ON,,180,117
+8,Sonny,Beckett,M,1952-12-11,Port Hawkesbury,NS,,174,105
+10,Cedric,Coltrane,M,1961-11-10,Toronto,ON,,157,61
+11,Hank,Spencer,M,1969-08-10,Peterborough,ON,,158,74
+14,Rick,Bennett,M,1977-01-27,Ancaster,ON,Penicillin,220,95
+16,Woody,Bashir,M,1951-11-15,Barrie,ON,Penicillin,153,59
+17,Tom,Halliwell,M,1987-08-01,Hamilton,ON,Ragweed,179,114
+19,John,West,M,1961-06-19,Oakville,ON,,138,61
+20,Jon,Doggett,M,1951-12-25,Hamilton,ON,,194,116
+24,Nino,Andrews,M,2001-04-21,Hamilton,ON,Peanuts,186,85
+25,John,Farley,M,1956-09-12,Hamilton,ON,Gluten,213,104
+29,Jim,Thomas,M,1986-02-17,Ottawa,ON,Penicillin,173,70
+30,Roderick,Payne,M,2015-03-22,Halifax,NS,,58,17
+31,Sam,Threep,M,1982-06-16,Hamilton,ON,Sulpha,199,141
+33,Roland,Edge,M,1967-09-25,Brantford,ON,Peanut Oil,199,134
+34,Don,Wiggum,M,2002-11-15,Hamilton,ON,,189,91
+35,Anthony,Maxwell,M,2011-02-11,Oakville,ON,,92,37
+36,James,Sullivan,M,1974-01-25,Delhi,ON,Topical Anaesthesia,139,68
+39,Charles,Andonuts,M,2016-05-20,Hamilton,ON,,62,15
+41,Don,Edwards,M,1975-07-02,Hamilton,ON,,215,118
+43,Stone,Cutting,M,2010-09-24,Hamilton,ON,Codeine,110,42
+44,Neil,Allan,M,1975-02-02,Cambridge,ON,Penicillin,203,123
+45,Cross,Gordon,M,2009-03-20,Ancaster,ON,,125,53
+47,Harry,Kuramitsu,M,1979-12-03,Hamilton,ON,,215,95
+48,Gary,Ramotswe,M,1977-07-31,Hamilton,ON,,178,101
+49,Phil,Chester,M,1990-09-25,Hamilton,ON,Penicillin,199,112
+50,Phil,Beckett,M,2014-10-11,Ottawa,ON,,83,26
+52,Gregory,James,M,1986-08-17,Hamilton,ON,,195,135
+53,Bruno,Wolfe,M,1998-01-15,Ottawa,ON,Sulfa,145,70
+56,Will,Manu,M,1960-08-25,Burlington,ON,,154,69
+57,Woody,Riviera,M,1990-07-10,Kingston,ON,Penicillin,192,109
+59,Rocky,Donahue,M,1953-04-16,Hamilton,ON,,190,110
+60,Roland,Murphy,M,1974-05-19,Hamilton,ON,Sulfa Drugs,153,71
+62,Shiro,Whale,M,1995-01-16,Hamilton,ON,Penicillin,195,117
+65,Haiku,Alpert,M,2014-08-05,Paris,ON,Penicillin,69,22
+66,Joseph,Justin,M,1953-10-21,Toronto,ON,Penicillin,140,71
+68,Danny,Hardbroom,M,1985-05-11,Niagara Falls,ON,Penicillin,183,105
+70,Billy,Jones,M,2013-09-26,Hamilton,ON,,85,29
+75,Kazuki,Ranall,M,1989-04-19,Hamilton,ON,Penicillin,139,63
+77,Mike,Mars,M,2009-07-15,Hamilton,ON,Penicillin,123,46
+79,Reginald,Jackson,M,1966-08-06,Toronto,ON,Penicillin,182,101
+80,Ernest,Clarkson,M,1962-11-22,Hamilton,ON,,163,66
+82,Matt,Goergen,M,1990-03-26,Hamilton,ON,Penicillin,130,66
+83,Nick,Walker,M,1969-07-16,Hamilton,ON,,164,77
+87,Frank,Capone,M,2004-02-15,Hamilton,ON,,166,65
+89,Sam,Spratt,M,1983-09-23,Hamilton,ON,,195,100
+92,Mendy,Strate,M,1956-03-29,Stoney Creek,ON,,206,111
+94,Hal,Riviera,M,1965-04-02,Kingston,ON,Tylenol,194,110
+95,Gene,Edwards,M,1965-06-06,Hamilton,ON,Sulphate,199,96
+96,Jonny,Christian,M,2003-06-26,Kingston,ON,,182,77
+97,Emmett,Erin,M,2011-04-27,Hamilton,ON,Penicillin,126,39
+98,Harry,Soprano,M,2014-06-18,Beamsville,ON,,85,26
+99,Richard,Davis,M,1971-08-03,Toronto,ON,,148,75
+100,Olwyn,Chino,M,1978-09-03,Hamilton,ON,Tetracycline,146,70
+102,John,Stape,M,1966-05-30,Hamilton,ON,,214,118
+103,Casanova,Dresden,M,1987-12-20,Milton,ON,Penicillin,150,74
+105,Freddie,Landsman,M,1972-03-16,Brockville,ON,,152,73
+106,Moe,Provenza,M,2005-11-06,Cambridge,ON,,183,72
+108,Beanie,Nelson,M,1993-06-11,Beamsville,ON,Tylenol,162,69
+109,William,Templin,M,1975-08-06,Highland,ON,,152,72
+112,David,Beresford,M,1974-10-17,Halifax,NS,,152,87
+114,Norman,Gregory,M,2009-06-15,Calgary,ON,Eggs,125,53
+115,Briareos,Hayes,M,1918-12-12,Sarnia,ON,Morphine,189,138
+117,Chen,Baasha,M,1992-05-09,Cambridge,ON,,193,140
+118,Indiana,Kingsley,M,1978-04-17,Hamilton,ON,Penicillin,140,67
+119,Henry,Hernandez,M,1954-03-30,Hamilton,ON,,163,55
+120,Teddy,McGrath,M,1967-06-15,Hamilton,ON,,168,75
+121,Salvatore,Neutron,M,1994-06-22,Burlington,ON,Codeine,186,106
+122,Harry,Graf,M,1989-05-07,Hamilton,ON,Penicillin,134,68
+123,Stanley,Bean,M,1989-11-01,Toronto,ON,,172,75
+124,Derek,Burbank,M,1988-02-14,Brantford,ON,Penicillin,203,125
+126,King,Arden,M,1981-10-13,Cambridge,ON,Seafood,137,84
+127,Lyan,Russo,M,2005-05-15,Toronto,ON,Tetracycline,180,65
+128,Thomas,Fortune,M,1950-12-14,Carisle,ON,Cats,170,114
+129,Priestley,DAmico,M,1961-11-05,Milton,ON,Penicillin,152,69
+130,Arnold,Love,M,1952-07-14,Toronto,ON,,200,116
+132,Haiku,Shaft,M,2006-02-19,Barrie,ON,,155,55
+135,Vin,Smyth,M,1951-02-08,Hamilton,ON,Codeine,207,113
+136,Kenny,Skelton,M,1970-05-29,Calgary,ON,,187,118
+137,Jackie,Dean,M,1980-09-29,Victoria,BC,,136,58
+139,Robbie,Wilde,M,1971-03-27,Burlington,ON,,164,70
+141,Lou,Vincent,M,2007-01-28,Selkirk,ON,Penicillin,143,56
+142,Elvis,Maroni,M,1948-06-22,Hamilton,ON,Codeine,139,66
+143,Mike,Madison,M,1993-09-13,Carlisle,ON,,191,110
+144,Reginald,Cavor,M,1986-07-24,Red Deer,AB,Penicillin,163,86
+145,Kurt,Turtle,M,1992-06-13,Hamilton,ON,,148,68
+146,Scott,Corinthos,M,1999-11-25,Hamilton,ON,,198,123
+149,David,Redfield,M,1982-01-20,Burlington,ON,Dairy Products,166,89
+150,Sonny,Waterman,M,1987-02-13,Hamilton,ON,,173,89
+151,Jeff,Tyrell,M,1997-07-18,Hamilton,ON,,167,118
+153,Jefferson,Hally,M,1954-10-22,Toronto,ON,Penicillin,155,89
+154,Daneel,Carpenter,M,1977-06-13,Burlington,ON,Penicillin,185,101
+155,Kazuki,Scarpetta,M,1989-07-13,Barrie,ON,Penicillin,170,78
+157,Robert,Page,M,1966-09-28,Stoney Creek,ON,,177,117
+161,Marty,Carrington,M,1950-03-25,Sarnia,ON,Feathers,145,68
+164,Valentin,Mackey,M,2004-06-20,Ottawa,ON,,181,78
+165,Emmett,Colbock,M,1986-10-29,Hamilton,ON,,217,89
+166,Frank,Carrow,M,2016-08-16,Hamilton,ON,ASA,58,15
+171,Jack,Stewart,M,2010-10-10,Brantford,ON,Topical Anaesthesia,101,35
+178,David,Bustamonte,M,2010-02-24,Carisle,ON,Peanuts,103,37
+179,Phil,Uzuki,M,1974-04-24,Saskatoon,SK,Penicillin,187,124
+180,Michael,Henderson,M,2007-01-23,Paris,ON,Penicillin,131,57
+182,Bernard,Karidian,M,2006-11-07,Hamilton,ON,,168,62
+186,Doyle,Starr,M,1990-10-31,Burlington,ON,Wheat,191,121
+187,Guido,Lonnegan,M,1950-12-07,Hamilton,ON,ASA,153,79
+188,Cary,Henderson,M,1961-07-31,Hamilton,ON,Bee Stings,167,98
+191,Freddy,Johnson,M,1990-02-22,Cambridge,ON,Peanuts,172,118
+194,Manick,Fletcher,M,1997-01-08,Ancaster,ON,Strawberries,154,66
+196,Elvis,Kennedy,M,1952-03-01,Hamilton,ON,Hay Fever,163,80
+197,Jack,Wesley,M,1933-07-15,Hamilton,ON,,197,106
+199,Lenny,Holmes,M,1974-08-07,Hamilton,ON,,160,86
+201,John,Pearle,M,1968-12-15,Bancroft,ON,Valporic Acid,200,138
+204,Wilfred,Vincent,M,1954-10-03,Burlington,ON,,200,114
+206,Martin,Schultz,M,2001-09-02,Brockville,ON,,214,84
+207,Matt,Celine,M,1960-07-04,London,ON,,185,115
+210,Subhash,Vercetti,M,1974-03-04,Hamilton,ON,,152,69
+213,Henry,Kennedy,M,1990-07-12,Windsor,ON,Peanuts,136,59
+215,Corrado,McGrew,M,1963-11-12,Fruitland,ON,Penicillin,139,79
+216,Miles,Mace,M,1991-06-15,Brantford,ON,,175,56
+217,Thomas,Duquesne,M,1992-04-26,Pickering,ON,Sulpha,158,69
+219,Jon,Guarnaccia,M,1955-12-02,Burlington,ON,Morphine,189,123
+220,Ben,Seldon,M,1953-08-28,Hamilton,ON,Almonds,143,58
+222,Tom,Kowalski,M,1990-11-27,Dunton,ON,Tape,173,75
+223,Andy,Kammerer,M,1992-02-20,Hamilton,ON,Penicillin,153,62
+224,Michael,Jeter,M,1997-07-24,Toronto,ON,,199,107
+225,Magnus,Ferrari,M,1994-01-21,Ottawa,ON,,169,99
+226,Silvio,Nayagan,M,1975-04-24,Barrie,ON,Penicillin,206,108
+228,Daniel,Nelson,M,2000-11-06,Halifax,NS,Wheat,150,72
+229,Leonard,Sacrimoni,M,2012-02-22,Walnut Grove,AB,,91,29
+231,Lester,Maximoff,M,1972-07-24,Hamilton,ON,Penicillin,162,80
+234,Shion,Rivers,M,2018-02-15,Toronto,ON,Penicillin,38,5
+235,Robert,Brockman,M,1984-05-05,Toronto,ON,,161,91
+236,Art,Fane,M,2012-03-31,Toronto,ON,Penicillin,88,26
+239,Mike,Johnson,M,1993-03-07,Hamilton,ON,,158,78
+240,Thomas,Matthews,M,1968-12-12,Highland,ON,Tetracycline,216,108
+243,Willie,Dingle,M,1955-01-31,Toronto,ON,ASA,154,84
+244,Aniki,Leotardo,M,1986-11-04,Misty,AB,Penicillin,164,72
+245,Primo,Bushell,M,1975-06-17,Hamilton,ON,,187,101
+246,Logan,Tao,M,1958-03-31,Ancaster,ON,,209,104
+251,Joseph,Halifax,M,2000-03-29,Hamilton,ON,Penicillin,180,103
+252,Bruce,Brown,M,2015-09-19,Paris,ON,Codeine,74,18
+254,Emil,McCrary,M,1965-04-04,Cambridge,ON,Sulfa Drugs,149,81
+263,Jack,Valentine,M,1954-10-06,Hamilton,ON,,208,106
+264,Dante,Fuhrey,M,1986-08-31,Burlington,ON,Penicillin,184,104
+265,Marvin,Dredd,M,1973-04-29,London,ON,Sulfa,199,91
+267,Bill,Capone,M,2003-04-26,Milgrove,ON,,166,82
+274,Bruno,Kaiba,M,1956-01-26,Hamilton,ON,Codeine,177,117
+277,Vladimir,Hiatt,M,1960-03-04,Fruitland,ON,Penicillin,175,105
+278,John,Papandrao,M,1989-08-03,Toronto,ON,Penicillin,182,108
+279,Derek,Nappa,M,1965-09-02,Walnut Grove,AB,Bee Stings,163,66
+281,Michael,ORourke,M,1980-09-28,Burlington,ON,,177,122
+282,Alex,Riviera,M,1997-04-20,Hamilton,ON,,189,121
+283,Richard,Bigelow,M,1965-03-03,Burlington,ON,,197,114
+285,Jack,Allgood,M,2008-09-05,Hamilton,ON,,126,53
+286,John,Crockett,M,1963-07-14,Athens,ON,,187,140
+289,Roger,Sanders,M,1965-10-25,Dundas,ON,Peanuts,157,70
+293,Mickey,Fisk,M,1984-10-22,Hamilton,ON,,161,57
+295,Lyan,Heriot,M,1968-03-01,Hamilton,ON,Penicillin,143,80
+296,Ted,Breaker,M,1959-07-11,Hamilton,ON,Tape,186,76
+297,Bruno,Poppins,M,1948-10-11,Brantford,ON,,188,89
+299,Gary,Blake,M,1977-03-23,Hamilton,ON,,202,116
+300,Mycroft,McGee,M,1967-02-04,Ancaster,ON,,198,95
+301,Ricardo,Andrews,M,1987-07-21,Hamilton,ON,,177,112
+302,Paul,Vondopoulos,M,2010-05-22,Brantford,ON,,107,36
+304,Jeffrey,Pascoe,M,1957-05-12,Hamilton,ON,Sulfa,174,84
+306,Matt,Franchetti,M,2007-09-25,Burlington,ON,Milk,157,60
+307,Terence,Gaucho,M,1938-10-22,Hamilton,ON,Sulfa,192,102
+309,Harold,Buchanan,M,1951-06-26,Toronto,ON,,186,95
+310,Dirk,Lindley,M,1934-03-24,Burlington,ON,Sulfa,191,109
+312,Peter,Tennan,M,1969-10-25,Burlington,ON,,167,83
+314,Otis,Munson,M,1949-12-05,Hamilton,ON,Sulfa,152,77
+316,Sam,Lester,M,1982-12-06,Hamilton,ON,,203,124
+318,Paul,Tau,M,2018-05-12,Hamilton,ON,,37,4
+319,John,McCrimmon,M,1985-07-06,Paris,ON,,195,135
+320,Morgan,Harkness,M,1968-08-17,Hamilton,ON,Penicillin,140,68
+325,Ben,Stracci,M,1984-05-19,Port Hawkesbury,NS,Wheat,185,85
+328,Bo,McCoy,M,2008-05-12,Hamilton,ON,Penicillin,126,47
+329,Peter,Robert,M,1958-06-04,Hamilton,ON,Penicillin,162,85
+331,Jason,Hopper,M,1983-06-25,Hamilton,ON,,187,68
+333,Harry,Sofer,M,1960-12-12,Hamilton,ON,,199,122
+334,Lucky,Batt,M,1964-10-14,Hamilton,ON,Codeine,194,117
+336,Jim,Beckett,M,2016-03-21,Toronto,ON,,46,12
+337,Frank,Johnson,M,1960-04-05,Hamilton,ON,Codeine,205,126
+339,Lloyd,Kennedy,M,1986-11-19,Hamilton,ON,,154,69
+343,Max,Sternin,M,2004-05-30,Oakville,ON,,182,68
+344,Bryan,Skywalker,M,1960-05-24,Barrie,ON,,186,80
+346,Stephen,Hajime,M,1968-05-30,Burlington,ON,Sulfa Drugs,160,80
+348,Danny,Magnus,M,2016-01-02,Hamilton,ON,,54,13
+349,Ted,OHara,M,2009-03-02,Dunnville,ON,,130,47
+352,Peter,Rook,M,1980-12-22,Hamilton,ON,,163,88
+353,David,Schultz,M,1962-12-15,Hamilton,ON,,136,76
+355,Mike,Hammer,M,1969-11-05,Kingston,ON,Penicillin,141,63
+356,Guy,Shimura,M,2004-01-09,Red River,MB,,172,83
+357,Vance,Weathers,M,2009-06-25,Hamilton,ON,Codeine,130,47
+359,Joe,Snyder,M,1993-09-15,Hamilton,ON,Penicillin,224,130
+361,Marshal,Hawkes,M,1985-12-09,Hamilton,ON,,152,57
+363,Cedric,Morgan,M,2003-09-08,Hamilton,ON,,197,86
+366,Vernon,Halliwell,M,1991-07-20,Hamilton,ON,,147,74
+369,Rocky,Kavanaugh,M,1948-10-25,Stoney Creek,ON,Sulfa Drugs,195,108
+372,Don,Vallance,M,1966-08-26,Hamilton,ON,Penicillin,139,73
+375,Jack,Renault,M,1984-08-05,Hamilton,ON,Penicillin,142,69
+377,Lew,Vondopoulos,M,1979-03-26,Hamilton,ON,,156,84
+379,Barney,Atwater,M,1966-03-11,Hamilton,ON,,140,69
+381,Jon,Landsman,M,1955-05-11,North York,ON,,198,131
+382,Truman,Lockwood,M,1980-10-24,Hamilton,ON,Almonds,168,72
+384,Truman,Kennedy,M,1972-09-18,Timmins,ON,,185,119
+385,Ernest,Poirot,M,1977-08-01,Hamilton,ON,,155,91
+386,Adam,Stillman,M,1951-01-03,Hamilton,ON,Shellfish,162,82
+388,Kurt,Beltzer,M,1965-02-16,Hamilton,ON,,190,103
+389,Abe,Osborne,M,1948-04-23,Hamilton,ON,Almonds,190,104
+391,Kingo,Frye,M,1967-04-06,Carisle,ON,,170,63
+392,Walter,Harkness,M,1980-03-19,Brampton,ON,Penicillin,179,65
+393,Herr,Hinkley,M,1988-07-24,Hamilton,ON,ASA,194,98
+394,Buzz,Vajda,M,2007-08-29,Stoney Creek,ON,,137,62
+395,James,Ichi,M,2002-04-08,Hamilton,ON,Sulfa,196,89
+396,Rick,Mowbray,M,1990-09-24,Ajax,ON,,201,123
+402,Tony,Smith,M,1967-12-23,Sarnia,ON,Penicillin,214,95
+403,Miles,McClure,M,1979-06-08,Hamilton,ON,Penicillin,210,116
+409,Julius,Montalbano,M,2007-06-08,Delhi,ON,,127,60
+412,Simon,Dresden,M,1998-05-12,Stoney Creek,ON,Valporic Acid,220,125
+413,Lonnie,Bulstrode,M,2013-08-25,Kingston,ON,Penicillin,80,27
+414,Rob,Mackey,M,1958-09-05,Stoney Creek,ON,Tylenol,187,84
+415,John,Hill,M,1987-11-30,Hamilton,ON,Sulfa,195,104
+420,Velu,Galv n,M,2016-03-25,Walnut Grove,AB,,59,15
+421,Eben,Quest,M,1995-10-20,Hamilton,ON,,143,78
+424,Richard,Wyatt,M,1954-08-23,Marcam,ON,,188,101
+425,Barney,Smith,M,1948-09-20,Hamilton,ON,,162,68
+429,John,Grissom,M,1957-07-17,Waterford,ON,,215,126
+430,Grant,Halliwell,M,2004-07-30,Marcam,ON,Penicillin,175,73
+431,Miles,Quince,M,1982-07-10,Hamilton,ON,Tylenol,166,127
+432,Jeff,Powers,M,1984-10-02,Pickering,ON,ASA,150,83
+433,Adam,Hecatonchires,M,1959-02-18,Hamilton,ON,Penicillin,162,75
+434,Nicky,Shimura,M,2011-07-17,London,ON,,92,39
+436,Gil,Sigel,M,1962-08-15,Burlington,ON,,146,70
+437,Gordon,Swift,M,1977-01-01,Winona,ON,,192,115
+439,Licio,Lupertazzi,M,1999-11-14,Stoney Creek,ON,Penicillin,127,88
+440,Pablo,Treskovna,M,1994-09-16,Hamilton,ON,,157,60
+442,Mickey,Heath,M,1963-10-16,Brantford,ON,Penicillin,176,99
+444,Marvin,Jaffe,M,1992-05-10,Orangeville,ON,,215,112
+445,Wayne,Neutron,M,1987-04-11,Hamilton,ON,Penicillin,170,92
+448,Wellington,Torres,M,1992-08-17,Guelph,ON,Penicillin,192,122
+451,Peter,PiNeiro,M,2009-10-08,Dunnville,ON,,123,44
+452,Vincent,Blackwood,M,1982-06-17,Hamilton,ON,Penicillin,165,71
+453,Milo,Holliwell,M,1989-02-16,Red River,MB,Penicillin,166,74
+456,Beppe,Sigel,M,1955-01-26,Hamilton,ON,,159,78
+457,Nero,Archer,M,2004-07-12,Brantford,ON,Penicillin,186,75
+458,Joseph,Miller,M,1991-02-11,Hamilton,ON,,150,87
+459,Mickey,Drama,M,1967-07-17,Toronto,ON,Penicillin,190,110
+460,Gerard,Holloway,M,1939-03-22,Hamilton,ON,,194,126
+465,Luis,Rosenberg,M,1993-05-20,Calgary,ON,,180,122
+467,Louie,Wong,M,2011-09-16,Delhi,ON,Penicillin,122,46
+468,Frank,Anderson,M,2009-06-16,Hamilton,ON,Penicillin,137,43
+472,Ethan,Maureen,M,1993-02-02,London,ON,Penicillin,179,120
+473,Roderick,Eckhart,M,1966-06-19,Windsor,ON,Tylenol,178,103
+474,John,Olsen,M,1985-07-17,Stoney Creek,ON,,220,106
+478,Tom,Pike,M,1975-12-03,Dunnville,ON,,142,89
+481,Tom,Lovegood,M,1971-11-27,Toronto,ON,Penicillin,148,80
+482,Teddy,Melinda,M,2008-11-14,Hamilton,ON,,152,59
+484,Ismael,Brearly,M,1992-10-13,Hamilton,ON,,202,112
+485,Dominic,Poppins,M,1971-02-18,Red River,MB,,190,108
+486,Tony,Lamb,M,1992-05-10,Burlington,ON,,191,124
+487,Kurt,Sanderson,M,1964-08-17,Toronto,ON,Sulfa,192,109
+489,Hercule,Kuramitsu,M,1995-12-31,Hamilton,ON,,192,126
+491,Herb,Bloom-Wood,M,1994-05-15,Hamilton,ON,,178,102
+492,David,White,M,1997-07-01,Hamilton,ON,Penicillin,156,87
+496,Spiros,Mangel,M,1998-12-13,Oakville,ON,Sulfa,177,131
+497,Louie,Sydnor,M,2014-05-05,Toronto,ON,,81,26
+498,Morgan,Brennan,M,1991-11-23,Hamilton,ON,Bee Stings,174,60
+501,Otis,Forbin,M,1997-04-24,Hamilton,ON,Sulfa,170,113
+504,Michael,Flood,M,1981-11-07,Hamilton,ON,Codeine,172,101
+505,Oliver,Corneo,M,1950-07-27,Dunton,ON,,160,81
+508,Mac,Noble,M,2001-08-30,Pickering,ON,Cheese,211,83
+510,Constantin,Hughes,M,1958-02-09,St. Catharines,ON,,153,70
+511,Morgan,Soong,M,1963-05-30,Hamilton,ON,,186,118
+514,Sonny,Scott,M,2009-04-02,Hamilton,ON,,134,51
+516,Marty,Cropper,M,1982-10-06,Stoney Creek,ON,,196,98
+518,Marid,Unser,M,1951-05-20,Halifax,NS,Penicillin Environmental,128,78
+519,Rory,Deth,M,1962-09-25,Hamilton,ON,,203,111
+520,Cy,Kasen,M,1978-08-09,Grimsby,ON,Penicillin,188,128
+521,Donald,Maine,M,1959-01-01,Hamilton,ON,,174,77
+523,Max,Wilson,M,1972-01-04,Sarnia,ON,,157,74
+525,Kymani,Winters,M,1973-09-25,Hamilton,ON,Penicillin,186,113
+527,Norbert,Strange,M,2015-07-29,Oakville,ON,,59,17
+530,Kingo,Haruko,M,2012-11-20,Hamilton,ON,Penicillin,99,39
+531,Cy,Ferguson,M,1985-03-28,Niagara Falls,ON,,185,91
+533,Moe,Russo,M,1976-08-09,Hamilton,ON,,198,107
+534,Don,Zatara,M,2008-01-11,Timmins,ON,,136,67
+535,Bill,Erin,M,1969-08-04,Sarnia,ON,Iodine,182,100
+537,Harry,Harkness,M,1993-03-30,Hamilton,ON,,171,72
+538,Thomas,Pike,M,1956-11-26,Ottawa,ON,Penicillin,152,91
+539,Dan,Boddicker,M,1962-01-20,Burlington,ON,,164,115
+540,Phil,Manu,M,1963-06-30,Toronto,ON,,137,91
+541,Sean,Rivers,M,2004-04-28,Barrie,ON,Sulfa Drugs,178,64
+542,Rosco,Brockman,M,1990-06-04,Hamilton,ON,Tetracycline,202,99
+543,Vincent,Rooney,M,1998-02-26,Burlington,ON,,187,121
+544,Cash,Alvin,M,1979-10-01,Hamilton,ON,,198,121
+545,Mickey,Swanson,M,1973-03-03,Hamilton,ON,,174,107
+546,Robert,Daggett,M,1999-09-24,Hamilton,ON,Tetracycline,163,68
+547,Avon,Travis,M,1983-07-05,Hamilton,ON,Penicillin,202,103
+548,Tsunayoshi,Cammeniti,M,1992-11-24,Hamilton,ON,Wheat,157,81
+549,Marcus,Jackson,M,1990-02-21,Toronto,ON,Codeine,190,108
+551,Gregory,White,M,1969-12-11,Hamilton,ON,Penicillin,189,94
+556,Bill,Watson,M,1963-03-01,St. Johns,NL,,221,111
+558,Callum,Toombs,M,1953-12-11,Hamilton,ON,,200,99
+559,Harry,Parkinson,M,2017-06-23,Vancouver,BC,,45,7
+560,Hal,Travis,M,1993-11-16,Athens,ON,,199,100
+561,Anthony,Robert,M,1965-07-02,Kelowna,BC,Codeine,170,69
+562,Gary,Graf,M,1988-02-20,St. Catharines,ON,,202,120
+563,Geordi,Kiriakis,M,1970-09-23,Montreal,QC,Penicillin,183,93
+565,Art,Wycliffe,M,1975-07-17,Hamilton,ON,,190,118
+566,Basil,Kolchak,M,1965-12-01,Hamilton,ON,,189,112
+567,Robin,Hightower,M,1968-08-25,Oakville,ON,Penicillin,146,67
+570,Boris,Krueger,M,1953-03-10,Hamilton,ON,Penicillin,212,131
+573,Martin,Arden,M,1959-10-24,Windsor,ON,,194,115
+578,George,Magliozzi,M,2013-12-03,Burlington,ON,Seafood,86,31
+579,Emil,Owens,M,2006-08-26,Ottawa,ON,Penicillin,167,57
+580,Michael,Klump,M,1956-09-30,Burlington,ON,Salicylic Acid,163,122
+582,Ryan,Umbridge,M,1982-06-20,Burlington,ON,,166,100
+584,Juan,Davies,M,1994-06-25,Cambridge,ON,Morphine,181,103
+587,Byron,Briscoe,M,2016-12-25,Victoria,BC,,48,12
+589,Peter,Hajime,M,2018-01-07,Hamilton,ON,,48,9
+593,Troy,Stone,M,2013-05-14,Toronto,ON,Pet Hair,78,26
+595,Thomas,Clover,M,1959-08-15,Hamilton,ON,,155,58
+596,Barry,Cooper,M,1962-01-30,Burlington,ON,,166,65
+599,Art,Franklin,M,1997-08-25,Hamilton,ON,Penicillin,162,64
+600,Brian,Sullivan,M,1948-08-10,Milton,ON,,220,115
+601,William,Purbright,M,2004-02-06,Ancaster,ON,,178,78
+604,Brut,Burbank,M,1986-11-20,Calgary,ON,Penicillin,158,79
+605,Adam,Piquel,M,1968-10-28,Misty,AB,,160,64
+608,Joey,White,M,2007-09-16,Oakville,ON,Penicillin,130,58
+609,Mickey,Carling,M,1968-05-02,Simcoe,ON,,143,64
+610,Jeffrey,McGrath,M,1964-09-16,Cambridge,ON,Codeine,177,112
+611,Elvis,Whale,M,1952-08-14,Hamilton,ON,,209,106
+612,Milo,Yarby,M,2006-07-17,Burlington,ON,,170,64
+613,Jaki,Granger,M,1984-08-07,Simcoe,ON,Erythromycin,134,74
+616,Will,Provenza,M,1979-06-27,Toronto,ON,,191,98
+617,Arjen,Punchinello,M,2013-11-27,Hamilton,ON,,76,28
+619,Anthony,Kingdom,M,1965-07-17,Mississauga,ON,,214,111
+620,Carmine,Greene,M,1997-11-26,Hamilton,ON,,147,75
+624,Ted,Owens,M,2007-05-23,Grimsby,ON,,147,65
+625,Alan,Hardbroom,M,1986-05-12,Hamilton,ON,,169,120
+627,Andy,Vale,M,1963-02-16,Guelph,ON,Sulfa,200,121
+628,Morgan,Garibaldi,M,2012-05-25,Dunton,ON,Penicillin,75,40
+629,Spiros,Heiji,M,2004-07-20,Hamilton,ON,,174,72
+631,Art,Appleton,M,1988-12-07,Brampton,ON,Penicillin,170,75
+632,Paulie,Dieudonne,M,1988-05-08,Walnut Grove,AB,Penicillin,148,70
+633,William,Allen,M,1986-11-07,Hamilton,ON,Penicillin,181,119
+634,Harry,Travers,M,1971-04-30,Hamilton,ON,,159,62
+635,Rob,Barton,M,1991-06-17,Peterborough,ON,Penicillin,149,59
+637,Clark,Smyth,M,1957-07-26,Hamilton,ON,Penicillin,164,73
+639,Ottilio,Burrell,M,1984-07-18,Hamilton,ON,Penicillin,175,86
+640,Raymond,Cherrytree,M,1991-06-10,Brantford,ON,Penicillin Sulpha Drugs,172,86
+646,Frank,Dalma,M,1966-06-13,Port Dover,ON,Peanuts,191,101
+648,Stanislaus,Schibetta,M,1993-10-05,Walnut Grove,AB,,174,67
+650,Holt,Randall,M,2008-03-02,Pickering,ON,Strawberries,146,58
+651,Ricky,Clericuzio,M,1953-08-21,Ancaster,ON,,169,76
+652,Leland,Molly,M,1972-04-08,Red River,MB,,217,94
+653,Andy,Weasley,M,1985-12-08,Hamilton,ON,Wheat,197,104
+654,Drogulous,Halliwell,M,1955-01-12,Carisle,ON,,201,118
+655,Peter,Khan,M,2016-10-13,Hamilton,ON,,57,15
+656,Dominic,Toombs,M,1989-12-21,Hamilton,ON,,180,81
+657,Carlos,Jason,M,1972-03-08,Brampton,ON,,172,106
+659,Sonny,Kirk,M,1988-04-10,Calgary,ON,,138,73
+663,Joe,Vitti,M,1948-07-07,Hamilton,ON,,160,58
+666,Jack,Henderson,M,1964-10-19,Hamilton,ON,,146,87
+668,Signor,Selden,M,2001-05-14,Hamilton,ON,,204,89
+670,Stanley,Hinkley,M,1987-11-12,Toronto,ON,Elastoplast,152,67
+672,Ben,Dalziel,M,1948-08-19,Timmins,ON,,129,71
+673,Knox,Rocco,M,1986-10-25,Burlington,ON,Penicillin,158,72
+674,Pardot,Smart,M,1960-05-15,Hamilton,ON,,208,121
+675,Daniel,Shore,M,1988-05-26,Red Deer,AB,,145,71
+676,Bruce,Brockman,M,2007-09-19,Orillia,ON,Salicylic Acid,131,57
+678,Leonard,Taylor,M,1979-08-07,Hamilton,ON,,163,80
+680,Giacomo,Carver,M,1949-05-13,Burlington,ON,,160,83
+681,Adam,Sugden,M,1972-11-05,Hamilton,ON,,144,74
+682,Carl,Sheldon,M,1967-02-15,Burlington,ON,Erythromycin,165,67
+684,Uri,Falcon,M,1951-03-08,Paris,ON,Morphine,165,85
+686,Ichabod,Tura,M,1952-09-12,Peterborough,ON,,157,75
+687,Phil,Sanchez,M,1971-09-15,Halifax,NS,Iodine,139,72
+688,Donald,Arturo,M,1983-07-24,Hamilton,ON,Codeine,149,68
+689,Paul,Wolfe,M,1962-10-01,Cambridge,ON,,160,76
+690,Jason,Baasha,M,2011-05-10,Hamilton,ON,Penicillin,98,35
+692,Gary,Hufflepuff,M,1956-09-12,Hamilton,ON,,148,68
+694,Bill,Vallance,M,1991-07-10,Hamilton,ON,,207,107
+697,David,Snyder,M,2011-05-02,Dundas,ON,,109,32
+698,Don,Khan,M,1971-08-03,Hamilton,ON,Penicillin,182,118
+699,Donald,Crowley,M,1983-03-26,Windsor,ON,Codeine,142,64
+700,Giacomo,Waterfield,M,1992-04-10,Montreal,QC,Penicillin,166,78
+702,Signor,Forelli,M,2005-04-28,Hamilton,ON,,177,63
+704,Ismael,Jonas,M,2000-06-19,Hamilton,ON,,182,79
+705,Eben,Corneo,M,2008-11-23,Toronto,ON,,146,58
+706,Joey,Hammer,M,1970-09-10,Paris,ON,,176,67
+707,Dirk,Castang,M,1969-04-14,Hamilton,ON,Penicillin,129,65
+708,Bruce,Corleone,M,1989-12-06,Hamilton,ON,,187,118
+711,Harold,Ichi,M,1979-06-26,Dundas,ON,Penicillin,193,111
+714,Henry,Rebus,M,1956-07-24,Grimsby,ON,Penicillin,154,73
+718,Jake,Owens,M,2014-01-07,Brantford,ON,,84,27
+719,Hal,Cooper,M,2015-01-24,Red River,MB,Bee Stings,82,26
+722,Brut,Schorr,M,1992-08-08,Hamilton,ON,Penicillin,172,94
+723,Henry,Fairweather,M,1978-05-13,Burlington,ON,Penicillin Sulpha Drugs,203,100
+726,Richard,Appleton,M,1963-11-15,Toronto,ON,ASA,155,80
+729,Woodsy,Crane,M,1960-01-05,Hamilton,ON,,176,121
+730,David,Milo,M,2016-03-14,Ottawa,ON,Penicillin,52,13
+731,Will,Harvey,M,1993-09-15,Burlington,ON,Penicillin,170,100
+732,Bo,Halliwell,M,1990-11-03,Cambridge,ON,,214,123
+733,Roderick,Landsman,M,1966-04-14,Hamilton,ON,Codeine,202,105
+735,Carl,Drake,M,2010-04-20,Stoney Creek,ON,Sulfa,120,41
+736,Paulie,OMalley,M,1984-11-05,Hamilton,ON,Penicillin,208,125
+741,Alex,Wesley,M,1990-06-18,Hamilton,ON,,184,118
+742,Paul,Smyth,M,1994-07-26,Hamilton,ON,Peanuts,168,116
+743,Gary,Bardo,M,2006-12-21,Hamilton,ON,,156,65
+746,Reginald,Barnaby,M,1996-12-12,Victoria,BC,,155,82
+747,Michael,Pratt,M,1972-11-02,Ancaster,ON,,190,109
+748,Marvin,Yurinov,M,1969-04-10,Hamilton,ON,,146,64
+750,Stanley,Abruzzi,M,2000-11-10,Hamilton,ON,,180,119
+752,Ronnie,Maxwell,M,2011-07-16,Elmira,ON,,106,40
+753,Donald,Corleone,M,2016-07-01,Hamilton,ON,,56,15
+760,Bruce,Castang,M,1973-10-18,Hamilton,ON,,153,72
+763,Don,Justice,M,1994-08-23,Toronto,ON,Penicillin,196,124
+764,Billy,Vimes,M,1980-11-01,Delhi,ON,Penicillin,180,125
+766,Joseph,Ferguson,M,1993-04-15,London,ON,,206,118
+767,Kirk,Trent,M,1983-01-17,Milton,ON,,173,117
+769,Ernie,Dyson,M,2005-12-15,Brantford,ON,,149,59
+771,Axel,Norris,M,1952-12-20,Hamilton,ON,Iodine,144,77
+772,Tom,Knight,M,1963-03-18,Brantford,ON,,169,85
+773,Sam,Haruko,M,1982-12-12,Hamilton,ON,Peanut Oil,226,121
+777,Matt,Righetti,M,1982-07-21,Hamilton,ON,Penicillin Environmental,217,117
+781,Hank,Parker,M,1969-01-03,Hamilton,ON,Sulphur,171,112
+784,Avon,Dalgliesh,M,2008-08-20,Hamilton,ON,Tetracycline,137,54
+786,Mike,Hamilton,M,1971-05-22,Hamilton,ON,Sulfa,160,66
+787,Julian,Fuyutsuki,M,2002-11-26,Hamilton,ON,,186,85
+792,Jake,Alvin,M,2003-04-27,Hamilton,ON,,187,80
+795,Dale,Kuramitsu,M,1978-04-17,Oakville,ON,Penicillin,181,98
+797,Jerry,Greener,M,1990-07-20,Hamilton,ON,,190,97
+799,John,Spuckler,M,2002-08-05,Sarnia,ON,,209,82
+800,Daniel,Cole,M,1980-03-05,Stoney Creek,ON,,175,121
+801,Christopher,Bigelow,M,1984-02-12,Timmins,ON,Penicillin,189,113
+802,Leo,Fowler,M,2001-03-22,Red River,MB,Peanuts,209,93
+804,V ctor,Moss,M,1978-10-24,Burlington,ON,,175,60
+806,Grant,Cragge,M,1999-06-22,Paris,ON,Penicillin,198,106
+808,Sam,Sugden,M,2007-05-04,Barrie,ON,ASA,133,53
+809,Tom,Fanucci,M,1998-10-09,Hamilton,ON,,187,132
+811,Henry,Martin,M,1961-12-18,Sarnia,ON,,192,116
+813,Cliff,Cusack,M,1996-01-22,St. Catharines,ON,,169,78
+814,Vijay,Stein,M,2006-01-20,Burlington,ON,ASA,172,70
+816,John,Jenkins,M,1989-06-23,Hamilton,ON,,196,102
+818,Evan,Cortez,M,2010-12-24,Burlington,ON,,108,35
+819,Harry,Goodspeed,M,2012-03-03,Hamilton,ON,Penicillin,80,41
+820,Holt,Reed,M,1994-07-13,Hamilton,ON,Penicillin,167,86
+821,Nero,Jacobs,M,2011-09-14,Hamilton,ON,,102,38
+824,Paul,MacLeod,M,1978-02-10,Hamilton,ON,Almonds,204,119
+825,Javier,Jordan,M,2001-12-29,Milton,ON,,183,79
+826,Kiranin,Parkinson,M,1987-01-17,Hamilton,ON,,206,124
+827,Samuel,Littlefield,M,2008-11-18,Brantford,ON,,128,52
+833,Charles,Banks,M,1967-10-14,Stoney Creek,ON,Hay Fever,163,81
+835,Joe,Strepfinger,M,2012-05-05,Paris,ON,,89,39
+837,Stephen,Cochrane,M,1954-01-25,Hamilton,ON,,149,68
+840,Shiro,Lin,M,2005-11-24,Hamilton,ON,Codeine,155,65
+842,Tracy,French,M,1954-01-26,Burlington,ON,Penicillin,199,118
+843,Tem,Mangel,M,1981-05-12,Port Dover,ON,Codeine,176,73
+846,Timmy,Steiger,M,1991-03-29,Burlington,ON,Penicillin,215,119
+847,Wayne,Stewart,M,2009-08-17,Hamilton,ON,,134,47
+848,Oliver,Michaels,M,1994-07-16,Hepworth,ON,Penicillin,195,111
+851,David,Kennedy,M,2011-01-10,Walnut Grove,AB,Iodine,113,37
+854,Tugg,Sydnor,M,2003-12-11,Ancaster,ON,Codeine,201,86
+855,Kurt,Willis,M,2012-06-14,Hamilton,ON,,110,29
+856,Eddie,Peroni,M,1963-03-30,Hamilton,ON,,181,99
+857,Ian,Leigh,M,1967-03-03,Troy,ON,,168,106
+863,Cross,Kiriakis,M,2010-11-09,St. Johns,NL,,125,41
+865,Tim,Miller,M,1985-06-25,Stoney Creek,ON,,161,79
+868,Kazuki,Patil,M,1977-09-12,Toronto,ON,Sulfa Drugs,209,114
+869,Jonathan,Prefect,M,1963-12-13,Waterford,ON,Penicillin,163,73
+871,Kyle,Sanderson,M,2011-06-20,Hamilton,ON,Penicillin,96,34
+873,Langdale,Cole,M,1948-04-26,Thunder Bay,ON,,183,57
+875,Bryan,Calculus,M,2012-02-24,Kingston,ON,Wheat,91,30
+876,Jaki,Maroni,M,1957-08-11,Orangeville,ON,,205,104
+881,Phil,Peabody,M,1975-08-25,Kingston,ON,Penicillin,159,76
+883,Peter,Lane,M,1950-10-06,Hamilton,ON,Tape,208,113
+884,Howard,Cortez,M,1977-06-16,Hamilton,ON,,193,92
+885,Tex,Robert,M,1974-12-04,Victoria,BC,Iodine,181,77
+886,Tony,Crusher,M,1992-07-06,Hepworth,ON,Almonds,175,81
+887,Gregory,Lockwood,M,2018-05-07,Hamilton,ON,Penicillin,37,6
+888,Dale,Sigel,M,1963-09-18,Hamilton,ON,,188,93
+891,Moe,Smith,M,1996-09-11,Hamilton,ON,,162,83
+892,Henry,Stewart,M,1975-06-23,Ajax,ON,Penicillin,167,81
+895,Mendy,Farrell,M,2010-09-21,Hamilton,ON,,120,48
+896,Tugg,Travis,M,1983-07-09,Ancaster,ON,Morphine,156,78
+897,Kevin,Bonasera,M,2009-05-10,Pickering,ON,,126,39
+899,Simon,Brown,M,1980-09-10,Hamilton,ON,Wheat,167,74
+900,Marcus,Garrick,M,1994-08-17,Hamilton,ON,Penicillin,153,68
+901,Santiago,Lake,M,2006-05-18,Oakville,ON,Penicillin,171,73
+902,Nero,Baldi,M,1961-02-09,Hamilton,ON,,143,73
+904,Marvin,Foyle,M,1949-08-27,Brantford,ON,Penicillin,185,96
+905,Shane,Fraser,M,1958-12-23,Hamilton,ON,Penicillin,207,102
+909,Richard,Real,M,2013-12-29,Hamilton,ON,Penicillin,73,21
+910,Jake,Adebisi,M,1988-04-16,Hamilton,ON,ASA,203,101
+913,Manick,Archer,M,2004-10-01,Toronto,ON,,195,74
+916,Jake,Schrader,M,1969-01-06,Hamilton,ON,Penicillin,167,91
+918,Jay,Hastings,M,2011-03-23,Windsor,ON,Penicillin,99,38
+922,Carmine,Hunter,M,1981-10-21,Hamilton,ON,,196,115
+924,Simon,Spellman,M,2015-11-17,Hamilton,ON,Codeine,73,20
+925,Dion,Vincent,M,1987-06-23,Toronto,ON,,155,79
+926,Bruno,Sugden,M,1979-01-28,Hamilton,ON,Penicillin,173,124
+927,Matthew,Costigan,M,1973-05-25,Hamilton,ON,Sulfa,175,65
+928,Charles,Gonzales,M,1997-12-29,Hamilton,ON,Penicillin,204,110
+929,Leslie,Uzuki,M,1977-06-22,Red River,MB,,185,103
+930,Bunk,Swift,M,1979-04-20,Hamilton,ON,,200,113
+931,David,Heath,M,2011-03-07,Toronto,ON,Codeine,100,39
+934,John,Daniels,M,1965-07-16,Hamilton,ON,Peanut Butter,143,79
+935,Antonio,Crockett,M,1955-03-02,Barrie,ON,,161,60
+936,Gary,Shimura,M,1974-08-24,Hamilton,ON,,159,82
+940,Marid,Sanada,M,1954-10-30,Northbay,ON,,153,70
+943,Ottilio,McNulty,M,2016-02-28,Hamilton,ON,,59,16
+948,Al,Edwards,M,1982-02-04,Ottawa,ON,,185,114
+951,Walter,Morgan,M,1956-02-23,Toronto,ON,Sulfa Drugs,194,101
+952,Haley,Crusher,M,1966-05-20,Hamilton,ON,Sulphur,169,82
+953,Troy,Lionel,M,1955-12-11,Toronto,ON,,198,115
+956,Joe,Dingle,M,1973-06-08,Hamilton,ON,,196,92
+958,Carl,Gordon,M,1998-08-27,Burlington,ON,Codeine,183,115
+959,Chucky,Skilbeck,M,2017-08-11,Dundas,ON,,38,6
+963,Paul,Leotardo,M,1979-07-23,Hamilton,ON,,171,70
+964,Sal,Larsen,M,1978-05-05,Brampton,ON,,175,132
+969,Jack,Argyros,M,2009-01-07,Toronto,ON,Tape,126,60
+970,Jonathan,Willing,M,2013-08-08,Hamilton,ON,,85,26
+972,Oliver,Hughes,M,1993-04-21,Toronto,ON,,186,80
+973,Abraham,Crandall,M,2000-04-24,Beaverton,ON,Penicillin,212,102
+974,Cash,Cunningham,M,1995-04-09,Bartonville,ON,Codeine,204,124
+975,Sam,Vitoller,M,2017-12-06,Hamilton,ON,,33,3
+976,Eddie,Elgin,M,1956-02-16,Simcoe,ON,Milk,178,110
+979,Neil,Wildhack,M,1966-04-21,Toronto,ON,Penicillin,150,71
+983,Alejandro,Greener,M,2012-05-03,Hamilton,ON,Penicillin,77,36
+985,Wade,Hill,M,1949-06-25,Hamilton,ON,,214,100
+988,Alberto,Walker,M,1996-03-13,Thunder Bay,ON,,202,124
+993,Gregory,Barnes,M,1978-11-14,Dunton,ON,,212,115
+994,John,Lang,M,1971-06-12,Hamilton,ON,Penicillin,163,121
+996,David,Rook,M,1949-01-29,Orangeville,ON,,170,56
+998,Bruce,Lawson,M,1999-07-18,Cambridge,ON,,134,70
+1000,Rick,Williams,M,1975-04-13,Hamilton,ON,Penicillin,176,127
+1003,Keith,MacLean,M,1961-03-05,Hamilton,ON,,202,119
+1004,Willie,Wolf,M,2010-01-23,Hepworth,ON,Valporic Acid,108,44
+1005,Alan,Xavier,M,1960-04-13,Cayuga,ON,Penicillin,173,81
+1006,Gary,Harkness,M,2003-11-07,Brantford,ON,ASA,189,79
+1010,Jack,Colon,M,2003-06-05,Troy,ON,Codeine,192,77
+1011,Marid,Vaughn,M,1987-08-13,Toronto,ON,Penicillin,158,61
+1012,Obidiah,Maxime,M,1957-03-31,Delhi,ON,Codeine,174,121
+1017,Santino,Barillo,M,2017-04-23,Hamilton,ON,Codeine,49,10
+1019,Robert,Mars,M,1998-06-20,Burlington,ON,Penicillin,189,108
+1020,Johnny,Antony,M,2004-10-01,Ancaster,ON,,170,75
+1022,Wendell,Hunt,M,1952-11-06,Hamilton,ON,Penicillin,157,68
+1023,Velu,ONeill,M,2003-02-20,Hamilton,ON,,183,81
+1025,David,Gently,M,1969-01-26,Hamilton,ON,Tetracycline,197,126
+1026,Dusty,Manu,M,1965-11-03,Hamilton,ON,,200,109
+1027,Ben,Tate,M,1953-11-24,Burlington,ON,,188,113
+1029,Joel,Orville,M,2003-11-16,Hamilton,ON,Penicillin,184,71
+1030,Sam,Wilson,M,1999-05-19,Hamilton,ON,,192,109
+1031,Calvin,McGee,M,1950-11-01,Niagara Falls,ON,,137,64
+1036,Fred,Osborne,M,2012-08-03,Dunton,ON,,77,35
+1037,Eddie,Cole,M,1952-01-23,Hamilton,ON,Penicillin,204,112
+1038,Jonah,McCoy,M,1963-10-06,Fruitland,ON,,193,100
+1040,Tochiro,Riviera,M,1956-04-17,Ancaster,ON,,190,129
+1043,Franz,Morris,M,2011-12-05,Hamilton,ON,,115,29
+1046,Bo,Wallenquist,M,1969-12-02,Hamilton,ON,,186,130
+1048,Jeff,Thornton,M,1991-07-28,Brantford,ON,,208,106
+1049,Will,Holliwell,M,1938-10-06,Bancroft,ON,Codeine,160,74
+1051,Tom,Jenkins,M,2017-05-11,Hamilton,ON,Penicillin,52,10
+1052,Seto,Malvern,M,1949-10-01,Hamilton,ON,Codeine,171,124
+1057,Charlie,Martin,M,1977-12-14,Hamilton,ON,Codeine,173,67
+1058,Morgan,Webber,M,1972-01-01,Hamilton,ON,,180,63
+1059,Hecky,Cragen,M,2006-05-11,Guelph,ON,,146,65
+1061,Norbert,Larsen,M,2010-04-11,Toronto,ON,Iodine,126,41
+1064,Luke,Taylor,M,1966-11-20,Peterborough,ON,Penicillin,137,81
+1065,Manick,Cao,M,1952-03-19,Hamilton,ON,,153,57
+1069,Benjamin,Flood,M,1955-08-22,Stoney Creek,ON,,216,110
+1070,Jackson,Kennedy,M,1956-01-17,Toronto,ON,Sulfa Drugs,151,69
+1073,Hal,Thorndyke,M,1949-07-18,Halifax,NS,,191,113
+1074,Tony,Baily,M,1991-09-08,Montreal,QC,,187,114
+1076,Cash,Haruko,M,1950-03-15,Milton,ON,Iodine,200,124
+1077,Franz,Melinda,M,1966-07-28,Mississauga,ON,,173,79
+1078,Joe,Kennedy,M,1976-11-06,Dundas,ON,,210,106
+1079,Carmine,Klump,M,1949-12-18,Hamilton,ON,,202,103
+1081,Emilio,Maureen,M,1980-08-19,Burlington,ON,,209,128
+1085,Alphonse,Carver,M,1979-11-18,Burlington,ON,Sulfa,198,101
+1087,Phil,Capone,M,1961-09-11,Hamilton,ON,,140,86
+1088,Tobias,Guerrard,M,1951-07-25,Burlington,ON,,163,85
+1089,Salvatore,Pond,M,1998-10-21,Burlington,ON,Milk,198,133
+1092,Vic,Glicker,M,2006-01-06,Hamilton,ON,,162,57
+1093,John,Kojak,M,2009-06-07,Cambridge,ON,Sulfa,111,52
+1094,Nick,Andrews,M,2010-05-02,Hamilton,ON,Penicillin,95,36
+1095,James,Harrison,M,2000-05-30,Orangeville,ON,Sulfa,139,81
+1099,Perry,Bradley,M,1955-08-02,Hamilton,ON,,146,79
+1100,Roderick,Bottom,M,1995-06-15,Caledonia,ON,Cheese,186,126
+1101,Jabba,Purbright,M,1964-11-22,Hamilton,ON,Penicillin,125,79
+1103,Aniki,Arden,M,1970-06-18,Burlington,ON,Penicillin,180,68
+1104,James,Cortez,M,2000-10-08,Ancaster,ON,,147,59
+1105,Frank,Maine,M,1958-11-01,Waterford,ON,Tetracycline,165,78
+1106,Al,Hardy,M,1950-10-24,Port Hawkesbury,NS,Pork,179,109
+1109,Raymond,Mallory,M,1985-08-01,Hamilton,ON,Tetracycline,169,68
+1111,Enos,Sanderson,M,1969-04-09,Hamilton,ON,Bee Stings,175,119
+1112,Avery,Fidelma,M,1968-01-20,Burlington,ON,,198,104
+1114,Simon,Kammerer,M,1966-05-10,Burlington,ON,,171,89
+1118,Jefferson,Brockman,M,1967-07-18,Toronto,ON,Valporic Acid,201,114
+1119,Anthony,Challis,M,1958-05-20,Ancaster,ON,,190,92
+1121,Sherlock,Sidle,M,1936-08-14,Hamilton,ON,Tylenol,179,101
+1124,Jack,Garlick,M,1997-11-02,Brampton,ON,Penicillin,200,98
+1127,Jay,Munroe,M,1994-03-26,Hamilton,ON,Penicillin,164,85
+1128,Jimmy,Serrano,M,1987-10-22,Brampton,ON,,161,75
+1129,Don,Poppins,M,2007-08-27,Brantford,ON,,159,60
+1130,Alex,Soze,M,2002-08-09,Mississauga,ON,Penicillin,196,86
+1132,Angelo,Rosenberg,M,2012-09-17,Hamilton,ON,Salicylic Acid,87,33
+1138,Theo,Parkinson,M,2017-11-22,Oshawa,ON,Penicillin,44,7
+1141,Roman,Gordon,M,2002-02-07,Stoney Creek,ON,,190,81
+1143,Edward,Martin,M,1996-06-09,Milton,ON,Tylenol,133,63
+1146,Matt,Sanderson,M,1989-07-30,Hamilton,ON,,142,69
+1147,Harold,Weber,M,2009-12-21,Timmins,ON,,131,53
+1148,Tom,Martin,M,1973-07-21,Burlington,ON,Penicillin,151,75
+1151,Anthony,Carter,M,1956-06-13,Burlington,ON,Penicillin,175,111
+1153,Moses,Thackeray,M,1968-12-20,Hamilton,ON,Tape,148,77
+1156,Jiji,Guerrero,M,2007-07-03,Burlington,ON,Penicillin,148,59
+1159,Carmine,Finskter,M,1967-05-14,Simcoe,ON,Tylenol,181,98
+1160,Truman,Mancini-Corleone,M,1992-11-03,Hamilton,ON,,155,62
+1163,Nick,Lopez-Fitzgerald,M,1964-05-21,Hamilton,ON,,168,80
+1164,David,Lonnegan,M,1973-05-21,Hamilton,ON,Sulphur,154,69
+1165,Spenser,McKay,M,2011-10-08,Toronto,ON,Sulfa,105,37
+1167,Woody,Wallace,M,1977-06-21,Hamilton,ON,,132,59
+1169,Thomas,Falcone,M,2006-05-30,Hamilton,ON,Codeine,147,71
+1170,Pat,Halliwell,M,1973-08-05,Hamilton,ON,Penicillin,165,68
+1172,Ned,Thackeray,M,2012-07-18,Hepworth,ON,Penicillin,73,29
+1175,Lucky,Crane,M,1994-11-28,Fruitland,ON,,161,77
+1181,William,Kent,M,1955-08-15,Halifax,NS,,163,110
+1182,Vinnie,Fraser,M,1963-02-18,Brantford,ON,Penicillin Sulpha Drugs,152,85
+1183,Lester,Nash,M,2008-03-01,Hamilton,ON,Catfood Rubber,131,51
+1185,Peter,Mannheim,M,2002-01-13,Hamilton,ON,Catfood Rubber,169,88
+1186,Lucky,Deakins,M,1974-01-02,Winona,ON,Sulfa,213,104
+1187,Damon,Brennan,M,1950-12-04,Hamilton,ON,,212,107
+1188,Tulio,Napoli,M,2003-11-01,Hamilton,ON,,181,78
+1189,Wellington,Canlaster,M,1963-01-05,Hamilton,ON,Penicillin,200,127
+1192,Norman,Corleone,M,1971-05-22,Thunder Bay,ON,,154,68
+1194,Thomas,Morris,M,1981-04-28,Hamilton,ON,ASA,208,126
+1195,Ervin,Aran,M,1985-09-23,Red River,MB,Penicillin,195,96
+1196,James,Stillman,M,1993-03-25,Hamilton,ON,Penicillin,174,102
+1198,Danny,De Lena,M,1970-11-30,Ottawa,ON,,179,103
+1203,Emilio,Banks,M,1963-05-28,St. Catharines,ON,,176,69
+1207,Asuka,Gaucho,M,1997-10-04,Hamilton,ON,Penicillin,185,122
+1208,Avon,Tony,M,1955-07-09,Elmira,ON,Penicillin,189,120
+1211,Nino,Marley,M,2004-04-05,Red River,MB,Lactose Intolerant,169,81
+1212,Lester,Forbin,M,1960-08-27,Hamilton,ON,,161,74
+1214,Francis,Coccotti,M,1998-02-16,Toronto,ON,,163,83
+1218,Danny,Troy,M,1958-10-26,Hamilton,ON,Penicillin,168,71
+1219,Les,Morgan,M,1962-12-05,Toronto,ON,Penicillin,167,78
+1221,Sam,Carr,M,1960-05-29,Dundas,ON,Penicillin,201,110
+1222,Donald,Sisco,M,2011-01-12,Beamsville,ON,Codeine,118,43
+1231,Danny,Nichols,M,1982-05-31,Timmins,ON,Sulfa,176,75
+1232,Thomas,Lowe,M,1994-08-22,Pickering,ON,Sulfa Drugs,174,88
+1233,James,Tanner,M,1968-05-04,Hamilton,ON,Almonds,165,106
+1234,Steven,Kent,M,2018-05-02,Hepworth,ON,Lactose Intolerant,25,3
+1235,Vic,Kegedi,M,1992-11-02,Burlington,ON,Penicillin,159,58
+1240,Al,Merry,M,1964-03-26,Ancaster,ON,Codeine,178,76
+1241,Bill,Willows,M,2000-06-08,Brantford,ON,Nuts,185,110
+1243,Tony,Stephens,M,1991-03-31,Linton,ON,,130,84
+1245,Larry,Ferguson,M,1981-08-07,Hamilton,ON,,143,75
+1247,Jonathan,McAllister,M,1972-10-12,Delhi,ON,,204,102
+1248,Maxim,Trivino,M,1966-02-22,Hamilton,ON,,162,65
+1250,Gary,Neri,M,1982-05-30,Hamilton,ON,,191,112
+1252,Philip,Nolan,M,1960-12-23,Hamilton,ON,,144,77
+1255,Shion,Klump,M,1949-07-04,Hamilton,ON,,139,80
+1256,Harry,Leotardo,M,1998-09-18,London,ON,,188,131
+1258,Hal,Artisan,M,1974-10-29,Hamilton,ON,Penicillin,214,122
+1262,George,Iosefa,M,1959-11-04,Ancaster,ON,Penicillin,147,78
+1265,Joseph,Flinstone,M,1982-05-20,Halifax,NS,Iodine,133,76
+1268,Rex,Lynley,M,1981-03-23,Windsor,ON,Codeine,199,95
+1269,Marvin,Bolt,M,1987-06-18,Milton,ON,,181,94
+1270,Jimmy,Lewis,M,2007-01-10,Hamilton,ON,Penicillin,150,67
+1271,Anubis,Boxer,M,2010-10-05,Halifax,NS,Penicillin,122,40
+1272,Chris,Michaels,M,2010-11-24,Guelph,ON,Penicillin,110,38
+1273,Stanislaus,Cavanaugh,M,2015-01-20,Beaverton,ON,Penicillin,83,27
+1274,Don,Haruko,M,1984-04-18,Burlington,ON,,144,82
+1276,Steven,Urameshi,M,1994-12-05,Hamilton,ON,Penicillin,151,77
+1279,Charles,Denovitz,M,2013-10-21,Brantford,ON,,92,31
+1283,Harold,Maraschino,M,1960-09-17,Hamilton,ON,Penicillin,171,116
+1285,Theo,Garlick,M,2006-08-16,Milton,ON,,154,64
+1286,Roland,Hanover,M,1986-04-09,Hamilton,ON,,206,130
+1290,John,Cooper,M,1998-10-23,Hamilton,ON,Sulfa,214,108
+1294,Cully,Billa,M,1977-06-02,Calgary,ON,Penicillin,185,90
+1295,Elvis,Kaiser,M,1984-05-22,Burlington,ON,,147,63
+1298,Andrew,Peace,M,1962-05-02,Hamilton,ON,,192,97
+1301,Joe,Waterman,M,2012-04-22,Brampton,ON,ASA,88,35
+1302,Marid,Randall,M,1969-12-31,Hamilton,ON,Bee Stings,130,71
+1303,Roman,Banzai,M,2011-06-26,Hamilton,ON,,96,29
+1304,Van,Davenport,M,1985-12-21,Toronto,ON,Penicillin,182,115
+1306,Jack,Goren,M,1989-09-01,Oakville,ON,,155,86
+1307,Al,Travis,M,2003-10-28,Hamilton,ON,,187,72
+1309,Jimmy,Stiles,M,1968-03-26,Timmins,ON,,212,96
+1311,Tony,Milbury,M,1982-12-16,Milton,ON,,172,107
+1312,Emmett,DiGeorge,M,1960-07-27,Victoria,BC,Peanuts,181,126
+1313,Meyer,Bell,M,2008-12-29,Hamilton,ON,Penicillin,145,45
+1314,Lester,Taylor,M,2017-02-17,Hamilton,ON,,44,6
+1315,Tracy,Omovich,M,1970-10-09,Burlington,ON,Pet Hair,188,91
+1316,Don,Clouseau,M,1975-02-28,Milton,ON,,195,99
+1319,Ri,DAmato,M,1984-05-02,Hamilton,ON,Eggs,147,80
+1321,Tom,Meacham,M,1968-11-22,Troy,ON,Hay Fever,181,117
+1323,Manick,Bergman,M,2008-02-02,Hamilton,ON,Honey,163,52
+1324,Roger,Sears,M,1956-03-22,Cambridge,ON,Penicillin,172,65
+1325,Thomas,Redfield,M,1957-01-29,Stoney Creek,ON,,184,124
+1329,John,Devine,M,1979-06-19,Brantford,ON,,178,114
+1330,Jimmy,Barret,M,1976-08-22,Hamilton,ON,,153,73
+1331,Ray,Hoare,M,1996-07-02,Ottawa,ON,,172,131
+1332,Henry,Starr,M,2013-12-08,Hamilton,ON,Codeine,75,28
+1333,Lao,Elms,M,2008-05-11,Oakville,ON,,139,54
+1337,Don,Baily,M,1962-03-11,Hamilton,ON,Penicillin,163,77
+1339,Michael,Falcon,M,1993-08-25,Ottawa,ON,,146,76
+1341,Saito,Tony,M,1962-11-05,Hamilton,ON,,195,111
+1342,Jim,Grant,M,1974-12-20,Milton,ON,,209,93
+1343,Harry,Dalton,M,2008-04-18,Hamilton,ON,Sulfa,143,55
+1345,Jake,Gravelli,M,1961-08-10,Hamilton,ON,ASA,164,92
+1347,Ronnie,Mace,M,1966-12-27,Toronto,ON,Codeine,158,73
+1348,Johnny,Jackson,M,1951-09-10,Fruitland,ON,Penicillin,183,79
+1352,Frank,Mason,M,2009-05-25,Oakville,ON,Sulphur,123,39
+1353,Miguel,Whitlock,M,1963-05-02,Hamilton,ON,,189,90
+1354,Meyer,Holden,M,1957-11-22,Hamilton,ON,,175,128
+1356,Arnold,Tate,M,1997-07-15,Delhi,ON,Penicillin,184,120
+1357,Ottilio,Smirnoff,M,2006-07-07,Stoney Creek,ON,Penicillin,166,57
+1358,Hans,Yang,M,1967-05-12,Grimsby,ON,Penicillin,157,87
+1360,Alberto,Bennett,M,1974-11-27,Milton,ON,Codeine,149,71
+1361,Peter,Olivaw,M,2005-01-15,Hamilton,ON,,178,76
+1362,Achille,Travis,M,1972-05-29,Hamilton,ON,,162,59
+1364,George,Gudmundsdottir,M,1987-05-16,Edmonton,AB,,179,126
+1366,Paul,Bluenight,M,1969-08-22,Hamilton,ON,Penicillin,160,72
+1367,James,Gordon,M,1970-06-03,Hamilton,ON,Penicillin,166,130
+1368,Tubby,Sacrimoni,M,1993-11-01,Ottawa,ON,Cat Hair,195,92
+1372,Grant,Kelso,M,1999-06-24,Brampton,ON,Penicillin,184,87
+1373,James,Reilly,M,1968-06-12,Hamilton,ON,Fish,223,124
+1374,Neville,Porlock,M,1983-03-20,Carlisle,ON,Penicillin,185,128
+1375,Norman,Scott,M,1987-05-23,Hamilton,ON,Morphine,176,104
+1378,Darryl,Che,M,1962-07-22,Hamilton,ON,Peanuts,175,106
+1379,Donald,Preston,M,1982-09-09,Burlington,ON,,168,92
+1380,Don,Vargas,M,1986-12-12,Hamilton,ON,Peanut Butter,163,89
+1382,Nero,Chandler,M,1979-07-04,Hamilton,ON,,152,80
+1384,Paul,Sagdiyev,M,1994-05-16,Dunnville,ON,Penicillin,171,111
+1386,Don,Thorndyke,M,1948-06-06,Red River,MB,Codeine,191,102
+1387,Chris,Crosby,M,1955-09-10,Toronto,ON,,153,77
+1393,Vislor,Stape,M,1985-05-10,Hamilton,ON,Penicillin,189,113
+1394,Roderick,Sun,M,1974-08-20,Ancaster,ON,,151,78
+1395,Alan,Skye,M,1952-09-07,Hamilton,ON,Codeine,147,81
+1397,Eddie,Flynn,M,1955-03-13,Hamilton,ON,ASA,184,122
+1398,Alejandro,Omovich,M,1948-07-31,Burlington,ON,Penicillin,147,65
+1400,Walter,Jones,M,2018-01-06,Hamilton,ON,Penicillin Environmental,33,3
+1401,Gil,Lowrey,M,2013-05-20,Timmins,ON,Penicillin,82,26
+1403,Bill,Russo,M,1971-10-30,Calgary,ON,Seafood,192,100
+1404,Wilfred,Russo,M,1993-02-13,Hamilton,ON,,180,117
+1405,Carlito,Bek,M,2002-10-15,Hamilton,ON,,202,78
+1406,Miles,Chang,M,1997-07-01,Hamilton,ON,Wheat,162,82
+1408,Arnold,Burnett,M,1966-10-08,Dundas,ON,,195,108
+1409,Curtis,Ichi,M,1955-10-09,Stoney Creek,ON,,192,128
+1414,Will,Pancamo,M,2005-08-28,Dundas,ON,Tylenol,172,67
+1415,Tristan,Kelso,M,1974-04-19,Cambridge,ON,,150,82
+1416,David,Soprano,M,1993-03-10,Dundas,ON,Wheat,178,124
+1418,Callum,Rosetta,M,1949-06-24,Oakville,ON,Codeine,198,119
+1419,Massimo,Vincent,M,1979-07-06,Hamilton,ON,Tetracycline,147,71
+1421,Alexei,Banzai,M,1980-03-02,Stoney Creek,ON,,179,78
+1422,Nick,Serizawa,M,1955-03-24,Athens,ON,Sulfa,186,104
+1423,Matthew,Patil,M,1955-12-15,Hamilton,ON,,160,76
+1424,Laszlo,Kaiba,M,1974-10-15,Hamilton,ON,Penicillin,167,74
+1426,Escobar,Fansler,M,1966-09-10,Dundas,ON,Penicillin,188,112
+1427,Dick,Thomas,M,2018-01-12,Hamilton,ON,,40,5
+1428,Eddie,Gharty,M,2001-05-31,Stainer,ON,,201,92
+1429,Howard,Warbeck,M,1966-12-03,Bancroft,ON,Penicillin,156,88
+1430,Carl,Costigan,M,1983-12-13,Toronto,ON,,194,121
+1431,John,Martin,M,1969-09-17,Toronto,ON,,216,113
+1432,Thomas,Moreland,M,1949-04-23,Toronto,ON,Penicillin,161,73
+1433,Larry,Swirling,M,1995-12-18,Brampton,ON,,202,87
+1436,Allan,Stewart,M,2013-05-18,Saskatoon,SK,Codeine,91,30
+1438,Primo,Drew,M,1989-10-17,Burlington,ON,,179,66
+1440,Sam,Bek,M,2017-10-21,Dundas,ON,,48,11
+1442,William,De Lena,M,1967-01-22,Troy,ON,,144,64
+1445,Dale,Tan,M,1992-10-06,Stoney Creek,ON,,162,77
+1446,Holland,Tam,M,1963-10-28,Ancaster,ON,Penicillin,215,96
+1447,Bernard,Goren,M,1988-02-01,Toronto,ON,Penicillin,167,83
+1449,Simon,Boyce,M,1987-08-03,Hamilton,ON,,200,111
+1450,Jack,McArthur,M,1992-03-01,Hamilton,ON,,212,109
+1452,Garryn,Archer,M,1952-05-20,Victoria,BC,,153,68
+1453,Achille,Ozaki,M,1957-06-14,Carlisle,ON,Codeine,161,79
+1454,Beppe,Rajasthan,M,2009-12-09,Elmira,ON,Iodine,119,40
+1455,Vance,Leigh,M,1952-07-21,Hamilton,ON,ASA,158,75
+1457,Gerard,Church,M,1952-08-18,Troy,ON,,162,69
+1460,Paul,Garrick,M,1957-10-05,Brampton,ON,,192,102
+1461,Ralph,Cropper,M,1945-01-19,Milton,ON,,218,110
+1462,Miles,Belov,M,1956-12-11,Hamilton,ON,,166,74
+1463,Curro,Mephesto,M,1993-11-06,Sarnia,ON,,156,64
+1465,Alberto,Bradley,M,1986-05-27,Halifax,NS,,222,114
+1466,Jaki,Meacham,M,1999-09-04,Hamilton,ON,Tylenol,160,69
+1469,Haiku,Dundee,M,1994-02-24,Stoney Creek,ON,,153,81
+1470,Kline,Fortune,M,1989-06-23,Hamilton,ON,,177,74
+1472,Seaton,Flute,M,1998-07-08,Hamilton,ON,,172,62
+1473,Andy,Rosewood,M,1964-01-12,Hamilton,ON,ASA,183,117
+1474,David,Halliwell,M,2001-05-10,Hamilton,ON,ASA,193,82
+1475,Nick,Corleone,M,1961-12-23,Edmonton,AB,Penicillin,180,126
+1476,Evan,Clearwater,M,2000-03-28,Hamilton,ON,Cheese,168,73
+1478,John,Thackeray,M,1984-10-24,Hamilton,ON,Sulfa,187,130
+1483,Jack,Soran,M,1961-09-24,Hamilton,ON,Iodine,171,81
+1484,Tom,Rigazzi,M,1966-11-28,Hamilton,ON,Penicillin,162,80
+1486,Alexei,Brockman,M,1989-04-20,Simcoe,ON,,201,119
+1488,Alan,Beckett,M,1948-04-06,Hamilton,ON,Codeine,153,57
+1489,Barney,Hudson,M,1992-12-29,Dundas,ON,,164,83
+1490,Carlos,Manu,M,1994-09-28,Halifax,NS,,150,66
+1492,Artemus,Scott,M,2013-07-01,Smithville,ON,Penicillin Diazepam,85,29
+1493,Adam,Ryan,M,1968-09-06,Grimsby,ON,Cheese,216,113
+1494,Buckaroo,Volsky,M,1992-01-12,Hamilton,ON,,176,118
+1495,Walter,Dean,M,1985-01-31,Dundas,ON,Penicillin Environmental,172,83
+1496,Adam,Spelvin,M,2016-06-05,Hamilton,ON,,53,12
+1500,Alejandro,Hally,M,2003-12-23,Toronto,ON,Penicillin,180,83
+1503,Rocco,Montford,M,1990-07-02,Ancaster,ON,Latex,161,78
+1504,Kevin,Meeks,M,2010-05-31,Cambridge,ON,,103,44
+1505,Jerry,Heath,M,1984-06-16,Hamilton,ON,Codeine,130,81
+1507,Leo,Ravenclaw,M,1959-06-01,Hamilton,ON,,179,119
+1508,David,Hufflepuff,M,1985-05-03,Dundas,ON,,158,65
+1510,Bo,Perry,M,2017-11-02,Ancaster,ON,,55,9
+1511,Steven,Bottoms,M,1966-04-05,Hamilton,ON,,203,102
+1512,Peter,Carter,M,1965-05-24,Hamilton,ON,Penicillin,171,82
+1513,Jesse,Purebred,M,1984-05-24,Burlington,ON,Sulphur,176,80
+1514,Kirk,Delacour,M,2013-09-16,Simcoe,ON,,83,27
+1516,David,Falken,M,2004-11-20,Hamilton,ON,,176,69
+1517,Frederick,Bagshot,M,1989-03-13,Hamilton,ON,,132,62
+1518,Philip,Fellowes,M,1965-03-26,Niagara Falls,ON,Penicillin,175,113
+1522,Montgomery,Kasen,M,1950-01-23,Bancroft,ON,ASA,142,64
+1523,Stone,Barton,M,2010-03-06,Cambridge,ON,,123,40
+1524,Jack,Bain,M,2013-02-17,Hamilton,ON,Salicylic Acid,88,31
+1529,Todd,Nash,M,1991-05-31,Hamilton,ON,,169,75
+1531,Renfield,Caspar,M,1999-11-17,Toronto,ON,,213,107
+1533,Stanley,Rockford,M,1956-03-04,Brantford,ON,,159,71
+1535,Bernard,Brown,M,2002-11-29,Saskatoon,SK,Tylenol,194,89
+1536,Andy,Graham,M,1996-06-14,Toronto,ON,,195,105
+1537,Dayne,Decker,M,1979-01-21,Hamilton,ON,Penicillin,139,76
+1538,Steve,Alpert,M,1992-09-06,Dunnville,ON,Penicillin,161,70
+1540,Tim,Lee,M,1993-06-30,Grimsby,ON,,215,116
+1541,Donald,Morgan,M,1998-10-13,Hamilton,ON,,163,73
+1542,George,Vendrell,M,1961-12-26,Hamilton,ON,Penicillin,168,121
+1544,Chan,Snyder,M,2003-12-24,Stoney Creek,ON,,173,76
+1545,William,Pike,M,1950-02-20,Hamilton,ON,Penicillin,175,80
+1546,Sasha,Bonasera,M,1984-09-09,Toronto,ON,,193,113
+1547,Eddie,Winslow,M,1965-05-28,Peterborough,ON,Penicillin,154,58
+1549,George,Vallance,M,1977-12-27,Brantford,ON,Penicillin,192,116
+1551,Enrique,Trudeau,M,1993-05-16,Kingston,ON,Latex,210,88
+1552,Tony,Halliwell,M,1971-06-23,Hamilton,ON,,180,84
+1554,Dwight,Barolli,M,2007-05-27,Hamilton,ON,,135,56
+1555,Albert,Rojo,M,1957-07-02,Hamilton,ON,,184,115
+1558,Jim,Poppins,M,1951-02-16,Stoney Creek,ON,Penicillin,159,91
+1559,Eddie,Bigelow,M,1956-10-29,Timmins,ON,,198,99
+1560,Giacomo,Webber,M,1984-02-17,Hamilton,ON,Penicillin Diazepam,194,104
+1564,Justin,Caine,M,2011-03-31,Milton,ON,Penicillin,108,41
+1568,Marcus,Wallander,M,1981-05-08,Toronto,ON,,178,83
+1570,Alexei,Reardon,M,1958-09-17,St. Catharines,ON,Penicillin,186,118
+1576,Sherlock,Corneo,M,2018-05-16,Brantford,ON,Pork,29,3
+1577,Michael,Sakatsu,M,1987-06-04,Hamilton,ON,,192,101
+1578,Axel,Trenton,M,2006-04-08,Hamilton,ON,Nuts,162,60
+1579,Joel,Takata,M,1989-06-12,Hamilton,ON,Morphine,185,113
+1581,Melvyn,Bergman,M,1952-04-26,Vancouver,BC,Peanuts,188,124
+1582,Rory,Lopez-Fitzgerald,M,1952-04-04,Hamilton,ON,Penicillin,157,80
+1584,Arnold,McCrary,M,1967-06-15,Ottawa,ON,Penicillin,181,133
+1585,Alex,Cantropus,M,1964-05-02,Ottawa,ON,,136,80
+1586,Jimmy,Henderson,M,1968-02-08,Barrie,ON,Penicillin,186,119
+1587,Victor,Peroni,M,1969-10-03,Ancaster,ON,Tylenol,148,71
+1588,Barney,Scarett,M,1962-01-16,Burlington,ON,Penicillin,140,83
+1590,Clarence,Decker,M,1959-10-30,Hamilton,ON,Feathers,133,64
+1595,Roderick,Dean,M,2010-10-25,Mississauga,ON,Penicillin,94,45
+1596,Ray,Ravenclaw,M,1988-07-11,Hamilton,ON,Codeine,148,64
+1597,Frank,Tai,M,1979-06-18,Stoney Creek,ON,Penicillin,149,69
+1598,Victor,Corneo,M,1988-03-26,Dunton,ON,Penicillin,174,80
+1601,Dave,Launer,M,2016-07-02,Hamilton,ON,Tetracycline,50,13
+1602,Dickie,Decker,M,2011-06-11,Hamilton,ON,,105,39
+1603,Jonathan,Cortez,M,1967-09-12,Montreal,QC,Penicillin,164,76
+1604,Norbert,Spellman,M,1998-12-27,Burlington,ON,,183,94
+1605,Saito,Wesker,M,2014-08-16,Selkirk,ON,,84,25
+1607,George,Lemansky,M,1983-10-13,Paris,ON,,145,66
+1608,Toby,Crabbe,M,1986-11-10,Brantford,ON,,221,91
+1609,Luke,Sugden,M,1979-10-09,Smithville,ON,,180,80
+1610,Anthony,Graf,M,1998-07-29,Toronto,ON,,192,121
+1611,Paul,Kennedy,M,1982-05-12,Milton,ON,,176,66
+1612,Daisuke,Dax,M,2013-07-14,St. Catharines,ON,,88,30
+1614,Paulie,Yang,M,1999-10-29,Hamilton,ON,,194,88
+1615,Theo,White,M,1967-04-23,Pickering,ON,,154,63
+1618,David,Morrow,M,1964-09-06,Timmins,ON,Penicillin,169,115
+1621,Keyser,Trivino,M,1987-03-24,Hamilton,ON,,173,135
+1629,Ted,Barnfather,M,2012-01-21,Hamilton,ON,Penicillin,102,33
+1631,Giacomo,Double,M,1975-09-04,Oakville,ON,,186,85
+1632,Giacomo,MacAllister,M,2001-07-17,Hamilton,ON,,197,83
+1633,Martin,OBrien,M,1988-03-13,Brantford,ON,,188,61
+1634,Martin,Astin,M,1971-06-20,Walnut Grove,AB,Penicillin,154,57
+1635,Peter,Thornton,M,1972-05-05,Toronto,ON,,161,72
+1636,Travis,Harrison,M,1983-11-19,Burlington,ON,Penicillin,171,117
+1637,Dale,Hardbroom,M,2001-07-04,Hamilton,ON,Sulpha,208,94
+1641,Dale,Brockman,M,1973-07-20,Hamilton,ON,Penicillin,210,131
+1642,Mark,Bain,M,1960-09-24,Brantford,ON,Sulfa,173,85
+1643,Miguel,Fabray,M,1971-04-28,Stoney Creek,ON,Wheat,172,100
+1644,Wilfred,Lane,M,1954-06-16,Halifax,NS,Penicillin,169,78
+1645,Signor,Pulaski,M,1977-02-12,Athens,ON,Penicillin,211,97
+1646,Enos,Sage,M,2006-05-30,Toronto,ON,,147,61
+1647,Jack,Bennett,M,1991-04-06,Hamilton,ON,,167,105
+1648,Nelson,Ray,M,1992-04-03,Dunton,ON,,194,115
+1654,James,Vector,M,1996-10-31,Hamilton,ON,,134,74
+1657,Vijay,Kennedy,M,1951-09-29,Burlington,ON,Penicillin,165,62
+1658,Guido,Kirk,M,2014-08-31,Brantford,ON,Codeine,73,21
+1660,Bumpy,Hort,M,1983-09-04,Ottawa,ON,,167,91
+1663,Woody,Granger,M,1955-07-28,Stoney Creek,ON,ASA,207,133
+1666,Trevor,Richards,M,1999-04-29,Ancaster,ON,Penicillin,155,80
+1667,Raoul,Guarnaccia,M,1965-07-15,Fruitland,ON,Peanut Butter,160,87
+1668,Kevin,Vimes,M,1975-01-12,Barrie,ON,Penicillin,197,112
+1669,Walter,Maxwell,M,1986-02-10,Carlisle,ON,Micropore Tape,163,73
+1670,Andy,Sugden,M,1987-01-02,Toronto,ON,Codeine,141,72
+1674,Armando,Riggs,M,1988-03-28,Hamilton,ON,Sulfa,130,72
+1675,Citan,Morgan,M,1964-12-08,Hamilton,ON,Valporic Acid,183,71
+1676,Shane,Peroni,M,2001-10-30,Hamilton,ON,,211,85
+1681,Charles,Trent,M,1981-05-17,Carlisle,ON,Penicillin,165,85
+1682,Arnold,Hill,M,1980-01-17,Hamilton,ON,,154,68
+1683,Rajesh,Riggs,M,1958-12-04,Northbay,ON,Valporic Acid,195,108
+1684,Don,Medlicott,M,1997-05-21,Hamilton,ON,Penicillin,200,113
+1685,Boris,Tsuna,M,1966-09-03,Hamilton,ON,Penicillin,158,68
+1688,Bob,Zarkov,M,1999-08-20,Ottawa,ON,,158,84
+1689,Moe,Tsuna,M,1992-09-08,Brampton,ON,,198,127
+1690,Gary,Principal,M,1992-12-05,Red River,MB,,150,86
+1691,Peyton,McGraw,M,1987-09-03,Cambridge,ON,Codeine,166,63
+1692,Citan,Seaton,M,1993-07-08,Hamilton,ON,Penicillin,202,122
+1693,John,Scott,M,1964-06-20,Waterford,ON,,180,125
+1694,Carmine,Cropper,M,1939-01-05,Hamilton,ON,Penicillin,160,75
+1700,James,Piquel,M,1999-05-27,Dundas,ON,,159,76
+1701,Ray,Nagre,M,1955-08-14,Kingston,ON,Codeine,209,122
+1702,Angelo,Turlough,M,1987-04-16,Hamilton,ON,Valporic Acid,221,118
+1704,Jay,Prentiss,M,1992-02-04,Hamilton,ON,,214,117
+1708,Thomas,Shimura,M,1978-06-13,Waterford,ON,,143,64
+1710,Cameron,Bigelow,M,1980-08-13,Hamilton,ON,,201,103
+1711,Sam,Mott,M,1951-09-19,Burlington,ON,,195,87
+1712,Harry,Halliwell,M,1992-12-26,Stoney Creek,ON,,191,74
+1713,Jacques,Major,M,2005-01-20,Hamilton,ON,,162,62
+1714,Alec,Thomas,M,1968-10-17,Hamilton,ON,Sulfa Drugs,213,97
+1716,Woody,Franklin,M,1972-12-25,Barrie,ON,Penicillin,184,124
+1717,Joss,McGee,M,2017-12-16,Burlington,ON,,46,12
+1723,Moe,Alexander,M,2008-08-11,Hamilton,ON,Penicillin,124,47
+1724,Rance,Kynes,M,1987-06-09,Guelph,ON,Sulfa,175,112
+1726,Daniel,Gallardo,M,1957-07-11,Barrie,ON,Penicillin,156,72
+1729,Martin,Huang,M,1961-07-19,Brockville,ON,Penicillin,146,81
+1731,Shinwell,Williams,M,1981-09-25,Hamilton,ON,,211,124
+1732,Kurt,Halliwell,M,1958-09-18,Hamilton,ON,Peanuts,153,83
+1733,Ronnie,Ravenclaw,M,1964-06-27,Hamilton,ON,Penicillin Sulpha Drugs,219,105
+1736,Spenser,Tam,M,1941-06-21,Hamilton,ON,Codeine,130,70
+1740,Willie,Moorehead,M,1951-12-07,Hamilton,ON,Iodine,174,90
+1745,Meyer,Iosefa,M,2000-11-23,Hamilton,ON,,179,118
+1749,Alejandro,Mellie,M,1965-02-12,Stoney Creek,ON,,211,110
+1750,Gary,Rivers,M,1987-04-09,Dunton,ON,Penicillin,142,70
+1751,Julian,Hightower,M,1992-08-15,Stoney Creek,ON,,203,124
+1752,Miles,Cooper,M,2008-08-16,Hamilton,ON,,142,60
+1754,Roger,Hale,M,1976-12-04,Brantford,ON,Penicillin,174,83
+1755,Eddie,Pond,M,1970-10-13,Simcoe,ON,,157,81
+1757,Jack,Bennett,M,1955-06-12,Hamilton,ON,Penicillin,212,114
+1759,Jim,Nicolavic,M,1993-09-10,Stoney Creek,ON,,176,106
+1760,Vijay,Scotts,M,1995-02-21,Walnut Grove,AB,,217,115
+1761,Alejandro,Vecchio,M,2002-07-29,Tyndale,ON,Codeine,186,80
+1763,Harry,Tribbiani,M,1957-12-23,Tyndale,ON,,199,95
+1764,Joe,Lonnegan,M,1967-06-24,Tyndale,ON,,200,116
+1765,Carlton,Ohayon,M,1999-12-09,Dundas,ON,Sulfa,197,131
+1766,Yuri,Lazarus,M,1981-03-20,Burlington,ON,ASA,167,130
+1767,Ricardo,Lupertazzi,M,1957-08-07,Hamilton,ON,,150,70
+1768,Hal,Caliban,M,1986-11-10,Hamilton,ON,Sulfa,191,111
+1770,Chuck,Hawker,M,1994-02-25,Hamilton,ON,,154,58
+1772,Curtis,Troy,M,1989-12-07,Burlington,ON,Codeine,171,81
+1773,Kirk,Marley,M,1976-08-03,Brantford,ON,,213,104
+1774,Barney,Littlefield,M,1964-11-15,Hamilton,ON,Sulfa,174,129
+1776,Tom,Lopez,M,1950-10-19,Hamilton,ON,,176,120
+1777,Lucky,Crusher,M,1981-11-16,Caledonia,ON,,191,103
+1778,Jack,Anderson,M,2005-01-12,Hamilton,ON,,173,66
+1780,Vito,Boddicker,M,2016-04-21,Hamilton,ON,Walnuts,59,16
+1781,Raymond,MacLean,M,1983-01-09,Burlington,ON,,161,68
+1782,Paul,Noble,M,1976-07-10,Ancaster,ON,,152,76
+1783,Artemus,Freeman,M,1959-06-06,Hamilton,ON,,186,120
+1784,Paul,Cork,M,1985-10-29,Burlington,ON,Sulfa,203,106
+1785,Emmett,Guarnaccia,M,1961-06-12,Hamilton,ON,Penicillin Sulpha Drugs,203,104
+1786,Bernard,Fortunato,M,2004-07-06,Burlington,ON,Sulfa Drugs,170,71
+1788,John,Gently,M,1978-04-29,Hamilton,ON,Penicillin,183,114
+1789,Seamus,Szalinski,M,1959-10-23,Hamilton,ON,Sulfa,198,121
+1790,Tony,Lassiter,M,1976-08-06,Toronto,ON,Codeine,143,79
+1792,Ben,Seaton,M,2011-05-25,Paris,ON,Penicillin,89,33
+1793,Oscar,Snyder,M,1983-03-04,Beamsville,ON,Sulfa,138,72
+1795,Will,Sallis,M,2014-10-05,Hamilton,ON,Penicillin,77,26
+1796,Fred,Caneili,M,1956-07-22,Hamilton,ON,Nuts,155,63
+1797,Miguel,Campbell,M,1993-05-21,Kingston,ON,,167,89
+1800,Vijay,Buchanan,M,1995-04-15,Toronto,ON,,180,107
+1802,Alan,Lionel,M,2004-08-12,Paris,ON,Penicillin,156,72
+1805,Otis,Valentine,M,1987-02-07,Orangeville,ON,,185,100
+1806,Nero,Patterson,M,2002-02-20,Ancaster,ON,,182,78
+1807,Tom,Noble,M,1995-10-21,Burlington,ON,Penicillin,149,87
+1809,Tem,Rain,M,2013-05-08,Hamilton,ON,,79,26
+1810,Ward,Thorne,M,1959-02-12,Hamilton,ON,Penicillin,173,92
+1812,Callum,Ranall,M,1970-10-29,Hamilton,ON,,175,87
+1813,Velu,Dyson,M,1989-04-22,Walnut Grove,AB,,196,113
+1815,Adam,Chesterfield,M,2010-07-09,Hamilton,ON,Codeine,121,44
+1816,Jeff,Kolchak,M,1984-11-27,Hamilton,ON,Codeine,149,70
+1818,Jonathan,Bluenight,M,1970-10-21,Brantford,ON,,186,108
+1822,Jack,Williams,M,2007-04-07,Ajax,ON,,155,61
+1823,Callum,Dorsey,M,1957-11-17,Toronto,ON,,165,107
+1824,Jason,Johnson,M,1984-12-08,Burlington,ON,Penicillin,197,89
+1827,Sacha,Murphy,M,1997-05-21,Hamilton,ON,,172,70
+1828,Will,Marlowe,M,2017-12-02,Milton,ON,Penicillin,41,8
+1829,Jeff,OHara,M,1996-08-06,St. Johns,NL,,169,114
+1830,Chris,Saint,M,1975-09-06,Halifax,NS,Penicillin,184,122
+1831,Jay,Hojo,M,1971-04-28,Hamilton,ON,,187,107
+1832,Arnold,Manetta,M,1946-06-09,Hamilton,ON,,196,124
+1834,William,Dresden,M,2005-04-22,Brantford,ON,Sulfa Drugs,153,69
+1836,Ray,Tabootie,M,1949-01-27,Hamilton,ON,,203,134
+1837,Johnny,Selwyn,M,1956-04-02,Vancouver,BC,,199,104
+1843,Mark,Patil,M,1997-09-02,Hamilton,ON,,187,115
+1845,George,Parker,M,1978-02-02,Hamilton,ON,,147,66
+1848,Michael,McNab,M,1988-08-04,Hamilton,ON,,206,107
+1849,Harry,Martin,M,1959-12-16,Beamsville,ON,Shellfish,144,69
+1851,Guido,Lopez,M,1962-11-06,Ancaster,ON,,186,105
+1852,John,Kennedy,M,1963-05-25,Brockville,ON,,167,82
+1853,Richard,Palmi,M,1989-01-10,Red River,MB,,159,59
+1855,Steve,Veeteren,M,2003-12-23,Halifax,NS,Penicillin,192,85
+1856,Vladimir,Sternin,M,2018-07-09,Hamilton,ON,Penicillin,26,2
+1858,Ottilio,Alleyn,M,1968-05-31,Burlington,ON,Peanuts,144,63
+1859,Peter,Schibetta,M,1988-07-13,Caledonia,ON,Penicillin,186,118
+1860,Tom,Fabray,M,1967-07-08,Burlington,ON,Sulfa,174,71
+1861,Gary,Elliot,M,2003-10-04,Hamilton,ON,,177,77
+1866,Roman,Parker,M,1988-02-20,Hamilton,ON,Almonds,184,130
+1867,Noonien,Kane,M,1988-05-11,Toronto,ON,Sulfa Drugs,134,78
+1870,Dante,McKay,M,1979-12-04,Hamilton,ON,Valporic Acid,156,71
+1871,Elvis,Cruger,M,1961-03-07,Ancaster,ON,,206,125
+1873,Lloyd,Fortune,M,2000-02-05,Toronto,ON,,180,92
+1874,Ted,Haruko,M,1967-10-28,Dunton,ON,Codeine,151,60
+1875,Bill,Granite,M,1976-03-24,Dundas,ON,Peanut Butter,155,73
+1877,James,Hamilton,M,1954-02-24,St. Johns,NL,Penicillin Environmental,167,79
+1878,Tex,Stein,M,2012-06-19,Grimsby,ON,,95,39
+1879,Sonny,Adler,M,1961-11-11,Orillia,ON,Sulfa,187,118
+1881,Norton,Sanders,M,1970-09-28,Oakville,ON,Bee Stings,185,107
+1883,Mike,McCoy,M,1976-06-07,St. Catharines,ON,,194,114
+1884,Nick,White,M,1949-05-20,Hamilton,ON,,187,102
+1888,Vincenzzo,Khan,M,1958-03-23,Toronto,ON,Tylenol,177,115
+1889,Lester,Hill,M,1949-10-31,Hamilton,ON,Peanuts,149,67
+1891,Julian,Tam,M,1993-04-15,Caledonia,ON,Peanut Butter,144,76
+1892,Raoul,White,M,1956-04-07,Timmins,ON,,156,79
+1893,Rodney,Guarnaccia,M,1990-10-06,Hamilton,ON,Penicillin,187,125
+1896,Tom,Allen,M,1979-09-06,Halifax,NS,Penicillin,184,123
+1900,Reginald,Prefect,M,1967-05-22,Waterford,ON,,212,108
+1901,Tierney,Halliwell,M,1959-11-01,Stoney Creek,ON,,184,109
+1903,Chris,Dedede,M,2006-09-05,Hamilton,ON,Penicillin,168,58
+1904,Avon,Kobayakawa,M,1960-09-15,Timmins,ON,Codeine,190,116
+1907,Andy,Tutuola,M,2010-10-14,Burlington,ON,Hay Fever,96,35
+1908,Stephen,Grissom,M,1968-06-16,Milton,ON,,219,122
+1912,John,McNab,M,1978-03-05,Hamilton,ON,Codeine,160,83
+1913,Johnny,Daniels,M,1982-10-31,Timmins,ON,,155,85
+1914,Briareos,Dash,M,1989-03-15,Grimsby,ON,Penicillin,189,108
+1917,Signor,Temple,M,1960-04-09,Hepworth,ON,Topical Anaesthesia,208,115
+1918,Hank,Cao,M,1968-11-09,Toronto,ON,Penicillin,163,75
+1923,Richard,Wing,M,1997-12-24,Milton,ON,,189,109
+1924,Elijah,Forelli,M,1952-08-15,Hamilton,ON,Feathers,149,80
+1926,Stanislaus,Mancini-Corleone,M,1985-01-27,Hamilton,ON,,173,81
+1927,Hal,Douglas,M,1948-09-23,Hamilton,ON,,152,60
+1928,Don,Robinson,M,2010-10-18,Cambridge,ON,Penicillin,127,37
+1929,Joey,Brunetti,M,1979-04-27,Hamilton,ON,Salicylic Acid,154,84
+1930,Craig,Frye,M,1967-06-28,Hamilton,ON,Penicillin,159,77
+1933,Thomas,Taylor,M,1984-11-24,Hamilton,ON,,156,82
+1934,Raylan,Mallory,M,1984-06-04,Hamilton,ON,Morphine,162,102
+1938,Anthony,Anneke,M,1960-11-22,Simcoe,ON,,147,71
+1940,Riley,Fett,M,1956-07-11,Hamilton,ON,,170,109
+1941,Shion,Lonnegan,M,2002-10-08,Orangeville,ON,,173,83
+1942,Clark,Wright,M,1964-02-13,Cambridge,ON,Radioopaque Dye,216,126
+1943,Alphonse,Lockwood,M,2016-11-04,Hamilton,ON,Penicillin,63,14
+1944,Kouzou,Daystrom,M,2002-04-15,Hamilton,ON,,184,82
+1948,Theo,Wallace,M,1998-12-11,Hamilton,ON,,174,66
+1949,Borat,Cortez,M,2001-04-26,Burlington,ON,,203,85
+1951,Jack,Valentine,M,2013-02-08,Pickering,ON,,84,28
+1954,Jonathan,Tremulous,M,1990-02-21,Hamilton,ON,,172,84
+1955,Sam,Carr,M,1984-08-05,Toronto,ON,,163,77
+1956,Joe,Halliwell,M,2000-03-16,Simcoe,ON,Penicillin,184,94
+1957,Casanova,Parker,M,1955-12-15,Hamilton,ON,,187,78
+1958,Basil,Potter,M,1973-09-06,Toronto,ON,Sulfa,186,80
+1960,Curtis,Mephesto,M,1976-10-18,Burlington,ON,,198,102
+1965,Mickey,Zaluchi,M,1973-04-07,Dundas,ON,,214,116
+1967,Hecky,Vimes,M,1999-03-12,Brantford,ON,Penicillin Environmental,155,87
+1968,Don,Lamb,M,1990-06-23,Dundas,ON,Codeine,182,95
+1970,Walter,Bennett,M,2000-02-23,Hamilton,ON,Penicillin,192,105
+1972,Artemus,Bergman,M,2000-09-08,Kelowna,BC,,145,87
+1974,Stanley,Baley,M,2011-06-08,Waterloo,ON,Honey,92,36
+1975,Richard,Valentine,M,1994-08-05,Marcam,ON,,160,86
+1976,Daniel,Maxwell,M,1969-07-29,Brockville,ON,Sulfa Drugs,187,129
+1977,Jin,Mephesto,M,1979-05-24,Pickering,ON,Codeine,147,58
+1979,Martin,Atwater,M,2012-07-23,Hamilton,ON,Tylenol,83,33
+1980,Leslie,Corneo,M,1985-04-25,Waterford,ON,,152,73
+1981,Silvio,Mitchell,M,1995-09-13,Brampton,ON,Hay Fever,127,86
+1982,Roy,Kojak,M,1952-09-04,Hamilton,ON,Codeine,152,77
+1983,Franz,Denton,M,2014-05-28,Hamilton,ON,ASA,66,21
+1986,Nino,Haruko,M,1992-12-10,Beaverton,ON,Tetracycline,187,120
+1994,Keith,Omovich,M,1974-07-02,Hamilton,ON,,205,102
+1996,Stanislaus,MacLean,M,1968-04-08,Halifax,NS,,184,111
+1998,Zen,Bennett,M,2012-04-23,Toronto,ON,,75,25
+1999,Aric,Possible,M,1968-06-20,Beaverton,ON,,186,119
+2002,Gene,Rawls,M,1989-12-16,Ottawa,ON,,171,90
+2003,Joseph,Yang,M,1970-09-24,Delhi,ON,ASA,170,87
+2004,Amos,Harris,M,2013-05-16,Hamilton,ON,Shellfish,87,29
+2005,Julian,OHara,M,1997-02-28,Hamilton,ON,,202,111
+2006,Cedric,Green,M,1992-07-27,Ancaster,ON,Wheat,205,122
+2007,Neil,Peroni,M,1999-04-18,Hamilton,ON,Sulfa,198,109
+2011,Jerry,Carver,M,1960-04-23,Toronto,ON,ASA,185,80
+2012,Mike,Clarke,M,1980-05-08,Hamilton,ON,Penicillin,169,71
+2014,Martin,Soran,M,2012-08-03,Hamilton,ON,Penicillin,97,41
+2015,Cameron,Moss,M,2003-11-11,Hamilton,ON,Acetaminophen,171,81
+2016,Jake,Morgan,M,1975-06-13,Hamilton,ON,,194,101
+2017,Paul,Stacy,M,1984-11-17,Burlington,ON,Strawberries,191,68
+2020,Caesar,Magliozzi,M,1971-04-07,Hamilton,ON,,185,58
+2021,Paul,Millman,M,1969-03-22,Hamilton,ON,,177,84
+2022,Evan,Turnbull,M,2011-05-06,London,ON,Penicillin,94,31
+2024,Tony,Jenkins,M,1961-03-02,Ancaster,ON,,181,97
+2027,Lloyd,Morrow,M,1955-09-12,Dundas,ON,,188,110
+2028,Dan,Zasa,M,1987-07-17,Burlington,ON,Peanuts,175,116
+2029,Fred,Petrie,M,1923-01-25,Hamilton,ON,,141,82
+2032,Reed,Cuneo,M,2003-09-24,Hamilton,ON,,192,78
+2034,Nicky,Chino,M,1982-10-05,Burlington,ON,ASA Cotton Sheets,198,104
+2036,Simon,Drew,M,2004-12-01,Paris,ON,,178,81
+2037,Jack,Gideon,M,1991-10-30,Stainer,ON,Hay Fever,203,110
+2042,Thomas,Smart,M,1961-01-22,Hamilton,ON,,222,114
+2044,Phil,McCall,M,1975-11-28,Caledonia,ON,,195,97
+2045,Frank,Lane,M,2012-10-10,Hamilton,ON,,108,29
+2046,Michael,Space,M,1971-09-26,Hamilton,ON,Penicillin,169,85
+2047,Joseph,McKinnon,M,1985-06-14,Hamilton,ON,Penicillin,152,88
+2048,King,Sugden,M,1965-05-04,Hamilton,ON,,127,73
+2053,Paul,Cobb,M,1962-12-08,Hamilton,ON,Penicillin Sulpha Drugs,188,105
+2054,Artemus,Riggs,M,1976-07-03,Hamilton,ON,,139,67
+2055,Casanova,Petrelli,M,1957-12-26,Toronto,ON,Penicillin,145,86
+2056,Artemus,Orwell,M,1957-04-09,Hamilton,ON,Penicillin,149,85
+2061,Hyman,Moses,M,1992-01-16,St. Catharines,ON,Honey,209,96
+2062,Ellery,La Forge,M,1987-05-20,Halifax,NS,,203,123
+2065,Elijah,OHara,M,1994-07-09,Hamilton,ON,Iodine,128,68
+2067,Ben,Lawson,M,2015-05-04,Sarnia,ON,,58,16
+2068,Edward,Eckhardt,M,1981-01-13,Hamilton,ON,Wheat,180,131
+2073,Marcello,Sparazza,M,1952-09-30,Hamilton,ON,,174,89
+2075,Wilson,Bennett,M,1989-01-26,Hamilton,ON,,160,80
+2076,Clark,Miller,M,1992-05-21,Paris,ON,,177,74
+2077,Jack,PiNeiro,M,1962-05-25,St. Johns,NL,,184,128
+2079,David,Hammer,M,1959-09-09,Hamilton,ON,,210,128
+2080,Morgan,Johnson,M,2016-01-12,Carlisle,ON,Codeine,45,13
+2081,Ben,Stanfield,M,1962-07-25,Hamilton,ON,,186,103
+2084,Ronnie,Sanderson,M,1989-07-16,Hamilton,ON,,202,120
+2095,Ben,Cavor,M,1989-05-24,Hamilton,ON,,173,80
+2096,Garryn,Brown,M,2013-10-26,Brantford,ON,Codeine,93,29
+2099,Primo,Adams,M,2017-12-21,Pickering,ON,Tape,40,5
+2100,VIctor,Caxton,M,1965-02-23,Carisle,ON,Penicillin,199,116
+2101,Andy,Cage,M,1963-11-01,Dunton,ON,,183,68
+2104,Vito,Cacuzza,M,1976-02-09,Hamilton,ON,,199,121
+2106,Warren,Knight,M,1969-01-10,Brockville,ON,Honey,143,77
+2107,John,Chino,M,1969-12-30,Hamilton,ON,,181,123
+2110,Tim,Holliwell,M,1987-09-13,St. Catharines,ON,,202,95
+2111,Mickey,Tachikawa,M,1976-02-02,Hamilton,ON,Servere Peanut Allergy,154,76
+2112,Cameron,Spellman,M,1970-04-21,Hamilton,ON,,154,62
+2114,Milo,Fairfax,M,2002-11-10,Brantford,ON,Penicillin,197,92
+2115,James,Ogg,M,2013-08-21,Hamilton,ON,Penicillin,79,27
+2117,Jack,Hawker,M,2009-12-19,Hamilton,ON,,136,54
+2118,Mickey,Riley,M,1979-09-09,Hamilton,ON,,200,132
+2119,Stringer,Bottom,M,1987-09-21,Dunnville,ON,Penicillin,196,117
+2120,Dan,Falfa,M,1981-06-05,Hamilton,ON,,173,83
+2121,Cedric,De Lena,M,1958-06-04,Hamilton,ON,Latex,157,70
+2122,Buzz,Hare,M,1987-01-31,Brockville,ON,Penicillin,156,79
+2123,Anthony,Manu,M,1960-11-30,Paris,ON,,155,78
+2124,Jesse,Guarnaccia,M,1954-11-14,Bancroft,ON,Morphine,214,104
+2125,Dirk,Banner,M,1992-10-01,St. Catharines,ON,,174,67
+2128,Fred,Denoon,M,1962-06-08,Hamilton,ON,,137,71
+2129,Bigby,Vallance,M,1999-10-15,Hamilton,ON,,166,70
+2131,Joe,Weir,M,1955-02-03,Pickering,ON,Iodine,145,84
+2133,Sam,Lang,M,1960-11-05,Fruitland,ON,,160,75
+2134,Gennady,Kammerer,M,1976-12-31,Delhi,ON,Sulfa,197,116
+2136,Hyman,Tonks,M,2009-07-19,Brantford,ON,Penicillin,118,47
+2137,Sasha,Grace,M,1992-01-02,St. Catharines,ON,Penicillin,193,101
+2138,Zenigata,Kobayakawa,M,1983-01-19,Burlington,ON,,161,73
+2140,William,Snyder,M,1958-10-06,Toronto,ON,Sulphur,157,83
+2141,Curtis,Douglas,M,1962-06-13,Odessa,ON,,155,60
+2142,Mickey,Yamamoto,M,1961-05-12,Burlington,ON,Morphine,186,67
+2143,Luis,Smythson,M,1960-06-25,Fruitland,ON,Codeine,151,84
+2145,Sam,Hernandez,M,1979-07-09,Hamilton,ON,,161,73
+2147,Alan,Winslow,M,2014-06-20,Hamilton,ON,Penicillin,67,21
+2148,Tubby,Coltrane,M,1993-05-06,Toronto,ON,Tetracycline,212,127
+2150,James,Frost,M,1972-07-14,Pickering,ON,,191,115
+2151,Fred,Requer,M,1941-11-09,Stoney Creek,ON,,188,118
+2152,Vance,Vincent,M,1959-04-14,Pickering,ON,,175,62
+2154,Henry,Bottom,M,1962-06-17,Toronto,ON,,172,81
+2155,Isaac,Tanner,M,1949-08-11,Hamilton,ON,Tetracycline,195,104
+2157,Santiago,Urth,M,1988-10-11,Hamilton,ON,ASA,195,114
+2158,Alejandro,Vane,M,1952-04-25,Timmins,ON,Sulfa Drugs,152,57
+2160,Norton,Corsi,M,1988-12-08,Hamilton,ON,Sulfa,169,83
+2161,Shiro,Taylor,M,1955-08-05,Grimsby,ON,,180,104
+2163,Quito,Delaware,M,1969-03-07,Hamilton,ON,Codeine,165,85
+2164,Mickey,Chesterton,M,2016-06-11,Hamilton,ON,,50,11
+2169,David,ONeill,M,2002-12-09,Stoney Creek,ON,Penicillin,211,87
+2170,Stone,Granite,M,1978-09-30,Toronto,ON,Codeine,136,88
+2173,Nino,Sturgis,M,1955-07-16,Toronto,ON,Sulpha,175,85
+2174,Nohar,Taylor,M,1989-01-18,Milton,ON,Penicillin,192,134
+2175,Todd,Harland,M,1978-12-06,Hamilton,ON,,210,101
+2176,Mark,Zatara,M,1999-11-08,Stoney Creek,ON,Codeine,173,107
+2177,Dayne,Flowerstink,M,1975-04-25,Hamilton,ON,Penicillin,211,137
+2179,William,Harrison,M,2000-09-12,Hamilton,ON,Bee Stings,138,72
+2180,Henry,Shepherd,M,1968-04-06,Athens,ON,Peanut Butter,187,126
+2182,Frank,Lassard,M,2009-04-27,Fruitland,ON,,113,47
+2183,Lloyd,Brocklehurst,M,1971-01-07,Hamilton,ON,Penicillin,208,119
+2184,Don,Dawson,M,1980-06-23,Hamilton,ON,Codeine,188,109
+2186,Toby,Napier,M,1965-10-16,Hamilton,ON,,148,60
+2187,Gennady,Lerrol,M,2012-04-19,Toronto,ON,,94,30
+2188,Marty,Ventura,M,1949-06-23,Hamilton,ON,,186,116
+2191,Matt,Day,M,1957-11-02,Simcoe,ON,ASA,182,116
+2192,Cross,Marquez,M,2007-06-16,Hamilton,ON,,152,61
+2193,Joel,Torini,M,1961-09-16,Hamilton,ON,,209,96
+2194,Armando,Cox,M,1966-09-22,Brampton,ON,,202,99
+2195,Roger,Caffery,M,1936-10-01,Timmins,ON,Codeine,176,82
+2196,Oliver,Olemaun,M,2002-01-14,Delhi,ON,Penicillin,215,83
+2197,Andy,Wainthropp,M,2010-05-23,Ancaster,ON,Penicillin,128,47
+2198,Dick,Sykes,M,2005-05-11,Hamilton,ON,Codeine,153,60
+2200,Leo,Neutron,M,1966-08-13,Burlington,ON,Penicillin,168,61
+2202,Jimmy,Sanderson,M,2017-12-24,Peterborough,ON,Hay Fever,44,5
+2203,Eddie,Sawyer,M,1998-11-15,Toronto,ON,Sulfa,134,84
+2205,Andy,Havers,M,1995-08-03,Toronto,ON,,145,84
+2208,Buckaroo,Baxter,M,2012-09-29,Beamsville,ON,Sulfa Drugs,107,41
+2210,Walter,Rush,M,1951-05-08,Hamilton,ON,,151,66
+2214,Silvio,Silvermane,M,1950-06-11,Fruitland,ON,,184,122
+2215,Freddie,De Lena,M,2006-10-12,Burlington,ON,Codeine,177,71
+2216,Tom,Robins,M,1977-03-22,Hamilton,ON,,208,117
+2218,Darryl,Soze,M,1982-02-15,Ancaster,ON,Sulfa Drugs,160,67
+2219,Andy,Tanner,M,1992-04-03,Port Hawkesbury,NS,,204,117
+2220,Jackson,Clancy,M,1997-07-17,Victoria,BC,,168,62
+2221,Benton,Space,M,2011-06-02,Hamilton,ON,,114,29
+2222,Anton,Scott,M,2004-06-22,Hamilton,ON,,170,70
+2223,Max,OMalley,M,1964-06-30,Calgary,ON,Eggs,162,65
+2225,Victor,Matthews,M,2002-09-27,Selkirk,ON,,188,92
+2226,Frank,Canlaster,M,1952-04-28,Dundas,ON,,191,128
+2228,Silvio,Profitt,M,1955-08-10,Hamilton,ON,,205,106
+2230,Tem,Johnson,M,1957-03-31,St. Catharines,ON,Seafood,168,68
+2231,Ben,Atwater,M,1957-10-25,Milton,ON,Codeine,142,70
+2232,Joe,Trevelyan,M,1974-06-20,Stoney Creek,ON,Iodine,186,72
+2233,Rosco,Burns,M,1994-05-22,Hamilton,ON,,211,131
+2234,Anthony,Arden,M,1988-08-04,Paris,ON,Penicillin Environmental,182,132
+2237,Kinman,Brunetti,M,1994-01-09,Fruitland,ON,,171,119
+2238,Salvo,Kiriakis,M,1985-04-29,Hamilton,ON,Penicillin,145,79
+2239,Vincent,Lopez,M,1973-06-11,Dundas,ON,Penicillin,160,56
+2241,Gary,Dyson,M,1993-01-17,Ancaster,ON,Codeine,149,71
+2246,Stone,Polin,M,1963-08-27,Hamilton,ON,Elastoplast Bondage,147,70
+2252,Miles,Sinclair,M,1997-02-08,Hamilton,ON,,171,77
+2253,Julian,Tura,M,1956-09-01,Brockville,ON,,126,76
+2256,Phil,Wayne,M,2014-10-23,Hamilton,ON,Penicillin,82,25
+2257,Ian,Hutt,M,1951-09-30,Hamilton,ON,,220,115
+2258,Spiros,Leotardo,M,1957-05-07,Hamilton,ON,Eggs,209,97
+2260,Jocko,Weir,M,1963-12-23,Brantford,ON,ASA,196,103
+2262,Norton,Suresh,M,1984-10-07,Cambridge,ON,Sulfa,177,89
+2266,Gil,Taylor,M,1985-05-10,Hamilton,ON,,208,109
+2269,Ronnie,Luthor,M,1965-01-22,Toronto,ON,Penicillin,200,101
+2271,Justin,Fuse,M,2009-04-15,Toronto,ON,Penicillin,124,45
+2272,Selsdon,Rubini,M,1976-11-24,Kapuskasing,ON,Iodine,194,114
+2273,Curtis,Fraser,M,1949-08-19,Brantford,ON,,187,90
+2275,Shahrukh,Quince,M,2012-10-05,Brantford,ON,Sulfa,79,33
+2276,Gregory,Garlick,M,1949-08-30,Milton,ON,,208,115
+2279,Danny,Ramsey,M,2005-04-16,Toronto,ON,Codeine,183,64
+2280,Andy,Rook,M,1980-08-22,Troy,ON,Penicillin,172,68
+2281,Sonny,Carter,M,1972-06-01,Stoney Creek,ON,Penicillin,157,91
+2282,Uri,Lionel,M,1963-07-26,Milgrove,ON,,157,67
+2283,Hagbard,Audran,M,2008-06-24,Toronto,ON,ASA,118,57
+2285,Tochiro,Drum,M,1964-05-25,Cambridge,ON,,163,67
+2287,Eddie,Diamond,M,1942-05-26,Ancaster,ON,,178,102
+2290,John,Tau,M,2014-08-26,Hamilton,ON,,85,25
+2293,Matt,Lupertazzi,M,2006-10-16,Hamilton,ON,,159,65
+2294,Donald,Adams,M,1967-11-17,Ancaster,ON,Penicillin,196,129
+2296,David,Costigan,M,1974-04-11,St. Catharines,ON,Honey,159,59
+2297,Rick,Thorne,M,1986-03-13,Sarnia,ON,,201,101
+2298,Noonien,Cardenas,M,1950-12-07,Hamilton,ON,Tape,178,105
+2299,Chick,West,M,1986-04-28,Hamilton,ON,Penicillin,188,102
+2300,Cross,Bennett,M,1976-03-14,Milton,ON,Bee Stings,137,89
+2301,Sal,Flinstone,M,2014-09-18,Burlington,ON,,69,21
+2302,Michael,Dallas,M,1961-07-24,Hamilton,ON,,198,128
+2303,Tobias,Robbins,M,2000-03-02,Ureterburg,ON,Environmental,181,103
+2304,Sam,Rooney,M,1972-08-02,Toronto,ON,Penicillin,174,71
+2310,Christopher,Brockman,M,2005-09-25,Kingston,ON,Penicillin,153,71
+2311,Art,Mars,M,2016-08-03,Hamilton,ON,Codeine,62,14
+2312,Sam,Gaskell,M,2003-05-20,Hamilton,ON,Penicillin,189,86
+2314,John,Grainger,M,2011-11-16,Toronto,ON,Iodine,107,41
+2316,Sam,Atwater,M,2008-09-07,Hamilton,ON,Penicillin,130,56
+2317,Stan,Webster,M,1988-04-01,Fonthill,ON,,165,78
+2324,Reginald,Vaughn,M,1998-05-07,Hamilton,ON,Peanut Butter,196,132
+2326,Willie,Wesker,M,2005-08-03,Hamilton,ON,,173,60
+2329,Frederick,Jones,M,1965-08-23,Hamilton,ON,,135,74
+2330,Clark,Preston,M,1986-09-21,Calgary,ON,,204,102
+2331,Kakihara,Threep,M,1985-02-28,Hamilton,ON,Penicillin,190,99
+2332,Bumpy,Rosenberg,M,1960-05-01,Hamilton,ON,Penicillin,189,124
+2335,Bill,Shand,M,1958-11-12,Hamilton,ON,,157,83
+2336,Signor,Redding,M,1990-03-03,Toronto,ON,Codeine,141,80
+2337,Carlos,ONeill,M,1943-05-24,Hamilton,ON,,155,80
+2339,Constantin,Anneke,M,1976-08-28,Grimsby,ON,,180,105
+2342,Vito,Powell,M,2002-09-21,Orangeville,ON,Codeine,197,90
+2343,Alexei,Brocklehurst,M,1998-03-16,Victoria,BC,Codeine,158,82
+2344,Darcy,Osborne,M,1967-05-14,Hamilton,ON,,183,109
+2345,Jango,Pitts,M,1976-11-18,Peterborough,ON,,212,121
+2346,Julius,Grant,M,1977-06-07,Hamilton,ON,Penicillin,181,122
+2349,Abe,Littlefield,M,2003-12-17,Burlington,ON,Codeine,186,77
+2350,David,Wolf,M,1961-10-12,Georgetown,ON,Penicillin,198,123
+2351,Harry,Stewart,M,1966-02-02,Toronto,ON,,162,94
+2355,Jason,Jovanovic,M,2000-08-27,Hamilton,ON,Penicillin,155,55
+2356,Cuthbert,Omovich,M,1986-11-28,Hamilton,ON,Penicillin,194,105
+2357,Wilson,Foster,M,1956-11-04,Toronto,ON,,155,78
+2358,Art,Canfield,M,1977-07-08,Calgary,ON,,167,86
+2363,Primo,Harding,M,1969-12-26,Hamilton,ON,Valporic Acid,222,101
+2365,Wendell,Brown,M,1963-07-22,Hamilton,ON,Codeine,156,77
+2366,Chris,Sanders,M,1950-06-03,Dundas,ON,,167,88
+2368,Max,Spencer,M,2014-07-07,Thunder Bay,ON,,67,22
+2369,Nero,Nayagan,M,1986-05-31,Stoney Creek,ON,,146,66
+2370,Paul,Magnus,M,2007-11-02,Hamilton,ON,Wheat,128,61
+2372,Stuart,Branning,M,1980-09-19,Cambridge,ON,Sulphur,183,62
+2374,Kirk,Archer,M,1987-03-27,Hamilton,ON,Penicillin,159,75
+2377,Chucky,Miller,M,1949-09-23,Hamilton,ON,Iodine,170,79
+2378,Stanislaus,Swann,M,1981-11-04,Toronto,ON,Iodine,183,119
+2381,Jay,Camonte,M,2009-12-15,Windsor,ON,,131,53
+2384,Julian,Kaiser,M,1961-12-03,Hamilton,ON,Cat Hair,136,77
+2387,Vic,Pinzolo,M,2013-03-14,Hamilton,ON,Penicillin,75,28
+2389,Woodsy,Mitchell,M,1965-12-03,Ottawa,ON,Penicillin,216,125
+2392,Kyle,Banzai,M,1939-03-25,Hamilton,ON,Topical Anaesthesia,161,78
+2393,Nicky,Klump,M,1970-05-19,Oakville,ON,Penicillin,157,77
+2394,Matt,Flinstone,M,2003-10-22,Hamilton,ON,,173,86
+2395,Ray,Jackson,M,2016-07-21,North York,ON,ASA,54,11
+2396,Rainier,Adamsberg,M,2004-06-19,Hamilton,ON,Sulfa Surgical Tape,176,78
+2401,Eddie,Potts,M,1973-04-06,Hamilton,ON,Penicillin,192,109
+2403,Vijay,Jury,M,1965-05-15,Toronto,ON,Codeine,159,87
+2404,Sam,Martin,M,1988-04-17,Toronto,ON,,170,72
+2405,Anthony,Pullman,M,1978-09-18,Paris,ON,Penicillin,173,74
+2406,Cross,Milo,M,2004-01-12,Ottawa,ON,Tylenol,201,80
+2407,Buck,Wilde,M,1956-08-29,Halifax,NS,,172,78
+2409,John,Handford,M,1949-10-15,Toronto,ON,,145,75
+2413,Randy,Lucas,M,1980-04-06,Brantford,ON,Sulfa Drugs,191,103
+2415,James,McCartney,M,1981-02-04,Milton,ON,Iodine,176,74
+2419,Lou,Lockwood,M,1991-10-21,Hamilton,ON,,174,74
+2422,Alexei,Schillinger,M,1981-01-23,Toronto,ON,Radioopaque Dye,154,64
+2423,Giacomo,Serrano,M,1986-07-25,Burlington,ON,Eggs,173,97
+2424,Frank,Blake,M,1999-08-25,Dundas,ON,Penicillin,199,122
+2428,Stan,Nappa,M,1986-03-24,Hamilton,ON,Penicillin,130,63
+2429,Emil,Macdonald,M,1975-11-25,Windsor,ON,,199,123
+2431,Emil,Engarde,M,1978-03-29,Hamilton,ON,Penicillin,158,86
+2432,Robert,Vargas,M,1960-07-24,Saskatoon,SK,Codeine,201,97
+2435,Cyrus,Sisco,M,1997-06-01,Hamilton,ON,Penicillin,210,113
+2436,Vance,Harrington,M,1980-04-11,Hamilton,ON,Peanut Oil,199,113
+2445,Tristan,Blossom,M,2014-12-17,Hamilton,ON,,75,22
+2446,Fred,Thomas,M,2000-08-21,Thunder Bay,ON,,185,105
+2447,Ernie,Lane,M,2005-01-19,Hamilton,ON,Penicillin,155,70
+2448,Peter,Nelson,M,1965-11-23,Fruitland,ON,,174,72
+2451,Todd,Sanderson,M,1948-02-08,Oakville,ON,,135,73
+2453,George,Thompson,M,1971-08-26,Toronto,ON,,189,114
+2454,Hercule,Hills,M,1958-05-06,Hamilton,ON,Nuts,180,78
+2455,Holt,Cod,M,1975-10-16,Hamilton,ON,,142,64
+2456,Paul,Zarkov,M,1992-10-27,Ottawa,ON,Codeine,186,116
+2457,Eddie,Forrester,M,2012-09-15,Hamilton,ON,,84,29
+2459,Yusuke,Preston,M,1954-03-01,Hamilton,ON,Tylenol,180,108
+2461,Benjamin,LeStrange,M,1955-06-16,Walnut Grove,AB,Peanut Butter,158,82
+2462,Harry,McGraw,M,1960-04-03,Hamilton,ON,Penicillin,209,100
+2464,Shiro,Thorne,M,2010-08-09,Pickering,ON,Almonds,120,48
+2465,Richard,Flinstone,M,1983-07-25,Hamilton,ON,Peanuts,193,105
+2466,Victor,Fleming,M,1991-03-15,Waterford,ON,,224,132
+2467,Dirk,Ozaki,M,2007-10-25,Hamilton,ON,Penicillin,154,52
+2470,Phil,Wylie,M,1979-05-03,Hamilton,ON,Penicillin,130,70
+2472,Tem,Dawson,M,2002-02-16,Waterford,ON,Penicillin,202,79
+2476,Abe,Hamilton,M,2015-11-11,Ottawa,ON,Sulfa,74,19
+2479,Elvis,Murphy,M,2003-09-11,Bartonville,ON,Penicillin,176,70
+2482,Paul,Rocco,M,1982-07-31,Hamilton,ON,,184,105
+2483,Yuri,Provenza,M,2008-04-08,Peterborough,ON,Sulfa,143,58
+2485,Leland,Trudeau,M,1995-05-30,St. Catharines,ON,,207,113
+2486,Jack,Lynch,M,2017-09-01,Hamilton,ON,Penicillin,46,10
+2487,Casanova,Cartwright,M,1955-09-28,Hamilton,ON,,195,87
+2488,Enrique,Smyth,M,2008-05-01,Kelowna,BC,,154,51
+2489,Nino,Maroni,M,1987-11-06,Grimsby,ON,Penicillin,171,82
+2490,Edward,Donnelly,M,2005-09-14,Hamilton,ON,Penicillin,177,72
+2491,Hyman,Corleone,M,1967-02-04,Burlington,ON,Penicillin,197,111
+2492,Jake,Burrell,M,1977-04-19,Dundas,ON,,173,140
+2494,Jonathan,Sionis,M,2011-04-23,Hamilton,ON,Penicillin,107,43
+2495,Blair,von Uberwald,M,1966-07-30,Toronto,ON,,208,122
+2499,Peter,Wallace,M,1990-06-23,Hamilton,ON,Codeine,175,67
+2500,Andy,Lopez,M,1955-01-13,Beamsville,ON,,140,59
+2502,Barry,Mephesto,M,2003-05-02,Milton,ON,Salicylic Acid,208,80
+2503,Don,McCrary,M,1978-04-12,Mississauga,ON,,195,121
+2505,Cross,Salieri,M,1968-10-28,Hamilton,ON,Sulfa Drugs,134,75
+2506,Jay,Doland,M,1989-10-13,Hamilton,ON,,158,63
+2508,Jack,Waterfield,M,1993-10-11,Hamilton,ON,Topical Anaesthesia,181,92
+2509,Vernon,Beckett,M,2000-07-20,Hamilton,ON,Sulfa Drugs,163,74
+2510,Don,Brady,M,1990-12-04,Orangeville,ON,,204,116
+2511,Lou,Ichi,M,2014-02-23,Hamilton,ON,Penicillin,81,26
+2512,Henry,Fuhrey,M,1980-09-22,Hamilton,ON,,172,101
+2514,Robert,Spratt,M,1949-10-09,Toronto,ON,,181,94
+2515,Alan,Kohran,M,2004-10-06,Hamilton,ON,Strawberries,187,81
+2516,Achille,Cameron,M,1972-07-08,Burlington,ON,Codeine,174,118
+2517,King,Brady,M,1971-09-28,Stoney Creek,ON,,218,101
+2518,Russell,Gabriel,M,1969-10-19,Windsor,ON,,179,109
+2522,George,Riggs,M,1987-12-18,Ancaster,ON,Penicillin,162,71
+2523,Don,Starveling,M,1962-01-27,Hamilton,ON,Codeine,198,101
+2524,Kurt,Bash,M,2002-09-03,Hamilton,ON,Tetracycline,191,78
+2526,Laszlo,Hastings,M,1979-05-29,Hamilton,ON,Strawberries,139,70
+2527,Marid,Stewart,M,1958-01-04,Hamilton,ON,,182,108
+2528,Horatio,Roberts,M,1960-12-04,Hamilton,ON,,164,107
+2530,David,Riviera,M,1995-08-29,Hamilton,ON,Strawberries,184,117
+2534,Ed,Rearden,M,2002-08-31,Hamilton,ON,,193,81
+2535,Walter,Rockatansky,M,2001-10-27,Toronto,ON,Penicillin,215,94
+2536,Jackson,Martinelli,M,2003-08-09,Toronto,ON,Codeine,194,83
+2537,Fin,Jimmy,M,1998-03-01,Hamilton,ON,,139,59
+2540,Sal,Barolli,M,1962-01-31,Burlington,ON,Penicillin,150,74
+2543,William,Fairhead,M,1992-01-26,Fruitland,ON,,174,95
+2544,Brad,Parker,M,1993-06-21,Hamilton,ON,,194,89
+2547,Chick,Ash,M,1973-03-22,Red River,MB,Codeine,170,107
+2548,Lloyd,Brockman,M,1959-07-24,Hamilton,ON,,205,111
+2549,Charlie,Cooper,M,1991-04-25,Kingston,ON,Penicillin,148,72
+2550,Jimmy,Gabriel,M,2012-07-22,Hamilton,ON,,98,27
+2552,Rex,Ortega,M,1978-01-17,Saskatoon,SK,,167,116
+2553,George,Costello,M,1997-01-23,Hamilton,ON,,165,59
+2556,Marcus,Jackson,M,1955-07-13,Brantford,ON,,205,104
+2558,Don,Lockwood,M,1997-05-23,Burlington,ON,,192,109
+2561,Max,Taggart,M,1993-05-24,Hamilton,ON,,147,88
+2563,Phil,Belden,M,1974-10-13,Hamilton,ON,,135,62
+2566,Eddie,McGrew,M,1977-04-03,Hamilton,ON,,204,135
+2568,James,Frye,M,2008-10-11,Hamilton,ON,Penicillin,134,48
+2569,Boris,Maroni,M,1951-08-31,Toronto,ON,,196,99
+2571,Tom,Kelso,M,1995-09-11,Carisle,ON,Penicillin,156,67
+2573,Harry,Dallas,M,1966-01-27,Milton,ON,Penicillin,168,82
+2574,Sam,Moss,M,2003-10-07,Stoney Creek,ON,,179,78
+2575,Thomas,Xavier,M,1961-06-25,Hamilton,ON,Penicillin,202,87
+2576,Mike,Larsen,M,1991-02-15,Stoney Creek,ON,,138,75
+2577,Jiveshwar,Evans,M,1957-12-26,Hamilton,ON,Tetracycline,164,80
+2579,Mel,Bell,M,2006-11-12,Stoney Creek,ON,,159,63
+2581,Maynard,Von,M,1992-05-16,Hamilton,ON,,192,119
+2583,Louis,Drama,M,1997-04-23,Hamilton,ON,Latex,190,131
+2584,Slam,De Lena,M,2009-02-01,Hamilton,ON,,108,53
+2585,Jimmy,Wylie,M,1949-11-24,Hamilton,ON,,153,78
+2586,Hecky,Stone,M,1948-11-10,Hamilton,ON,Tylenol,206,96
+2588,Alan,Clouseau,M,1998-10-24,Hamilton,ON,Codeine,204,119
+2589,Victor,Sinclair,M,1953-03-10,Hamilton,ON,Eggs,156,75
+2590,Mark,Abbot,M,2014-11-17,Toronto,ON,,68,21
+2592,Damian,Robins,M,1972-07-02,Brantford,ON,,184,104
+2593,Tony,Smiley,M,1961-11-03,Hamilton,ON,,174,91
+2594,Walter,Bachchan,M,2008-01-11,Hamilton,ON,Strawberries,136,47
+2595,Guy,Miller,M,1984-02-25,Burlington,ON,,185,79
+2596,Joey,Dorsey,M,1968-04-13,Stoney Creek,ON,,181,130
+2601,Lyan,Skelton,M,1976-10-31,Hamilton,ON,Codeine,177,59
+2603,Walter,Spade,M,1984-09-22,Dunton,ON,Penicillin,191,129
+2604,Artemus,Knight,M,1978-03-01,Hamilton,ON,Penicillin,176,117
+2605,Stringer,Thirteen,M,1982-05-25,Hamilton,ON,Penicillin,198,104
+2607,Wilfred,Sugden,M,2013-06-08,Dunton,ON,Codeine,87,30
+2608,Sal,Tsujimoto,M,1963-06-27,Burlington,ON,ASA,159,65
+2609,Paul,Omovich,M,1971-05-17,Cambridge,ON,Codeine,167,85
+2611,Rick,Franklin,M,2003-10-07,Hamilton,ON,,187,79
+2612,John,Mitchell,M,2010-06-17,Toronto,ON,,120,49
+2617,Rex,MacLeod,M,1952-10-01,Milton,ON,,182,106
+2619,Alan,Strange,M,2010-03-29,Hamilton,ON,,109,49
+2621,Rob,Waturs,M,1964-08-04,Dunton,ON,ASA,220,118
+2623,Cross,Denoon,M,1953-10-02,Hamilton,ON,,203,121
+2624,Benton,Sigel,M,1958-07-05,Stoney Creek,ON,,185,102
+2630,Chris,DAmico,M,1949-07-16,Brampton,ON,,193,110
+2631,Tom,McNab,M,1959-04-13,Caledonia,ON,ASA,149,68
+2632,Peter,Spellman,M,1994-06-20,Brampton,ON,Codeine,216,104
+2633,Elvis,Costello,M,1984-06-18,Milton,ON,,209,102
+2635,Marvin,Queen,M,1994-06-20,Hamilton,ON,Penicillin,154,70
+2637,Tom,Quince,M,2017-07-04,Hamilton,ON,ASA,38,6
+2638,Lloyd,Tate,M,1989-11-17,Hamilton,ON,,128,76
+2640,Henry,Jackson,M,2013-02-09,Stoney Creek,ON,,81,28
+2641,Wilfred,Vane,M,1968-09-22,Hamilton,ON,Penicillin Diazepam,179,101
+2645,Paul,Stracci,M,2016-02-16,Cambridge,ON,,61,15
+2646,George,Givens,M,2013-10-07,Hamilton,ON,Penicillin,79,28
+2649,Eddie,Skye,M,2015-11-22,Sarnia,ON,ASA,71,18
+2650,Harry,Dean,M,1958-03-05,Orangeville,ON,,196,111
+2652,Charles,Tony,M,1957-04-29,Red River,MB,Penicillin,205,118
+2653,Thomas,Ravenclaw,M,1974-08-30,Sarnia,ON,Penicillin,212,117
+2654,Jacques,Cropper,M,2005-09-22,Toronto,ON,,166,66
+2655,James,Dundee,M,1976-08-09,Brantford,ON,,223,104
+2656,Cal,Boxer,M,1985-09-19,Burlington,ON,Sulfa Drugs,178,112
+2662,Robert,Spellman,M,2008-09-08,Waterford,ON,,153,54
+2663,Joe,Iverson,M,1979-06-21,Hamilton,ON,Penicillin,186,100
+2665,Nick,Rivers,M,1967-05-20,Pickering,ON,,151,69
+2669,Dirk,Jackson,M,1969-06-06,Burlington,ON,,167,72
+2670,Frank,Dennis,M,2003-06-29,Montreal,QC,Acetaminophen,189,84
+2671,Jesse,Justice,M,1984-07-04,Toronto,ON,,178,121
+2677,Lucky,Allen,M,2010-06-08,Ottawa,ON,Sulfa,117,48
+2678,Richie,Gharty,M,1952-12-09,Hamilton,ON,,177,104
+2679,Sheldon,John,M,1975-08-01,Cambridge,ON,,219,108
+2680,Damian,Winslow,M,2012-02-26,Hamilton,ON,Seafood,103,30
+2681,Domenico,Glicker,M,1950-10-01,Hamilton,ON,Bee Stings,198,120
+2682,Jimmy,Wong,M,2011-07-24,Simcoe,ON,,101,35
+2683,John,Lee,M,1995-08-29,Toronto,ON,Codeine,218,99
+2686,Alex,John,M,1985-08-15,Grimsby,ON,Peanuts,194,116
+2687,Jiji,Caprice,M,2016-08-11,Niagara Falls,ON,,58,14
+2688,Tom,Falcon,M,2005-08-07,Hamilton,ON,,161,68
+2689,Kurt,Jones,M,2005-05-02,Burlington,ON,Penicillin,155,68
+2690,Velu,Bennett,M,1980-02-27,Burlington,ON,,156,64
+2692,Antonio,Oyama,M,1997-11-02,Hamilton,ON,Penicillin,174,84
+2693,Ronnie,Dingle,M,1966-06-07,Victoria,BC,Penicillin,159,70
+2694,Jason,Walker,M,1994-07-24,Ottawa,ON,Sulfa Drugs,193,92
+2695,Ford,Templin,M,1966-05-07,Hamilton,ON,,138,63
+2696,Peter,Canfield,M,2009-07-21,Toronto,ON,Penicillin,110,50
+2697,Van,Franchetti,M,2002-03-15,Hamilton,ON,,200,89
+2698,Frank,Brockman,M,2004-11-23,Victoria,BC,,160,73
+2699,Michael,Zatara,M,2017-10-01,Hamilton,ON,,52,11
+2700,David,Beckett,M,2010-03-26,Delhi,ON,,119,39
+2701,David,Dennis,M,1953-11-12,Smithville,ON,Penicillin,184,100
+2702,Santino,Bennett,M,1970-07-27,Tyndale,ON,Penicillin,167,76
+2704,Hari,Andonuts,M,1985-06-18,Burlington,ON,,158,76
+2705,Simon,Brockway,M,2002-05-04,Oakville,ON,Penicillin,191,83
+2707,Sonny,von Uberwald,M,1976-06-23,Hamilton,ON,,198,108
+2708,John,Colbert,M,1976-03-24,Hamilton,ON,,179,97
+2711,Shinwell,Brady,M,1959-02-08,Northbay,ON,Strawberries,197,106
+2712,Charlie,Barclay,M,1982-01-20,Hamilton,ON,,169,70
+2713,Charlie,Ripstein,M,1967-10-29,Grimsby,ON,Penicillin,197,119
+2714,Mickey,Fidelma,M,1952-06-05,Odessa,ON,Codeine,219,99
+2722,Sheldon,Dalton,M,2008-03-29,Hamilton,ON,,138,55
+2724,Ben,Tennison,M,1992-10-21,Toronto,ON,Valporic Acid,155,56
+2726,Santino,Hawker,M,1970-04-08,Hamilton,ON,,133,76
+2729,Benton,Rooney,M,1948-05-03,Hamilton,ON,,169,98
+2732,George,Scott,M,2017-07-30,Brockville,ON,Penicillin,44,8
+2738,Gary,Mephesto,M,1948-08-09,Toronto,ON,Penicillin,176,55
+2744,Daniel,Schibetta,M,2016-11-25,Hamilton,ON,ASA,51,11
+2745,Vijay,Spellman,M,1987-11-25,Hamilton,ON,Dust,204,115
+2748,Harold,Bowles,M,1976-04-14,Red River,MB,Penicillin,159,75
+2750,Snapper,DiMera,M,1967-09-23,Winona,ON,,204,123
+2751,Fred,Malcolm,M,2014-11-19,Calgary,ON,,68,21
+2755,Marty,Chesterton,M,1955-11-20,Hamilton,ON,,158,72
+2756,Kymani,Robbins,M,2017-10-12,Brantford,ON,Penicillin,35,6
+2757,Victor,Vimes,M,1962-07-26,Hamilton,ON,,189,121
+2759,Andy,Guarnaccia,M,1970-04-10,Grimsby,ON,Penicillin,168,76
+2760,Charles,Barclay,M,1980-05-29,Hamilton,ON,Latex,188,110
+2761,Dale,Snyder,M,1949-10-29,Cambridge,ON,,216,126
+2764,Avon,Neri,M,1991-02-04,Fruitland,ON,,149,76
+2765,Tolian,Bennet,M,1966-07-07,Hamilton,ON,Penicillin,174,100
+2768,Leonid,Barnfather,M,1945-10-15,Mississauga,ON,,160,74
+2769,Antonio,Cork,M,2017-01-08,Barrie,ON,,58,15
+2770,Norman,Halliwell,M,2017-11-05,Hamilton,ON,Penicillin,35,6
+2771,Stanislaus,Drew,M,1980-11-24,Milton,ON,,171,77
+2772,James,Sinclair,M,1962-07-26,Hamilton,ON,Penicillin,158,74
+2773,Norton,Hubbard,M,2014-03-21,Hamilton,ON,Codeine,81,26
+2774,Victor,Morris,M,1957-12-23,Brampton,ON,Sulfa Drugs,206,118
+2777,Tom,Dundee,M,1965-06-11,Burlington,ON,Eggs,161,75
+2779,Jack,Higby,M,1950-06-29,Brantford,ON,,141,83
+2780,James,Petrie,M,1990-12-19,Hamilton,ON,,141,80
+2781,Hal,Cabot,M,2003-04-30,Fruitland,ON,,200,84
+2782,Tom,McHuwen,M,1952-12-08,Ancaster,ON,,170,67
+2783,Ted,Marvin,M,2003-04-16,Cambridge,ON,Penicillin,193,75
+2784,Tony,Harrington,M,2000-08-12,Dunton,ON,Sulfa,144,78
+2785,Mike,Parrish,M,1992-03-16,St. Catharines,ON,,194,116
+2786,Alan,Billa,M,1952-01-26,Hamilton,ON,Penicillin,160,74
+2787,Minami,McArthur,M,1972-06-10,Barrie,ON,Almonds,198,109
+2788,Matthew,Dagg,M,1952-03-06,London,ON,,198,93
+2789,Akira,Henderson,M,2013-06-11,Hamilton,ON,Codeine,89,30
+2791,Francis,Stone,M,1967-09-28,Hamilton,ON,Sulfa Drugs,168,88
+2794,Tem,LeStrange,M,1996-11-19,Brantford,ON,Codeine,164,68
+2795,Peter,Dawson,M,1962-07-20,Brockville,ON,Penicillin,192,118
+2796,Tyler,Sanchez,M,1957-09-16,Mississauga,ON,Salicylic Acid,149,77
+2797,Raymond,Mannheim,M,1961-07-12,Ancaster,ON,,188,99
+2798,Roland,Sweets,M,2005-09-10,Misty,AB,Penicillin,153,67
+2800,Kit,Carlos,M,1983-03-18,Ancaster,ON,Sulfa Drugs,186,109
+2802,Shawn,Brockway,M,1979-03-29,Grimsby,ON,Penicillin,175,119
+2803,Caesar,Malfoy,M,1990-10-26,Saskatoon,SK,,197,116
+2804,Roland,Lewis,M,1963-10-19,Toronto,ON,Penicillin,179,110
+2805,Ethan,Glicker,M,2006-06-18,Fruitland,ON,Penicillin,161,62
+2806,Elvis,Royle,M,1966-10-22,Brantford,ON,,172,114
+2807,Brick Top,OBannon,M,1985-12-07,Oakville,ON,,201,115
+2809,Carmine,Capone,M,1982-10-18,Troy,ON,,185,124
+2810,Hal,Lino,M,1976-07-23,Hamilton,ON,,181,107
+2811,Gabriel,Price,M,1973-03-08,Milton,ON,Penicillin,189,63
+2812,Jake,Bradley,M,2003-01-03,Simcoe,ON,,199,78
+2814,Theo,Lopez-Fitzgerald,M,1977-04-04,Ancaster,ON,Codeine,160,69
+2815,Ronnie,Wong,M,1959-02-13,Hamilton,ON,,162,57
+2817,Basil,Milestone,M,1966-06-12,Calgary,ON,Penicillin,212,131
+2818,Philip,Reardon,M,1955-04-27,Halifax,NS,,161,62
+2819,Geordi,Trapani,M,2016-07-03,Timmins,ON,,60,14
+2821,Jimmy,Brown,M,1952-05-31,Hamilton,ON,,170,80
+2822,Cross,Dingle,M,1963-06-03,Hamilton,ON,,177,70
+2824,Theo,Vimes,M,1999-02-03,Dundas,ON,Sulfa,190,113
+2825,Jack,Cherrytree,M,1964-12-11,Cambridge,ON,,164,69
+2826,Thomas,Larkin,M,1951-11-19,Hamilton,ON,Codeine,144,70
+2828,Kurt,Hedley,M,1991-05-10,Hamilton,ON,Penicillin,192,126
+2829,Oswald,Handley,M,2005-08-04,Hamilton,ON,Cheese,150,65
+2830,Louie,Moorehead,M,1980-07-16,Brantford,ON,Tape,139,72
+2831,Rob,Lockwood,M,1965-09-10,Hamilton,ON,Penicillin,162,78
+2832,Larry,Adams,M,2007-11-02,Ancaster,ON,Codeine,156,62
+2833,Grant,Whitefield,M,1993-07-07,Burlington,ON,Penicillin,193,105
+2836,Ray,Blossom,M,1992-12-12,Toronto,ON,,155,70
+2837,Oliver,Licalsi,M,2012-09-28,Hamilton,ON,Penicillin,100,27
+2838,Alex,McGonagall,M,1966-06-13,Hamilton,ON,,201,103
+2839,Victor,Wildhack,M,1956-11-21,Hamilton,ON,,192,112
+2841,Spats,Buchanan,M,1971-05-07,Hamilton,ON,Micropore Tape,198,102
+2843,Ronnie,Turtle,M,1951-09-12,Cambridge,ON,Sulfa,149,64
+2844,Haiku,Lang,M,1951-11-09,Toronto,ON,Codeine,147,77
+2847,Art,Ranall,M,1992-05-02,Burlington,ON,ASA,179,80
+2848,Craig,Havers,M,1986-12-11,Hamilton,ON,,201,137
+2849,Clayton,White,M,1968-05-10,Toronto,ON,,210,113
+2854,Stefano,Gabriel,M,1975-03-09,Calgary,ON,,139,64
+2856,Sean,OMalley,M,1961-05-08,Halifax,NS,Sulfa,164,76
+2858,Jimmy,Stewart,M,1960-07-01,Hepworth,ON,,185,102
+2859,Chucky,Schwarzheimer,M,1968-11-12,Hamilton,ON,Shellfish,166,66
+2863,Matthew,Frankenstein,M,1991-10-07,Ancaster,ON,,194,130
+2864,Tom,Fitz,M,2011-05-14,Hamilton,ON,Penicillin,122,46
+2867,Andy,Lopez-Fitzgerald,M,1949-08-31,Brantford,ON,,191,129
+2868,James,Farley,M,2006-05-11,Hamilton,ON,Shellfish,174,60
+2871,Harry,Leone,M,1998-06-06,Burlington,ON,Penicillin,209,97
+2873,Tony,White,M,1948-06-08,Dundas,ON,,187,101
+2874,Jake,Stewart,M,1985-08-23,Timmins,ON,,153,77
+2875,Joey,Montford,M,1952-10-07,Burlington,ON,Tylenol,175,61
+2876,Lonnie,Lonnegan,M,1973-10-22,Toronto,ON,,186,109
+2880,Yuri,Churchill,M,1987-04-28,Cambridge,ON,,173,68
+2882,Leander,Xavier,M,2007-02-28,Hamilton,ON,,151,61
+2884,Larry,Malvern,M,2006-10-29,Hamilton,ON,Penicillin,147,62
+2885,Henri,Belski,M,2002-03-21,Halifax,NS,,199,81
+2890,Herr,Hoare,M,1983-03-09,Toronto,ON,,201,116
+2895,Noriyasu,Robbins,M,2011-06-05,Hamilton,ON,,92,32
+2898,Marlo,MacGyver,M,2010-10-26,Hamilton,ON,Penicillin,123,51
+2900,Corrado,Capone,M,1983-10-10,Burlington,ON,Iodine,165,73
+2903,Wayne,FUnke,M,1995-04-13,Dundas,ON,Codeine,154,62
+2905,Axel,Denton,M,1949-12-30,Ancaster,ON,Eggs,145,69
+2908,Ed,Coltrane,M,1994-01-11,Hamilton,ON,Pet Hair,149,75
+2911,Manick,Smythson,M,1994-11-20,Mississauga,ON,Valporic Acid,170,79
+2912,Al,Lewis,M,1983-03-16,Hamilton,ON,Micropore Tape,161,86
+2913,Michael,Che,M,1971-06-23,Ancaster,ON,Penicillin,154,74
+2914,Lloyd,Birkin,M,1991-08-13,Fonthill,ON,,172,116
+2915,Jack,McArthur,M,1965-03-24,Hamilton,ON,Penicillin,173,78
+2916,Al,Heat,M,1964-08-28,Hamilton,ON,Penicillin,203,108
+2918,Neil,Cale,M,2011-06-03,Hamilton,ON,Valporic Acid,113,37
+2921,Don,Sunen,M,2013-06-01,Carlisle,ON,Penicillin,80,27
+2923,Eddie,Weathers,M,1975-01-08,Sarnia,ON,,168,58
+2924,Carlos,Lionel,M,1968-10-05,Timmins,ON,,183,70
+2925,John,McAllister,M,1984-11-13,Barrie,ON,,176,102
+2929,Mel,Carlos,M,1989-04-18,Tyndale,ON,Acetaminophen,183,112
+2932,Arnold,Clearwater,M,1993-07-23,Brantford,ON,Codeine,175,75
+2935,Fred,Dingle,M,1982-07-02,Caledonia,ON,,193,117
+2937,Art,Sindone,M,1972-01-14,Hamilton,ON,,186,84
+2942,Tom,Leone,M,2002-08-10,Hamilton,ON,Penicillin,197,83
+2946,Gianni,Disher,M,1962-01-07,Calgary,ON,Hay Fever,193,101
+2948,Jake,De Lena,M,1953-11-08,Stoney Creek,ON,Penicillin,175,85
+2949,Jack,McLaren,M,1965-05-16,Hamilton,ON,Tetracycline,177,103
+2951,Bernard,Grant,M,1991-12-31,Toronto,ON,,149,70
+2956,Jesse,Vimes,M,1991-05-06,St. Catharines,ON,,175,105
+2957,Damon,Fairfax,M,1976-09-06,Fruitland,ON,Milk,193,126
+2958,Antonio,Donovan,M,1967-04-28,Walnut Grove,AB,ASA,185,107
+2959,George,Kane,M,1960-10-09,Toronto,ON,Milk,177,110
+2964,Jim,Mephesto,M,1994-10-07,Kingston,ON,Penicillin,142,90
+2965,Jay,Tanner,M,1971-08-28,Simcoe,ON,,192,109
+2967,Roger,Burbank,M,2006-05-24,Orillia,ON,Penicillin,157,68
+2972,Julien,Chino,M,1960-10-03,Paris,ON,,138,91
+2974,Lennie,Zatara,M,1951-05-17,Ancaster,ON,,183,70
+2976,Richard,Threep,M,2005-08-09,Caledonia,ON,,165,67
+2977,Don,Doggett,M,1957-06-20,Hamilton,ON,,185,131
+2981,Jim,Milo,M,1962-07-23,Hamilton,ON,,159,72
+2982,Frankie,Thomas,M,1954-07-01,Hamilton,ON,,161,128
+2983,Bolivar,Randall,M,1957-08-17,Hamilton,ON,,209,115
+2984,Will,Chandler,M,1988-04-20,Hamilton,ON,Sulfa,182,116
+2985,Hal,Kaiser,M,2011-04-24,Toronto,ON,Penicillin,88,34
+2990,Clark,Lonsdale,M,2013-10-03,Hamilton,ON,,91,29
+2991,Kenny,Serizawa,M,1960-07-20,Hamilton,ON,,175,96
+2992,Michael,Tabootie,M,1977-03-09,Hamilton,ON,Sulfa Drugs,203,111
+2995,Tem,Moreland,M,2008-03-29,London,ON,Penicillin Sulpha Drugs,142,46
+3000,Nicky,Prefect,M,1951-05-01,Hamilton,ON,Penicillin,161,78
+3001,Anthony,Scully,M,1974-03-17,Guelph,ON,Penicillin,169,83
+3002,Jacques,Croydon,M,1997-08-12,Cayuga,ON,,204,111
+3005,Caesar,Iosefa,M,2003-08-28,Cambridge,ON,,174,78
+3007,Stuart,McFly,M,1998-04-25,Hamilton,ON,,178,90
+3008,Ian,Iosefa,M,1984-01-22,Peterborough,ON,Penicillin,148,77
+3009,Bolivar,Lockwood,M,2000-07-22,Troy,ON,,182,66
+3010,Edgar,Vector,M,2001-04-27,Guelph,ON,Codeine,187,94
+3011,Thomas,LeStrange,M,2004-12-11,Hamilton,ON,,195,74
+3012,Henry,Cobb,M,1981-03-11,Hamilton,ON,Penicillin,184,119
+3013,Rico,Hillard,M,1960-01-16,Hamilton,ON,Penicillin,156,84
+3015,Milo,Wesley,M,2013-10-25,Toronto,ON,,76,28
+3017,Leslie,Farley,M,2017-07-03,Carisle,ON,,36,8
+3020,George,Carlyle,M,1978-05-30,Hamilton,ON,,214,119
+3022,Leo,Sullivan,M,1987-11-29,Hamilton,ON,Penicillin,204,131
+3035,Ronnie,Thorne,M,1954-03-23,Hamilton,ON,Codeine,176,80
+3036,Douglas,Owens,M,1999-06-09,Hamilton,ON,,186,106
+3037,Jim,Stewart,M,1998-03-06,Hamilton,ON,Penicillin,195,131
+3038,Mycroft,Fitz,M,1979-08-23,Hamilton,ON,,195,109
+3039,Malik,Burdock,M,2003-10-13,Brantford,ON,Sulfa,189,81
+3040,Kazuki,Hoare,M,1988-01-22,Hamilton,ON,Sulfa Drugs,201,94
+3042,Basil,Brockman,M,1974-09-09,Hamilton,ON,Codeine,176,112
+3043,Mickey,Spellman,M,1994-12-03,Barrie,ON,Feathers,191,113
+3044,John,Waterfield,M,2009-08-17,Grimsby,ON,,119,57
+3045,Lucky,White,M,1949-06-05,Guelph,ON,Micropore Tape,154,91
+3049,Dorian,Vondopoulos,M,1981-10-27,Brantford,ON,,206,121
+3050,Ben,Mephesto,M,1970-09-02,Marcam,ON,Tylenol,164,61
+3053,Andrew,Reilly,M,1978-04-17,Bartonville,ON,ASA,173,70
+3055,Giacomo,Randall,M,1953-10-07,Montreal,QC,Hay Fever,148,85
+3057,Carmine,Speedman,M,1971-07-27,Bancroft,ON,,138,57
+3058,Reginald,George,M,1968-06-21,Hamilton,ON,Micropore Tape,199,116
+3063,Frederico,Lerrol,M,1978-04-22,Toronto,ON,Penicillin,143,77
+3066,Thomas,Soap,M,1950-04-22,Toronto,ON,,148,87
+3068,Carlos,Harrison,M,1982-04-01,Brantford,ON,Salicylic Acid,145,78
+3069,Chucky,Brikowski,M,1992-07-15,Hamilton,ON,Penicillin,151,59
+3070,Richard,Wildhack,M,1980-11-12,Grimsby,ON,Bee Stings,140,70
+3071,Ted,Powers,M,2018-03-29,Milton,ON,Codeine,43,4
+3072,Bruno,Knight,M,2015-01-10,Hamilton,ON,Codeine,66,22
+3073,Chris,Kitka,M,1971-09-25,Hamilton,ON,,173,108
+3074,Grant,Hernandez,M,1960-12-22,Hamilton,ON,Penicillin,171,119
+3075,Marsellus,Falcone,M,1925-03-14,Smithville,ON,Codeine,202,124
+3076,Adam,Freamon,M,1961-08-06,Hamilton,ON,Sulfa,209,112
+3080,Peter,Dean,M,1963-06-05,Delhi,ON,Codeine,206,123
+3081,Abe,Ogawa,M,1950-06-25,Hamilton,ON,,188,110
+3082,Alex,Burbage,M,1958-02-06,Hamilton,ON,Penicillin,165,121
+3084,Jack,Stark,M,1976-09-25,Hamilton,ON,Sulfa,196,124
+3086,Carmine,Willing,M,1994-03-27,Hamilton,ON,Penicillin,194,100
+3088,Martin,LeStrange,M,1956-07-21,Stoney Creek,ON,Penicillin,154,84
+3089,Bill,Dax,M,2010-08-31,Barrie,ON,Sulfa,130,43
+3090,Michael,Bruckshot,M,1997-07-29,Toronto,ON,Sulfa Drugs,177,89
+3091,Buddy,Sugden,M,1958-04-07,Dundas,ON,,161,92
+3092,Jimmy,Boyd,M,1998-03-04,Hamilton,ON,,172,112
+3093,Harvey,di Marco,M,2005-04-08,Hamilton,ON,,181,64
+3094,Arjen,Kent,M,1983-09-01,Whitby,ON,Penicillin,154,62
+3095,Chen,Robert,M,2012-12-03,Red River,MB,,91,27
+3096,Jin,Vaughn,M,1985-05-06,Hamilton,ON,Penicillin,163,75
+3098,Curro,Preston,M,1996-01-05,Hamilton,ON,ASA,164,69
+3100,Leon,Macdonald,M,1981-05-04,Toronto,ON,,147,69
+3101,Henry,Spellman,M,2014-11-29,Hamilton,ON,Penicillin,67,22
+3102,Sam,Mills,M,2005-04-06,Hamilton,ON,Sulfa,151,74
+3103,Sam,Redfield,M,1968-04-28,Brantford,ON,,185,115
+3107,Giacomo,Greer,M,1958-08-05,Timmins,ON,,186,102
+3108,Javier,Snout,M,1973-03-21,Hamilton,ON,Penicillin,151,73
+3110,Frank,Masucci,M,1986-11-01,Hamilton,ON,Penicillin,153,80
+3111,Frank,Aceveda,M,1955-05-22,Hamilton,ON,Penicillin,209,103
+3113,Andy,Allan,M,1959-05-14,Hamilton,ON,,175,69
+3115,Joe,Daggett,M,1968-07-31,Toronto,ON,,161,83
+3116,Maxim,Grayson,M,1978-02-14,Hamilton,ON,Strawberries,204,117
+3117,Harry,Fife,M,1984-08-09,Hamilton,ON,Penicillin,206,98
+3118,Marty,Fox,M,1949-03-05,Victoria,BC,,197,121
+3121,Gregory,Seldon,M,1975-02-16,Peterborough,ON,,196,106
+3122,Tex,Roth,M,2007-10-05,Dundas,ON,ASA,146,64
+3123,Sam,Carver,M,1980-11-28,Burlington,ON,Penicillin,171,97
+3125,Ryuichiro,Taylor,M,1990-12-30,Ajax,ON,Codeine,133,63
+3127,Simon,Vimes,M,2014-02-20,Toronto,ON,Penicillin,81,27
+3128,Tristan,Pomfrey,M,1989-07-13,St. Catharines,ON,Codeine,196,126
+3130,Jack,Sprockett,M,1978-04-17,Grimsby,ON,,213,126
+3131,Ronnie,Pulaski,M,1987-09-22,Hamilton,ON,Penicillin,200,109
+3132,John,Tura,M,2002-04-03,Brockville,ON,,204,77
+3139,Jacques,Kojak,M,1979-06-28,Toronto,ON,,173,107
+3140,Salvatore,Torres,M,1976-10-28,Hamilton,ON,Penicillin,173,80
+3145,Peter,Tully,M,2009-07-13,Hamilton,ON,,116,54
+3146,Cal,Savage,M,1992-10-13,Hamilton,ON,,181,85
+3148,Vincent,Otley,M,2003-06-14,Hamilton,ON,,182,88
+3149,Harry,Bigelow,M,1971-03-29,Toronto,ON,,209,94
+3151,Wellington,Fitz,M,1965-06-20,St. Catharines,ON,Penicillin,199,118
+3152,Jaki,Tutuola,M,2015-12-19,Hamilton,ON,,67,21
+3154,Samuel,Cherrytree,M,2013-01-28,Dundas,ON,,85,29
+3156,Vislor,Sagdiyev,M,1938-06-27,Inverness,NS,,179,108
+3157,Peter,Meedhan,M,2013-06-15,Victoria,BC,Codeine,93,30
+3158,Cross,Halliwell,M,1973-08-02,Waterford,ON,Topical Anaesthesia,186,133
+3160,Rex,Clericuzio,M,2002-04-29,Toronto,ON,Hay Fever,197,75
+3162,Peter,Moses,M,2002-12-10,Hamilton,ON,Penicillin Environmental,193,87
+3164,Gary,Banks,M,2008-08-21,Walnut Grove,AB,,144,48
+3166,Peter,Alvarez,M,2014-10-02,Hamilton,ON,Penicillin,66,21
+3168,George,Malfoy,M,1964-02-23,Hamilton,ON,Penicillin,180,81
+3169,Eddie,Fowler,M,1982-02-19,Hamilton,ON,,141,76
+3172,Tony,Double,M,1953-06-15,Halifax,NS,Codeine,156,71
+3175,Stephen,Corrigan,M,1956-09-26,Milton,ON,,177,83
+3178,Don,Brown,M,1955-08-20,Edmonton,AB,Penicillin,144,63
+3181,Cletus,Punchinello,M,1977-08-20,Ottawa,ON,Sulfa Drugs,193,108
+3182,Signor,Johnson,M,2001-04-30,Brantford,ON,Peanut Butter,204,88
+3184,Paul,Mitchell,M,1972-11-21,Hamilton,ON,,163,113
+3185,Gary,Burdock,M,2005-06-09,Walnut Grove,AB,Codeine,167,62
+3187,Frank,Owens,M,2000-10-13,Hamilton,ON,,209,113
+3189,Lloyd,Nesmith,M,1977-06-24,Hamilton,ON,Penicillin,172,64
+3191,Jake,Addy,M,1962-08-18,Troy,ON,,135,76
+3194,Kenny,Milbury,M,2013-07-04,Brantford,ON,Codeine,84,27
+3195,Achille,Thomas,M,1994-10-08,Hamilton,ON,Penicillin,157,59
+3196,Thomas,Newman,M,1983-08-28,Burlington,ON,,158,67
+3198,Aldo,Lang,M,2010-05-05,Hamilton,ON,Penicillin,99,42
+3208,Callum,Johnson,M,1968-08-04,Hamilton,ON,Tylenol,130,79
+3209,Brian,McEvoy,M,1990-04-27,Halifax,NS,,187,107
+3211,Stuart,Caprice,M,2012-04-23,Toronto,ON,,94,31
+3212,Lucky,Ramsey,M,1983-12-05,Hamilton,ON,,166,70
+3213,Les,Rudd,M,1975-11-06,Burlington,ON,,152,69
+3214,Adam,McFly,M,1957-06-02,Hamilton,ON,,132,77
+3216,Kurt,OHara,M,2016-01-16,Stoney Creek,ON,Penicillin,53,13
+3218,Eddie,Hammer,M,2002-08-31,Halifax,NS,Sulfa,192,86
+3220,Mike,Levinson,M,1995-08-06,Hamilton,ON,Penicillin,175,69
+3221,Don,Mason,M,1978-10-19,Brantford,ON,,205,105
+3224,Bernard,Drake,M,1976-10-10,Ottawa,ON,,151,85
+3226,Paul,Johnson,M,1978-07-13,Hamilton,ON,,168,122
+3227,Misao,Thorndyke,M,1960-02-22,Hamilton,ON,,168,66
+3228,Beppe,Parrish,M,1984-10-31,North York,ON,,153,78
+3229,Sam,Pike,M,2014-04-17,Chicoutimi,QC,Wheat,78,25
+3231,Eddie,Greene,M,2011-06-16,Mississauga,ON,,98,34
+3232,Jimmy,Anderson,M,2004-10-20,Burlington,ON,,170,82
+3234,Jean-Baptiste,Bass,M,1979-12-12,Windsor,ON,Topical Anaesthesia,143,64
+3235,Indiana,Iosefa,M,1992-06-07,Simcoe,ON,Penicillin,150,74
+3236,Jack,Flinstone,M,1999-04-28,Hamilton,ON,,191,102
+3237,Rosco,McGraw,M,2017-04-29,Hamilton,ON,Sulphur,35,7
+3238,Hecky,Diaz,M,1952-12-30,Grimsby,ON,Penicillin,147,78
+3239,Vito,Falconeri,M,1970-06-03,Hamilton,ON,Penicillin,183,114
+3241,Brick,Nederlander,M,1994-12-31,Windsor,ON,Codeine,192,122
+3243,Chris,Vargo,M,1981-09-02,Northbay,ON,Peanut Butter,210,138
+3245,Ben,Cooper,M,2015-12-04,Delhi,ON,Penicillin,57,16
+3248,Julio,Lawson,M,1977-12-07,Hamilton,ON,Penicillin,199,131
+3249,Lyan,Haruko,M,1964-08-18,Hamilton,ON,Wheat,173,112
+3250,John,Anderson,M,1986-04-04,Hamilton,ON,,142,80
+3251,Tom,Arrowsmith,M,1948-08-25,Fruitland,ON,,188,96
+3252,Evan,Raynor,M,2010-06-20,Hamilton,ON,,112,35
+3253,Tom,Freamon,M,1956-08-28,Hamilton,ON,Iodine,173,73
+3254,Frederick,Van Helsing,M,1993-10-19,Edmonton,AB,Pork,188,97
+3256,Brian,Lopez-Fitzgerald,M,1949-01-07,Waterford,ON,,176,127
+3258,Garryn,Handley,M,1977-06-21,Hamilton,ON,,142,72
+3260,Angelo,Prentiss,M,1965-08-10,Hamilton,ON,,185,112
+3262,Marcus,Landsman,M,1970-07-11,Marcam,ON,,135,86
+3263,Jiveshwar,Frobisher,M,1993-10-20,Hamilton,ON,,147,76
+3266,Casanova,Tsuna,M,2016-03-24,Hamilton,ON,,56,15
+3270,Jim,Grant,M,1978-06-26,Toronto,ON,,162,76
+3271,Arjen,Blake,M,1983-07-15,Toronto,ON,,172,72
+3272,Ford,Owens,M,1972-11-18,Barrie,ON,Penicillin,165,79
+3273,Roman,Claibourne,M,1954-11-17,Victoria,BC,Sulfa,165,86
+3274,Ben,Fraser,M,1992-09-01,Toronto,ON,Codeine,154,76
+3275,Andy,Stone,M,2000-11-14,Dundas,ON,,177,126
+3276,Jack,Ridolph,M,1958-01-07,Fruitland,ON,Penicillin,213,100
+3277,John,Lejeune,M,1977-01-15,Hamilton,ON,,167,128
+3279,Martin,Overstreet,M,1973-11-26,Guelph,ON,,223,113
+3282,Sam,Moss,M,1980-10-24,Hamilton,ON,,156,67
+3283,Casanova,Littlefield,M,1988-07-03,Peterborough,ON,,151,55
+3284,Lloyd,Matthews,M,1993-04-30,Toronto,ON,Sulfa,132,71
+3285,Paul,Lord,M,1998-07-10,Hamilton,ON,Penicillin,166,63
+3287,Harris,Green,M,1995-04-21,Delhi,ON,,169,56
+3288,Louie,Capone,M,1958-08-22,Hamilton,ON,Sulfa,180,68
+3289,Will,Fabray,M,1994-05-28,Kelowna,BC,,204,119
+3290,Aric,Rosewood,M,1944-03-20,Hamilton,ON,,195,119
+3291,Vito,Fabray,M,1960-08-06,Orangeville,ON,,177,123
+3294,Jefferson,Falcone,M,2005-05-04,Hamilton,ON,,147,69
+3297,Pat,Owens,M,1986-09-06,Grimsby,ON,Penicillin,159,87
+3298,Daneel,Garrett,M,1975-07-17,Barrie,ON,,199,88
+3300,Harry,Beckett,M,1999-03-04,Hamilton,ON,Penicillin,191,126
+3301,Don,Space,M,1955-10-28,Hamilton,ON,Codeine,182,77
+3308,Freddy,Starsmore,M,1992-06-04,Toronto,ON,,158,70
+3309,Rex,Holmes,M,1963-05-07,Orillia,ON,,157,56
+3310,Shion,Fairweather,M,1963-02-22,Barrie,ON,,210,113
+3311,Thomas,Lindley,M,2013-08-28,Kelowna,BC,,89,30
+3312,Indiana,Peabody,M,1987-07-01,Hamilton,ON,Peanuts,181,118
+3314,Joseph,Graham,M,2009-06-08,Hamilton,ON,Latex,146,47
+3316,Benjamin,Ka-kui,M,1985-03-28,Barrie,ON,,200,104
+3317,William,Scotts,M,1981-02-22,Hamilton,ON,,191,120
+3320,Carl,Scotts,M,1980-06-06,Hamilton,ON,,154,65
+3322,Rupert,Kane,M,1990-02-19,Burlington,ON,,191,106
+3323,Robin,Sanchez,M,1980-07-23,Hamilton,ON,ASA,219,125
+3324,Elvis,Babbling,M,1998-08-21,Hamilton,ON,Valporic Acid,174,104
+3325,Jerry,Powers,M,1979-09-29,Toronto,ON,,177,65
+3327,Phil,Waturs,M,2002-11-12,Ancaster,ON,,179,85
+3328,Jamie,Pianta,M,1990-07-22,Hamilton,ON,Penicillin,195,101
+3329,Bernard,Halifax,M,1958-04-24,Delhi,ON,Sulfa,188,128
+3330,Henry,Huang,M,1980-06-06,Milton,ON,Morphine,186,99
+3334,Joe,Disher,M,1988-07-09,Hamilton,ON,Peanuts,171,120
+3335,Burr,Page,M,1959-01-20,Hamilton,ON,,162,83
+3336,Philip,Donahue,M,1962-06-12,Toronto,ON,Pet Hair,128,81
+3337,Mickey,MacAllister,M,1994-08-21,Hamilton,ON,Penicillin,209,128
+3340,Johnny,McAllister,M,2005-09-05,Toronto,ON,,167,77
+3343,Jack,di Marco,M,2006-05-08,Hamilton,ON,Penicillin,160,57
+3345,John,Witherdale,M,2011-11-08,Dundas,ON,Penicillin,123,48
+3347,Trevor,Schwarzburger,M,1982-05-23,Hamilton,ON,Penicillin,179,90
+3349,Jack,Underwood,M,2001-04-21,Cambridge,ON,Penicillin,208,79
+3351,Philip,Hojo,M,1979-04-28,Hamilton,ON,,206,99
+3353,Duncan,Bosch,M,1969-03-26,Burlington,ON,,190,111
+3355,Thomas,Brown,M,2017-08-23,Toronto,ON,Micropore Tape,50,9
+3357,Andy,Roland,M,2002-02-28,Hamilton,ON,Penicillin,201,77
+3362,Tommy,Stottlemeyer,M,1982-11-10,Paris,ON,,163,78
+3363,Peter,Treskovna,M,1948-11-22,Cambridge,ON,Sulfa,149,62
+3364,Stephen,Summers,M,1979-12-29,Hamilton,ON,,164,94
+3366,Alan,Davis,M,1970-04-14,Kingston,ON,Codeine,204,106
+3368,Vislor,Ichi,M,1975-01-01,Burlington,ON,Penicillin,177,105
+3370,Lex,Tabak,M,2002-11-22,Hamilton,ON,Sulfa,194,89
+3371,George,Sena,M,2009-10-22,Hamilton,ON,Penicillin,130,41
+3373,Guy,Lodge,M,2006-10-07,Hamilton,ON,Sulfa Drugs,154,73
+3374,John,Kendall,M,1987-08-03,Toronto,ON,Penicillin,132,69
+3377,Al,Brownlee,M,1965-08-13,Toronto,ON,,128,68
+3378,Jean-Baptiste,Jenkins,M,1953-11-23,Toronto,ON,,175,83
+3379,William,Jones,M,1958-03-14,Hamilton,ON,Penicillin,179,111
+3380,Moe,Waters,M,2004-07-24,Sarnia,ON,,166,70
+3382,Alan,Cameron,M,1999-05-20,Hamilton,ON,,222,108
+3385,Carmine,Fabray,M,1977-12-02,Hamilton,ON,Tylenol,163,70
+3386,Caesar,Nessman,M,1957-02-04,Hamilton,ON,Penicillin,154,67
+3390,Nohar,Lamb,M,1997-04-06,Kelowna,BC,,190,98
+3396,Phil,Lang,M,2009-02-28,Cambridge,ON,,118,52
+3397,Lloyd,Edgecombe,M,1950-03-27,Hamilton,ON,Penicillin,199,104
+3399,Daniel,Scott,M,1963-11-02,Hamilton,ON,Penicillin,173,69
+3404,David,Orlock,M,1964-12-09,Hamilton,ON,ASA,184,94
+3405,Bruce,Barzini,M,1953-09-22,Hamilton,ON,ASA,183,134
+3407,Will,Crane,M,2017-12-11,Hamilton,ON,Penicillin,50,11
+3410,Marty,McGee,M,2013-02-10,Hamilton,ON,Penicillin,92,29
+3414,George,Rockford,M,2014-05-06,Hamilton,ON,Iodine,68,22
+3415,Anthony,Landsman,M,2015-05-25,Hamilton,ON,Sulfa Drugs,67,20
+3417,Simon,Heriot,M,1972-05-26,Hamilton,ON,,181,83
+3419,Wayne,Maximoff,M,2016-11-16,Calgary,ON,,56,15
+3422,Dayne,Lynch,M,2010-05-22,London,ON,Micropore Tape,128,45
+3423,Eddie,Wagenbach,M,1975-12-10,Toronto,ON,Penicillin,168,73
+3424,Jack,Stone,M,1989-05-23,Ancaster,ON,,202,118
+3425,Thomas,Ramsey,M,1997-05-13,Hamilton,ON,Peanuts,167,69
+3426,Aric,Tucker,M,2011-04-20,Mississauga,ON,Sulfa Drugs,102,35
+3427,Tulio,Hastings,M,1949-02-19,Ottawa,ON,,176,76
+3429,Artemus,Vogelsang,M,1959-03-15,Toronto,ON,Penicillin,187,78
+3431,Vincent,Ross,M,1996-05-17,Burlington,ON,Valporic Acid,215,108
+3432,Guy,Kruse,M,1988-10-30,Hamilton,ON,Codeine,185,122
+3433,Peter,Lynley,M,2007-10-26,Hamilton,ON,Penicillin,137,62
+3435,Briareos,Rosetta,M,1982-05-13,Hepworth,ON,Sulfa Drugs,214,121
+3436,Mickey,Ross,M,1999-08-01,Kingston,ON,,197,92
+3437,Noonien,Knute,M,1969-07-29,Toronto,ON,,152,74
+3438,Jack,Roberts,M,1965-06-16,Toronto,ON,Strawberries,215,107
+3441,Justin,Tsuna,M,2005-01-22,Toronto,ON,,150,69
+3442,Ricardo,Chester,M,2003-06-18,Beaverton,ON,ASA,164,70
+3443,Fred,Mancini-Corleone,M,1997-12-05,Hamilton,ON,,156,84
+3445,Miles,Taylor,M,1951-01-07,Hamilton,ON,Tetracycline,180,57
+3446,Selsdon,Leela,M,1973-11-02,Fruitland,ON,,186,118
+3447,Joe,Brady,M,1990-07-22,Hamilton,ON,Codeine,224,99
+3449,Sam,Seta,M,1960-08-13,Hamilton,ON,,200,115
+3451,Ben,Kent,M,2013-10-12,Brantford,ON,Sulfa,78,26
+3452,Kevin,Kent,M,2001-05-19,Hamilton,ON,Penicillin,214,94
+3453,Gregory,Wheeler,M,1953-09-16,Hamilton,ON,Codeine,179,87
+3454,Henry,Daggett,M,1965-02-01,Burlington,ON,Codeine,146,86
+3455,Jay,Turpin,M,2006-06-20,Waterloo,ON,,156,67
+3458,Buzz,Anneke,M,2001-08-02,Toronto,ON,Penicillin,198,92
+3460,Jack,Beckett,M,1966-10-29,Hamilton,ON,,188,92
+3462,Ben,Donahue,M,1997-05-04,Toronto,ON,,145,60
+3465,Alpa,Ramsey,M,1986-08-28,Hamilton,ON,,204,110
+3468,Kazuki,Ray,M,1961-06-13,Hamilton,ON,,202,122
+3469,Bryan,Reed,M,2002-04-06,Hamilton,ON,,194,80
+3470,Chuck,Strange,M,2002-02-23,Hamilton,ON,Valporic Acid,189,83
+3473,Meyer,Spellman,M,1982-11-15,Dundas,ON,Pet Hair,177,127
+3475,Dan,Crockett,M,1961-10-03,Port Dover,ON,,193,131
+3478,Cletus,Fabray,M,1982-12-10,Timmins,ON,Penicillin,189,111
+3480,Jack,Bergman,M,1983-06-23,Hamilton,ON,,186,123
+3484,Robert,Kasen,M,2003-10-30,Montreal,QC,,183,73
+3487,Stanislaus,Rice,M,1982-04-21,Hamilton,ON,Penicillin,209,103
+3488,Jackson,Kennedy,M,1958-06-27,Hamilton,ON,,208,115
+3489,Troy,Zatara,M,1972-03-16,Halifax,NS,Penicillin,147,81
+3490,Knox,Lee,M,2004-11-21,Hamilton,ON,ASA,178,76
+3492,Jamie,Riley,M,1974-08-23,Hamilton,ON,,139,65
+3493,Robin,Van,M,1980-06-13,Hamilton,ON,Micropore Tape,189,135
+3494,Brad,Cotter,M,2013-06-29,Hamilton,ON,Sulfa Drugs,94,29
+3496,Harry,Lucas,M,2013-05-29,Burlington,ON,Micropore Tape,81,28
+3497,Quito,Nash,M,1958-01-20,Brantford,ON,Aspirin,186,122
+3498,Don,Omovich,M,1968-06-15,Hamilton,ON,Peanut Butter,154,88
+3499,Cal,Freeman,M,1968-03-12,Hamilton,ON,Tetracycline,190,111
+3500,Rajesh,Wilson,M,1992-05-23,Hamilton,ON,,215,119
+3501,George,Principal,M,1994-05-06,Cambridge,ON,Penicillin,172,86
+3503,Kenny,Franco,M,1950-11-07,Fruitland,ON,Codeine,168,75
+3506,Ethan,Dax,M,1966-01-23,Hamilton,ON,Penicillin,141,77
+3510,Steven,Antony,M,1967-10-16,Simcoe,ON,Tetracycline,222,96
+3512,Cal,Powers,M,2004-10-21,Hamilton,ON,,175,79
+3515,Nicky,Zale,M,1988-03-28,Fruitland,ON,,186,123
+3522,Avon,Kent,M,1990-05-01,Carlisle,ON,Penicillin,159,84
+3523,David,Mitchell,M,2013-05-17,Hamilton,ON,,81,26
+3524,Snapper,Leon,M,1988-09-27,Toronto,ON,Penicillin,161,66
+3526,Holt,Anders,M,1958-01-04,Hamilton,ON,Penicillin,181,120
+3527,David,Hoare,M,1965-10-09,Waterford,ON,,158,70
+3528,Zack,Drew,M,1963-05-05,Hamilton,ON,,135,73
+3531,Richard,Taylor,M,1957-07-08,Halifax,NS,Penicillin,192,113
+3533,Stan,Alvin,M,1973-08-24,Oakville,ON,,178,107
+3536,Jango,Willing,M,2017-08-13,Grimsby,ON,,54,9
+3538,Simon,Schrute,M,1976-02-21,Simcoe,ON,Penicillin,197,111
+3539,Jefferson,McCrimmon,M,2015-12-02,Saskatoon,SK,Topical Anaesthesia,71,20
+3540,Charlie,Spratt,M,1988-10-23,Hamilton,ON,Shellfish,163,70
+3541,Frank,Enrico,M,1986-03-04,Ottawa,ON,Penicillin,181,116
+3544,Alex,Sprockett,M,1954-07-07,Victoria,BC,,159,75
+3545,Kurt,Zapatti,M,1967-01-25,Dundas,ON,,191,110
+3546,Mickey,Dent,M,1998-08-05,Brantford,ON,Penicillin,179,113
+3547,Joey,Carrington,M,1951-09-15,Hamilton,ON,,179,120
+3548,Tom,Medford,M,1994-10-03,Dunnville,ON,,183,123
+3549,Rosco,Brennan,M,1977-06-09,Hamilton,ON,,146,73
+3550,Abraham,Meacham,M,2009-05-27,Hamilton,ON,Tape,125,59
+3551,Joel,Duncan,M,2000-07-15,Fruitland,ON,,135,65
+3552,Neil,Verma,M,1989-04-18,Windsor,ON,Codeine,131,68
+3553,Harris,Macdonald,M,1987-05-16,Hamilton,ON,,182,105
+3554,Simon,Anneke,M,2015-10-15,Paris,ON,,67,19
+3555,Jack,Caspar,M,1993-05-10,Hamilton,ON,,159,68
+3556,Neville,Derwent,M,1980-08-27,Hamilton,ON,ASA,197,111
+3568,Milo,Farrell,M,2011-06-19,Grimsby,ON,Codeine,90,41
+3569,Shion,Hagen,M,2017-05-28,Brantford,ON,,49,11
+3570,Barry,Fellowes,M,2014-07-14,Hamilton,ON,Lactose Intolerant,78,25
+3572,Mendy,Foley,M,1959-10-12,Toronto,ON,Demerol,154,78
+3573,Leo,Turlough,M,1948-12-23,Hamilton,ON,,166,66
+3574,Charlie,Pope,M,2004-10-16,Grimsby,ON,,172,78
+3577,Gary,Gharty,M,1974-08-11,Hamilton,ON,Shellfish,154,56
+3578,Joel,Taylor,M,1967-06-04,Hamilton,ON,Penicillin,143,75
+3582,Frank,Hoare,M,2000-12-26,Beamsville,ON,,196,113
+3583,Tulio,Boddicker,M,1985-11-20,Hamilton,ON,Sulfa Drugs,169,100
+3584,Carlito,Raziel,M,1958-08-04,Hamilton,ON,Codeine,164,104
+3590,Paul,Battersby,M,1954-01-09,Hamilton,ON,,159,84
+3591,Guy,Tyrell,M,1973-02-05,Dundas,ON,ASA,190,95
+3592,Alex,DAmico,M,1950-08-09,Hamilton,ON,,193,115
+3593,Sasha,Lane,M,2010-08-25,Dundas,ON,,131,45
+3594,Lou,Osterman,M,1989-06-04,Hamilton,ON,Sulfa Drugs,139,77
+3595,Paulie,Boddicker,M,1959-09-04,Oakville,ON,Penicillin Sulpha Drugs,222,108
+3598,Clay,Sturgis,M,2006-09-17,Milton,ON,,161,61
+3601,Ted,Martinelli,M,1960-02-18,Hamilton,ON,,195,122
+3602,David,McAllister,M,1978-05-29,Windsor,ON,,162,80
+3604,Todd,Tankinson,M,1958-06-21,Hamilton,ON,,191,103
+3605,Daniel,Caxton,M,1962-06-15,Waterford,ON,Penicillin,155,58
+3607,Wayne,Kane,M,1952-12-22,London,ON,Tylenol,196,97
+3611,Ben,Maroni,M,1975-11-02,Kapuskasing,ON,,155,69
+3614,Edward,Moorehead,M,1988-11-10,Peterborough,ON,Penicillin,169,97
+3617,Kent,Jacobs,M,2009-02-07,Toronto,ON,Morphine,132,57
+3618,Richard,Arroway,M,1970-04-13,Hamilton,ON,,204,119
+3619,Simon,Edwards,M,1949-10-19,Saskatoon,SK,,202,111
+3620,Cash,Komov,M,1968-10-24,Brampton,ON,,171,77
+3621,Tom,Yurinov,M,1986-01-13,Brockville,ON,Penicillin,215,106
+3624,Guy,Kent,M,2007-07-13,Hamilton,ON,Penicillin,150,58
+3627,Mark,Leigh,M,1959-06-17,Hamilton,ON,,178,131
+3628,Zefram,Thomas,M,2003-06-12,Hamilton,ON,,198,77
+3629,Otis,McGraw,M,2016-04-13,Hamilton,ON,Codeine,51,13
+3631,Peter,Provenza,M,1988-11-14,Hamilton,ON,Penicillin,155,71
+3633,Sam,Jackson,M,2007-11-16,Hamilton,ON,Penicillin,119,52
+3636,Briareos,Larsen,M,1988-08-06,Thunder Bay,ON,ASA,150,65
+3640,Tom,McAllister,M,1983-05-16,Kingston,ON,,176,124
+3641,Clark,Mancini-Corleone,M,1967-08-20,Hamilton,ON,,192,126
+3642,Neil,Hedley,M,2005-04-14,Carisle,ON,Peanuts,143,67
+3644,Chucky,Lem,M,1986-06-11,Ottawa,ON,Elastoplast Bondage,167,65
+3647,Anthony,Moses,M,1971-11-21,Hamilton,ON,,152,82
+3648,Bryan,Burdock,M,2010-05-05,Hamilton,ON,,123,46
+3649,Don,de Souza,M,1987-05-15,Hamilton,ON,Penicillin,214,118
+3650,Thomas,Omovich,M,1972-01-06,Hamilton,ON,Penicillin,200,90
+3652,Larry,Vance,M,1979-06-11,Simcoe,ON,Penicillin,183,64
+3653,Ben,Owens,M,1975-07-24,Hamilton,ON,,142,80
+3655,Avon,Prentiss,M,2011-01-28,Hamilton,ON,,110,49
+3656,Jeffrey,Marlowe,M,1972-08-12,Brantford,ON,Penicillin,163,68
+3658,Vinnie,Andrews,M,2009-11-07,Milton,ON,,114,43
+3660,Signor,Larkin,M,1960-07-14,Stoney Creek,ON,,154,74
+3661,Avon,Travis,M,1988-03-03,Milton,ON,,170,70
+3663,Adam,Lopez-Fitzgerald,M,1971-12-29,Hamilton,ON,ASA,193,126
+3665,Chuck,Lewis,M,2004-06-06,Hamilton,ON,,177,68
+3667,Maxim,Boddicker,M,1974-01-28,Brantford,ON,Penicillin,145,81
+3668,Jay,Silly,M,1989-09-10,Burlington,ON,Penicillin,145,66
+3669,Alberto,Polford,M,1985-12-31,Brantford,ON,Valporic Acid,161,74
+3671,Ray,Lawson,M,1954-09-07,Burlington,ON,Dye,150,86
+3672,Dante,Brown,M,1977-08-02,Sarnia,ON,Penicillin,189,122
+3674,Buddy,Lydecker,M,1966-07-03,Hamilton,ON,,178,69
+3676,Lucky,Carver,M,1980-08-09,Hamilton,ON,Penicillin,198,98
+3678,Jake,Morello,M,1988-07-09,Hamilton,ON,Penicillin,169,128
+3679,Alberto,Luthor,M,1957-02-15,Hamilton,ON,Lactose,156,73
+3680,Mohinder,Allen,M,1966-04-13,Toronto,ON,Penicillin,199,125
+3681,Michael,Grissom,M,1951-11-22,Hamilton,ON,,148,70
+3682,Peter,Rojo,M,1977-11-14,Misty,AB,,202,98
+3683,Willie,Duncan,M,1963-11-11,Brockville,ON,,158,83
+3684,Martin,De Lesseps,M,1975-03-25,Hamilton,ON,,160,76
+3685,Mac,French,M,1999-09-10,Orillia,ON,Codeine,160,70
+3686,Lao,Fraser,M,1984-05-19,Hamilton,ON,,156,73
+3687,Anthony,Orville,M,2007-06-06,Cambridge,ON,Penicillin,145,64
+3689,William,Buzzard,M,2015-03-17,Milton,ON,,72,21
+3690,Leo,Alvin,M,1960-09-21,Stoney Creek,ON,,180,69
+3691,Tony,John,M,1991-08-17,Hamilton,ON,Eggs,216,141
+3692,Jack,St. Clare,M,2001-06-04,Milton,ON,,182,80
+3695,Henry,Schillinger,M,1987-10-22,Hamilton,ON,Sulfa,146,72
+3696,Salvo,Arroway,M,1964-09-01,Milton,ON,Codeine,170,69
+3699,Charles,Caine,M,2001-02-26,Stoney Creek,ON,Codeine,192,82
+3700,Vislor,Colombo,M,1978-03-21,Ottawa,ON,,181,67
+3703,John,Robert,M,1967-03-13,Toronto,ON,Codeine,175,103
+3705,Teddy,Withers,M,1949-11-08,Hamilton,ON,,151,62
+3707,Jack,Garrett,M,1959-06-08,Hamilton,ON,,198,115
+3709,Peter,Brown,M,2016-01-14,Hamilton,ON,ASA,74,21
+3712,Dirk,Zukovsky,M,1974-11-01,Cambridge,ON,Penicillin,195,112
+3713,Freddy,Silvermane,M,1963-07-11,Paris,ON,,145,74
+3714,Frank,Moonshine,M,1994-11-12,Brantford,ON,,159,75
+3715,Danny,Wexford,M,2003-07-13,Burlington,ON,,168,85
+3717,Emerson,Allen,M,2001-09-05,Hamilton,ON,Iodine,208,83
+3718,Dick,Halliwell,M,1976-10-12,Red River,MB,,205,107
+3720,Toby,Smith,M,2014-11-16,Hamilton,ON,,77,26
+3721,Jonathan,Zapatti,M,1991-03-16,Hamilton,ON,Sulfa,176,109
+3722,Zefram,Flute,M,1965-10-31,Brantford,ON,Peanut Butter,196,106
+3724,Richard,Sugden,M,1950-05-29,Dundas,ON,Penicillin,189,117
+3726,Hyman,Marlowe,M,1970-11-22,Hamilton,ON,Peanuts,160,79
+3728,Jon,Peace,M,2000-09-23,Stoney Creek,ON,Sulfa,166,70
+3729,Eddie,Van,M,2005-07-25,Toronto,ON,Sulphur,159,76
+3730,Jack,Quatermass,M,1983-04-19,Toronto,ON,Valporic Acid,160,94
+3735,Frank,Kirby,M,1983-09-07,Toronto,ON,,159,89
+3736,Ernest,Maxime,M,1964-07-27,Grimsby,ON,Topical Anaesthesia,190,103
+3737,Roy,Martinelli,M,1972-01-16,Caledonia,ON,Almonds,130,66
+3738,Martin,Russo,M,2002-10-08,Hamilton,ON,,197,76
+3740,Geordi,Banzai,M,1981-09-06,Hamilton,ON,Sulfa,188,63
+3746,Stanley,Burnett,M,1958-12-10,Hamilton,ON,,163,73
+3748,Snapper,Henderson,M,2017-04-03,Beaverton,ON,,54,9
+3749,Jefferson,Landsman,M,1991-07-18,Hamilton,ON,,150,90
+3750,Don,Patrick,M,1980-09-20,Paris,ON,Penicillin,209,89
+3751,Paul,Gently,M,1987-10-18,Sarnia,ON,Penicillin,208,132
+3756,Paul,Beckett,M,1997-01-05,Hamilton,ON,,214,99
+3758,Caesar,MacLean,M,1975-05-27,Peterborough,ON,Wheat,222,111
+3759,Ben,Rabbit,M,1977-05-23,Burlington,ON,Bee Stings,141,66
+3762,James,Schibetta,M,2018-07-21,Ancaster,ON,,27,3
+3764,Tony,Ramsey,M,1969-05-23,Sarnia,ON,,170,85
+3765,Jesse,Deckard,M,1951-08-28,Hamilton,ON,Penicillin,185,88
+3766,Jerry,Trask,M,1972-10-13,Toronto,ON,Penicillin,169,67
+3770,Peter,Rebus,M,1959-11-09,Burlington,ON,Penicillin,172,70
+3771,Lennie,Bartlet,M,1983-03-20,Cambridge,ON,Penicillin,163,72
+3772,Franz,Vecchio,M,2012-03-22,Toronto,ON,Peanuts,84,26
+3773,Billy,Hallow,M,1983-02-18,Delhi,ON,,171,122
+3775,Henry,Banzai,M,1960-11-12,Delhi,ON,ASA,139,75
+3777,Raylan,Sugden,M,1990-06-08,Elmira,ON,,138,69
+3779,Bumpy,Willis,M,1963-07-23,Kingston,ON,,139,76
+3780,Joss,Page,M,1969-01-26,Hamilton,ON,Sulfa Drugs,184,105
+3781,Avon,Magliozzi,M,2001-12-04,Fruitland,ON,Penicillin,203,93
+3782,Kit,Spellman,M,1995-06-25,Toronto,ON,Sulfa,192,109
+3784,Mel,Corleone,M,1974-07-24,Fruitland,ON,,210,91
+3786,Joe,de Castro,M,2004-06-28,Hamilton,ON,Almonds,184,82
+3787,Jack,Buck,M,2008-11-03,Milton,ON,Honey,134,51
+3788,Hrundi,Fisher,M,2015-03-09,North York,ON,,56,16
+3791,Wilfred,Boxer,M,1958-02-25,Hamilton,ON,Wheat,164,82
+3792,Giacomo,Falcon,M,1978-08-22,Dundas,ON,,177,114
+3793,Abraham,Kane,M,1954-04-02,Stoney Creek,ON,,147,93
+3795,Artemus,Dax,M,1969-03-11,Hamilton,ON,,166,58
+3796,Marvin,Cool,M,2017-07-04,Walnut Grove,AB,Elastoplast,39,7
+3797,Kinman,Gardocki,M,1998-12-28,Hamilton,ON,,218,118
+3799,Seaton,Delacour,M,2006-03-13,Kapuskasing,ON,,149,65
+3803,Kinman,Snyder,M,1965-03-11,Cambridge,ON,Penicillin,147,72
+3810,Tom,Tyler,M,1977-07-02,Burlington,ON,,212,115
+3811,Jeremiah,Yurinov,M,2003-03-20,Hamilton,ON,Wheat,194,86
+3812,Phil,Hollins,M,1982-08-30,Marcam,ON,,193,113
+3813,Jeff,Bolt,M,1981-09-27,Hamilton,ON,Lactose,212,102
+3814,Daniel,Anderson,M,1958-10-28,Hamilton,ON,Peanuts,154,59
+3816,Art,Castang,M,1977-08-30,Hamilton,ON,,180,62
+3820,Dale,Vercetti,M,2009-08-11,Hamilton,ON,,114,49
+3821,Hecky,Atwater,M,1974-04-07,Timmins,ON,,186,106
+3822,Guido,Davenport,M,1958-04-15,Hamilton,ON,Penicillin,171,107
+3823,Joseph,Brockman,M,1996-04-27,Dundas,ON,Codeine,182,108
+3827,Henry,Powers,M,1980-12-27,Milton,ON,,135,90
+3828,Joel,Diamond,M,2015-04-13,Hamilton,ON,Sulphur,66,20
+3832,Tulio,Maroni,M,2010-03-14,Hamilton,ON,,123,41
+3833,Mickey,Tsuna,M,2003-10-05,Hamilton,ON,Penicillin,180,79
+3836,Harry,Hogg,M,1995-08-23,Hamilton,ON,,139,68
+3837,Douglas,Gottwald,M,1977-12-27,Kingston,ON,Codeine,144,83
+3838,William,Lang,M,2006-08-30,Dundas,ON,Penicillin,142,69
+3839,Barney,Parlabane,M,2015-01-03,Hamilton,ON,,82,25
+3841,Elijah,Rothstein,M,2011-07-23,Burlington,ON,Penicillin,100,31
+3843,Tom,Ranall,M,2003-05-24,Toronto,ON,,185,72
+3844,Tony,Appleton,M,1992-03-20,Carlisle,ON,,150,60
+3845,Lloyd,Morgan,M,1975-05-10,Hamilton,ON,ASA,182,114
+3846,Nicky,Denning,M,1985-03-30,Hamilton,ON,,197,130
+3847,Marcelino,Thorndyke,M,1976-03-22,Burlington,ON,Sulphur,201,114
+3848,Phil,Jovanovic,M,1979-02-25,Hamilton,ON,Penicillin,191,98
+3850,Rex,Drew,M,2004-12-14,Hamilton,ON,,155,73
+3851,Casanova,Halliwell,M,1977-05-12,Mississauga,ON,Penicillin,154,61
+3854,Danny,Umbridge,M,2003-06-03,Hamilton,ON,Penicillin,165,69
+3856,Casanova,Costello,M,1976-12-20,Oakville,ON,Penicillin Environmental,212,105
+3859,Henry,Cooper,M,1978-10-25,Paris,ON,,212,115
+3860,Frederick,Lee,M,1962-12-04,Hamilton,ON,Peanuts,213,121
+3862,Tim,Vinopan,M,1959-08-20,Whitby,ON,Micropore Tape,211,95
+3864,James,Frobisher,M,1967-04-19,Kapuskasing,ON,Penicillin,149,59
+3866,Chris,Thackeray,M,1950-01-06,Hamilton,ON,,168,71
+3868,Marlo,Langshaw,M,1954-08-19,Paris,ON,Sulfa,178,118
+3869,Tom,Dawson,M,1987-04-10,Hamilton,ON,Cheese,198,97
+3870,Vincent,Potter,M,1955-01-30,Hamilton,ON,,153,75
+3871,Gerard,Stillman,M,1988-06-30,Milton,ON,,188,118
+3874,Charles,Seta,M,2001-11-05,Burlington,ON,Penicillin,211,86
+3876,Todd,Brockman,M,1962-07-22,Hamilton,ON,,171,68
+3877,Peyton,Zapatti,M,2012-03-01,Dundas,ON,,88,42
+3878,Roman,Sendo,M,1988-03-18,Hamilton,ON,Bee Stings,168,75
+3879,Brad,Zasa,M,1983-06-08,Hamilton,ON,Sulfa Drugs,156,67
+3883,Tom,Russo,M,1986-11-04,Hamilton,ON,Penicillin,181,78
+3885,Michael,Cochrane,M,1978-05-12,Vancouver,BC,Gluten,203,97
+3886,Nick,Rhodes,M,1977-12-29,Hamilton,ON,,154,82
+3887,Jake,Stanfield,M,1986-08-14,Hamilton,ON,ASA Cotton Sheets,223,104
+3889,Sam,Winslow,M,1987-08-16,Toronto,ON,,171,114
+3890,Selsdon,Jessup,M,1966-09-25,Burlington,ON,,167,109
+3891,Achille,Brennan,M,1965-03-10,Brantford,ON,Cheese,184,132
+3892,Fin,Light,M,1968-12-04,Orangeville,ON,Latex,137,79
+3897,Jason,Olemaun,M,2002-02-09,Brantford,ON,Penicillin,208,82
+3898,Santino,Green,M,1980-10-14,Highland,ON,Codeine,142,63
+3901,Eric,Cropper,M,1955-03-09,Hamilton,ON,,148,62
+3908,Tony,Thomas,M,2015-09-15,Mississauga,ON,ASA,69,19
+3910,Jimmy,Khan,M,2012-04-08,Paris,ON,,78,35
+3913,Damian,Hubbard,M,2014-06-30,Hamilton,ON,,71,22
+3914,Robert,von Uberwald,M,2014-02-19,North York,ON,Wheat,77,24
+3915,Rex,Glicker,M,2003-01-02,St. Catharines,ON,,184,77
+3916,Tierney,Watson,M,1952-08-13,Toronto,ON,Codeine,167,58
+3919,Sam,Strange,M,1961-05-08,Beaverton,ON,Penicillin,170,58
+3920,John,Smith,M,1957-03-24,Paris,ON,Penicillin,188,66
+3921,Joss,Morris,M,1986-08-09,Hamilton,ON,Penicillin,154,69
+3922,Joe,Franklin,M,1993-05-15,Sarnia,ON,Penicillin,189,112
+3924,Armando,Alvin,M,2010-04-05,Hamilton,ON,Walnuts,126,48
+3926,Olwyn,Perry,M,1980-02-09,Hamilton,ON,Codeine,152,76
+3927,Jefferson,Soap,M,1971-10-01,Hamilton,ON,Micropore Tape,211,109
+3931,Neil,Wolfe,M,2004-03-16,Hamilton,ON,,189,76
+3934,Walter,Pullman,M,1983-03-09,Hamilton,ON,,211,112
+3936,Charles,Tattaglia,M,1968-01-19,Hamilton,ON,Peanut Butter,151,80
+3937,Alan,Webster,M,1960-09-10,Hamilton,ON,Bee Stings,142,78
+3938,Dick,Grant,M,2018-04-22,Hamilton,ON,,31,2
+3940,Wayne,Spellman,M,1980-01-10,Burlington,ON,Penicillin,166,87
+3942,Alex,Hankle,M,1995-09-23,Kingston,ON,,181,93
+3944,Joseph,Maroney,M,1949-04-22,Hamilton,ON,,153,87
+3946,Dan,Von Doom,M,1992-01-21,Timmins,ON,Cheese,165,88
+3948,Douglas,Grissom,M,1981-12-02,Hamilton,ON,Penicillin,215,114
+3949,Nicky,Aitoro,M,1962-07-29,Thunder Bay,ON,Codeine,156,72
+3951,Steven,Asplund,M,2017-12-15,Hamilton,ON,Penicillin,51,9
+3952,Evan,Plinge,M,2004-12-01,Northbay,ON,,169,68
+3954,Jeff,Boyce,M,1950-04-08,Caledonia,ON,,218,111
+3955,James,Abbot,M,2017-12-05,Paris,ON,,54,10
+3956,Jack,Halliwell,M,1980-08-23,Hamilton,ON,,173,62
+3958,Christopher,Magliozzi,M,1950-10-06,Brantford,ON,Codeine,194,91
+3961,William,Savage,M,1964-10-03,Oakville,ON,,159,83
+3963,Adam,Lindley,M,1996-12-29,Hamilton,ON,Penicillin,211,108
+3964,George,Smyth,M,1986-09-30,Halifax,NS,Sulfa Drugs,204,89
+3966,Victor,Sosa,M,1961-04-06,Cambridge,ON,,137,61
+3967,Johnny,Speedman,M,1958-09-05,Timmins,ON,,162,81
+3970,Kakihara,Holden,M,2008-07-18,Hamilton,ON,,135,54
+3973,Bobby,Nanny,M,1990-05-06,Burlington,ON,,158,82
+3974,Fred,Sydnor,M,2003-03-29,Hamilton,ON,,204,82
+3975,Stuart,Vincent,M,1942-10-10,Newmarket,ON,Penicillin,159,89
+3977,Bill,Potts,M,1995-08-01,Hamilton,ON,Peanuts,161,70
+3978,Nick,Clarke,M,2000-01-06,Hamilton,ON,Peanut Butter,187,110
+3979,Tristan,Vale,M,1999-02-11,Brantford,ON,ASA,183,73
+3982,Riley,Soong,M,2014-10-29,Milton,ON,Peanuts,77,23
+3983,Rajesh,Omovich,M,1972-08-15,Hamilton,ON,,202,120
+3984,Walter,Blocksberg,M,2005-11-22,St. Catharines,ON,,157,76
+3987,John,Cackle,M,1987-06-19,Burlington,ON,Penicillin,179,71
+3988,Richard,Munson,M,1961-08-04,Burlington,ON,Penicillin,146,73
+3989,Luke,Hojo,M,2004-10-05,St. Johns,NL,Ragweed,165,66
+3991,Harry,Strong,M,2004-09-06,Toronto,ON,Penicillin,166,76
+3992,Rex,Thomas,M,1967-04-17,Oakville,ON,Latex,142,71
+3994,Johnny,Taylor,M,1999-06-30,Kelowna,BC,Codeine,209,106
+3996,Aniki,McCoy,M,2008-03-19,Milgrove,ON,,137,51
+3997,Angus,Taylor,M,1949-09-06,Hamilton,ON,Penicillin,179,79
+3998,Sam,Travis,M,1953-07-05,Hamilton,ON,,183,79
+4001,Gianni,Van Tassel,M,1994-06-21,Cambridge,ON,,200,115
+4002,Edward,Sullivan,M,1973-03-23,Hamilton,ON,Penicillin,177,108
+4005,Arnold,Hutt,M,1969-02-28,Toronto,ON,,206,111
+4006,Roman,Barksdale,M,1950-05-15,Dunton,ON,,139,67
+4007,John,Walker,M,1991-01-08,Brantford,ON,Cheese,191,115
+4010,Amitabh,Larsen,M,2017-01-03,Hamilton,ON,,61,14
+4011,Amos,White,M,1955-06-18,Selkirk,ON,,163,82
+4013,Alan,Brigante,M,1976-11-15,Hamilton,ON,Penicillin,160,86
+4014,Morgan,Sullivan,M,2013-08-16,Hamilton,ON,,77,27
+4015,Stuart,Givens,M,1963-07-07,Brantford,ON,Bee Stings,189,96
+4016,Casanova,Carlyle,M,1981-04-19,Hamilton,ON,,184,128
+4020,Adam,Magnum,M,1988-06-08,Burlington,ON,Penicillin,142,80
+4021,Michael,Kane,M,2013-12-13,Cambridge,ON,Tylenol,78,28
+4023,Donald,Brown,M,1999-06-15,Hamilton,ON,,188,122
+4026,Mark,Skye,M,2002-12-27,Hamilton,ON,Valporic Acid,171,74
+4027,Raylan,Carling,M,1954-03-16,Barrie,ON,,149,66
+4029,Julian,Cox,M,2001-11-16,Kapuskasing,ON,,221,94
+4035,Rico,Brady,M,1967-06-17,Hamilton,ON,Codeine,190,130
+4037,Roderick,Murtaugh,M,1962-02-28,Toronto,ON,,221,98
+4038,Lex,Brockman,M,1978-08-11,Burlington,ON,,194,109
+4039,Hal,Vondopoulos,M,1958-05-29,Hamilton,ON,Penicillin,210,109
+4041,Basil,Nona,M,1979-05-20,Toronto,ON,,172,124
+4042,Rico,Crane,M,2008-01-12,Hamilton,ON,ASA,127,50
+4044,Sonny,Stockmann,M,1992-05-20,Hamilton,ON,,191,92
+4045,Sam,Wallander,M,2014-07-11,Hamilton,ON,,66,23
+4047,Charlie,Swift,M,1993-10-19,Burlington,ON,Hay Fever,205,89
+4049,Harry,Ranall,M,1977-05-06,Athens,ON,,147,81
+4051,Zachary,Bakshi,M,2012-11-04,Hamilton,ON,Penicillin,81,36
+4053,Harry,Crabbe,M,1988-02-06,Hamilton,ON,Codeine,145,78
+4055,Jason,Gordon,M,2009-10-11,Hamilton,ON,Environmental,109,55
+4057,Bill,Scotts,M,1983-09-14,Hamilton,ON,Codeine,176,62
+4058,Ben,Wolfcastle,M,1986-09-08,Burlington,ON,Latex,194,106
+4060,Arnold,Carling,M,1990-10-09,Hamilton,ON,,170,63
+4063,Ford,Aitoro,M,1956-09-24,Hamilton,ON,,210,92
+4064,Joe,Vane,M,1969-03-26,Brampton,ON,Penicillin,175,121
+4065,Anthony,Corbie,M,1957-07-26,Hamilton,ON,,194,108
+4066,Abe,Luca,M,2015-05-08,Hamilton,ON,Penicillin,62,18
+4067,Peter,Henry,M,1982-06-22,Hamilton,ON,,174,109
+4069,Ross,Blake,M,1952-09-21,Burlington,ON,Honey,187,112
+4073,Leonard,Emmerich,M,1952-04-10,Hamilton,ON,,208,102
+4074,Eddie,Moses,M,1999-03-14,Ottawa,ON,,154,87
+4076,Salvatore,Bardo,M,1973-08-15,Halifax,NS,Penicillin,159,77
+4078,Buddy,Hill,M,1986-05-30,Ancaster,ON,,175,66
+4080,Mendy,Farrell,M,2008-03-30,Hamilton,ON,,158,60
+4086,Grant,Indelicato,M,1981-09-03,Hamilton,ON,,166,82
+4093,Avon,Roberts,M,1994-06-14,Hamilton,ON,Sulfa,214,106
+4095,Matt,Manu,M,1996-07-20,Bancroft,ON,,182,83
+4096,Hrundi,Strange,M,1980-03-30,Paris,ON,,175,119
+4097,Harry,Brady,M,2018-02-03,Hamilton,ON,,38,7
+4103,James,Jameson,M,2006-03-17,Tuscorora,ON,,154,60
+4107,Buford,Martin,M,1981-04-02,Stoney Creek,ON,,162,84
+4108,Leon,Willing,M,1983-09-01,Whitby,ON,Peanuts,205,108
+4109,Jacques,Schwarzburger,M,1960-08-27,Toronto,ON,,152,80
+4111,James,Stenbeck,M,1997-08-26,Hamilton,ON,,194,104
+4114,Jonathan,Newsworthy,M,1984-10-12,Hamilton,ON,,152,84
+4116,Michael,Chase,M,1961-01-13,Whitby,ON,ASA,203,96
+4118,Nohar,Hughes,M,1955-05-11,Burlington,ON,,154,81
+4125,Jake,Falcone,M,2008-03-09,Hamilton,ON,Penicillin,136,57
+4127,Emil,Owens,M,1969-04-06,Thunder Bay,ON,,182,103
+4128,King,Shore,M,1955-05-25,Barrie,ON,Codeine,156,70
+4130,Kingo,Bottom,M,1989-04-09,Hamilton,ON,Peanut Butter,177,105
+4131,Jacques,Kingdom,M,1959-03-14,Burlington,ON,,145,82
+4132,Bobby,Kendall,M,1966-10-06,Hamilton,ON,,180,111
+4133,Danny,Cooper,M,2003-11-07,Oakville,ON,Penicillin,177,73
+4136,Martin,Frye,M,1955-08-24,Brantford,ON,Penicillin,151,75
+4137,Cedric,Bigelow,M,1989-05-11,Hamilton,ON,Codeine,137,69
+4139,Stephen,Moreland,M,1977-07-25,Hamilton,ON,,189,109
+4143,William,Skilbeck,M,1982-09-22,Simcoe,ON,Sulfa,153,75
+4147,John,Tutuola,M,1992-05-24,Kapuskasing,ON,Honey,161,70
+4149,Ryan,Bradford,M,1983-09-08,Hamilton,ON,Valporic Acid,197,90
+4151,Sam,Brockman,M,1994-08-08,Burlington,ON,,142,92
+4153,Peter,Drake,M,1999-07-25,Hamilton,ON,Strawberries,225,117
+4154,Carmine,Zucco,M,1948-11-21,Hamilton,ON,,174,81
+4155,Snapper,Hopper,M,1993-12-07,Hamilton,ON,Bee Stings,168,75
+4156,Bobby,Whale,M,1960-07-01,Bancroft,ON,Codeine,150,62
+4160,Subhash,Blake,M,1971-10-07,Hamilton,ON,Codeine,198,113
+4161,Carlos,Urth,M,1971-03-20,Orillia,ON,,147,70
+4164,Harry,Quince,M,1998-09-27,Hamilton,ON,,152,84
+4165,Daniel,Kent,M,1963-11-18,Hamilton,ON,,212,119
+4166,Gerard,Serrano,M,1956-05-01,Timmins,ON,,163,79
+4167,Scott,Mowbray,M,2005-06-18,Hamilton,ON,Penicillin,170,67
+4169,Norman,Crabbe,M,2017-06-26,Hamilton,ON,Iodine,40,7
+4171,Marid,Addy,M,1980-07-12,Hamilton,ON,,145,89
+4176,Ben,Taylor,M,1960-07-25,Marcam,ON,,157,79
+4177,Kirk,Forelli,M,1957-06-19,Hamilton,ON,Topical Anaesthesia,178,67
+4180,Cash,Verma,M,1996-10-30,St. Catharines,ON,Penicillin,143,83
+4181,Jake,Lindley,M,2007-04-03,Burlington,ON,Dairy Products,156,57
+4183,Sam,Towne,M,1971-11-28,Hamilton,ON,Penicillin Environmental,140,71
+4189,Roman,Clarke,M,1993-09-08,Grimsby,ON,,195,118
+4190,Eddie,Antony,M,1968-09-25,Fruitland,ON,,192,126
+4193,Victor,Serrano,M,2007-09-16,Dundas,ON,,147,63
+4194,Hal,Gorbovsky,M,1976-12-26,Hamilton,ON,,177,78
+4195,Joe,Bradley,M,1948-12-27,Ancaster,ON,Penicillin,174,76
+4196,Ronnie,Clericuzio,M,1994-04-04,Walnut Grove,AB,Penicillin,135,81
+4199,Jake,Thevenet,M,1995-10-22,Burlington,ON,Penicillin,186,63
+4202,Martin,McCartney,M,1996-05-01,Hamilton,ON,Penicillin,178,79
+4204,Ellis,Michaelson,M,2009-09-09,Brantford,ON,Cheese,135,55
+4205,Bo,Fisk,M,1954-08-21,Hamilton,ON,Penicillin,173,111
+4206,Hiroshi,Langshaw,M,1968-02-25,Milton,ON,Micropore Tape,202,113
+4208,Alexei,Jaffe,M,1976-09-06,Hamilton,ON,Latex,197,106
+4209,Andy,Dean,M,1981-06-19,Hamilton,ON,,217,125
+4212,Mendy,Platter,M,2003-03-26,Hamilton,ON,,195,82
+4213,Chris,Morris,M,1964-09-09,Brantford,ON,Penicillin,205,110
+4214,Harry,Barclay,M,1986-04-12,Brantford,ON,Penicillin,146,64
+4215,Sylvester,Rawling,M,1951-11-24,Barrie,ON,Sulfa,144,68
+4216,Langdale,Robert,M,2017-04-22,Hamilton,ON,,45,7
+4217,Stuart,Rudd,M,1987-01-21,Misty,AB,,140,65
+4218,Clancy,Morgan,M,1994-10-09,Hamilton,ON,Peanut Butter,204,94
+4221,Christopher,Weber,M,1949-06-23,Toronto,ON,,156,83
+4222,Brian,Rosenberg,M,1984-03-26,Hamilton,ON,ASA,155,78
+4224,Don,Cobb,M,1971-08-06,Hamilton,ON,,141,70
+4226,John,Nelson,M,1960-12-19,Paris,ON,Penicillin,173,69
+4229,Carmine,Fish,M,1951-08-02,Hamilton,ON,,211,99
+4230,Paul,Riviera,M,2000-10-28,Simcoe,ON,Codeine,137,87
+4232,Jay,Parker,M,1962-03-15,Burlington,ON,,137,68
+4236,Marlo,Fier,M,2012-04-17,Hamilton,ON,,97,27
+4238,Alan,Lawson,M,2014-11-30,Ottawa,ON,Penicillin,65,23
+4243,Jack,Goodwin,M,2006-07-10,Grimsby,ON,,129,54
+4244,Mark,Jonas,M,1987-07-21,Ancaster,ON,,212,116
+4245,Elvis,Taylor,M,1991-10-08,Toronto,ON,,132,78
+4249,Rico,Langton,M,1987-12-18,Hamilton,ON,,205,120
+4250,Paul,Zaluchi,M,1986-10-27,Smithville,ON,Acetaminophen,211,116
+4251,Nicky,Jenkins,M,1974-05-27,Hamilton,ON,,205,115
+4254,Lloyd,Bayles,M,1986-06-01,Elmwood,ON,,185,112
+4255,Hank,Feedbag,M,2015-07-26,Walnut Grove,AB,,59,16
+4257,Seiryo,Owens,M,1951-11-02,Hamilton,ON,Penicillin,192,93
+4260,Bolivar,Sawyer,M,1979-12-29,Dundas,ON,,198,126
+4263,Alan,Croft,M,2001-06-24,Toronto,ON,Wheat,199,88
+4266,Jeff,Von Doom,M,1994-07-04,Sarnia,ON,,189,114
+4268,Cletus,Sprout,M,1952-10-11,Ancaster,ON,Penicillin,142,81
+4269,Harry,Principal,M,1956-05-25,Toronto,ON,,154,74
+4270,Tom,Valchek,M,1975-11-26,Hamilton,ON,,177,116
+4271,Jackson,Parker,M,1972-06-11,Burlington,ON,,196,102
+4273,John,Boyle,M,1964-11-10,Hamilton,ON,Penicillin,182,91
+4276,Roy,Salieri,M,2004-05-22,Simcoe,ON,Penicillin,155,65
+4279,Sonny,Hedley,M,1975-04-01,Halifax,NS,,198,131
+4284,Gregory,Arden,M,2004-03-23,Hamilton,ON,,171,68
+4285,Sam,Vincent,M,1990-07-23,Hamilton,ON,Peanuts,170,73
+4288,Stefano,Alvin,M,1981-01-23,Hamilton,ON,,177,112
+4289,Domenico,Donahue,M,1951-04-18,Hamilton,ON,,172,118
+4290,Enrique,ORourke,M,1976-04-30,Hamilton,ON,,194,94
+4293,Johnny,Juntao,M,1991-12-31,Ancaster,ON,,208,106
+4294,Bruce,Leon,M,1999-10-24,Hamilton,ON,,152,80
+4295,Hagbard,Daniels,M,1950-03-26,Walnut Grove,AB,,207,93
+4297,Phil,Bell,M,2006-06-21,Ancaster,ON,Codeine,153,65
+4298,Lewis,Crabtree,M,1984-08-18,Hamilton,ON,Penicillin,186,98
+4299,Jefferson,Blake,M,1970-07-26,Burlington,ON,Bee Stings,155,71
+4302,Neil,Yamamoto,M,1958-07-17,Hamilton,ON,Penicillin,142,74
+4304,Gary,Weathers,M,2008-04-08,Dunton,ON,Penicillin,132,52
+4305,Miguel,Henderson,M,1958-08-24,Timmins,ON,Penicillin,187,105
+4307,Jack,White,M,2010-12-02,Ancaster,ON,Penicillin,131,42
+4308,Eddie,Snyder,M,1993-09-02,Hamilton,ON,,147,85
+4311,Andy,Quirk,M,1958-10-24,Dundas,ON,,195,108
+4313,William,Vinopan,M,1962-10-03,Paris,ON,,192,120
+4319,Steve,Vecchio,M,2011-07-15,Hamilton,ON,,109,47
+4320,Shane,Napoli,M,2007-06-01,Guelph,ON,,138,63
+4321,Langdale,Marino,M,1952-10-11,Stoney Creek,ON,,138,75
+4322,John,Altobello,M,1996-09-25,Kelowna,BC,,222,110
+4323,Andy,Yurinov,M,1965-06-09,Walnut Grove,AB,,204,110
+4325,Robert,Flinstone,M,1967-07-02,Hamilton,ON,,206,136
+4327,Michael,Sprockett,M,1966-05-31,Simcoe,ON,,204,112
+4330,Riley,Banzai,M,1975-11-29,Sarnia,ON,Peanut Butter,158,57
+4333,Avon,Indelicato,M,2006-12-15,Hamilton,ON,,152,59
+4334,Jim,Meeks,M,2007-09-06,Brantford,ON,Sulfa,160,53
+4336,Jesse,Sands,M,1938-10-15,Hamilton,ON,,171,78
+4337,Lyan,Sharma,M,1982-04-22,Grimsby,ON,Micropore Tape,173,127
+4338,Cedric,Falken,M,1997-04-05,Hamilton,ON,,187,73
+4339,Ronnie,Spano,M,1979-10-13,Hamilton,ON,,184,130
+4340,Jerry,Camonte,M,1966-04-18,Hamilton,ON,Codeine,223,142
+4346,Benjamin,Fidelma,M,2005-04-20,Hamilton,ON,ASA,172,66
+4347,Frederick,Sugden,M,2016-11-21,Burlington,ON,,49,12
+4348,Alan,Richards,M,1978-10-17,Hamilton,ON,Strawberries,164,102
+4350,Teddy,Nederlander,M,1983-04-27,Ancaster,ON,,186,135
+4354,Jesse,Lowe,M,1998-06-23,Halifax,NS,Penicillin,159,61
+4356,Paul,Pond,M,1967-09-26,Ancaster,ON,Penicillin,154,79
+4358,Chris,Coon,M,1984-06-28,Hamilton,ON,Sulfa,191,114
+4368,Leslie,Espinosa,M,1985-07-18,Paris,ON,Valporic Acid,207,108
+4369,Kingo,Russo,M,1969-07-26,Hamilton,ON,Codeine,188,109
+4370,Shion,Agasa,M,2010-11-15,Thunder Bay,ON,,129,47
+4371,Bill,Cotter,M,1969-08-21,Hamilton,ON,Penicillin,193,119
+4373,Tim,Bartlett,M,2004-05-21,Burlington,ON,Penicillin,179,82
+4376,Russell,Baxter,M,1962-12-08,Toronto,ON,Penicillin,192,94
+4379,Alan,Loeb,M,1984-05-13,Burlington,ON,,170,80
+4380,Doyle,Stockmann,M,1993-07-05,Stoney Creek,ON,,168,87
+4381,Francis,Morrow,M,2005-03-13,Hamilton,ON,,178,64
+4382,Roderick,Lawson,M,2005-01-09,Stoney Creek,ON,Penicillin,158,66
+4386,Sam,Garrick,M,1964-09-20,Hamilton,ON,,196,108
+4390,Uri,Dahl,M,1991-09-21,Hamilton,ON,,147,70
+4392,Oswald,Ravenclaw,M,2016-02-15,Toronto,ON,Penicillin,49,13
+4396,Fred,Lynch,M,1958-11-01,Hamilton,ON,Penicillin,187,98
+4397,Sam,Jackson,M,1953-04-15,Hamilton,ON,,169,71
+4398,Leonard,Steelgrave,M,1958-04-28,Hamilton,ON,Dye,163,107
+4400,Hal,Redfield,M,2011-12-12,Brantford,ON,,97,39
+4402,Cal,Soran,M,1993-01-25,Burlington,ON,,200,110
+4404,Alan,Holroyd,M,1956-09-13,Hamilton,ON,,134,73
+4408,Ted,Hecatonchires,M,1956-10-18,Toronto,ON,,144,88
+4411,Ellery,Morales,M,1981-12-07,Dunton,ON,Penicillin,161,115
+4413,Stanley,Willows,M,2007-01-24,Dunton,ON,,133,56
+4414,Ray,Wheeler,M,1976-08-19,Hamilton,ON,Sulfa,174,131
+4415,Max,Stape,M,1999-01-11,Hamilton,ON,Penicillin,178,97
+4416,Joey,Lopez,M,1963-07-14,North York,ON,Penicillin Environmental,180,129
+4417,Bernard,Hamilton,M,2011-08-28,Hamilton,ON,Penicillin,116,44
+4420,Kirk,Disher,M,1957-09-25,Hamilton,ON,,205,123
+4421,Benton,Barnaby,M,1982-01-25,Niagara Falls,ON,Micropore Tape,181,65
+4423,Otis,Wright,M,2003-03-31,Troy,ON,Penicillin,184,76
+4424,Oliver,Kolchak,M,2007-09-17,St. Johns,NL,Sulfa,154,68
+4425,Tristan,Fleming,M,1979-05-28,Mississauga,ON,,146,74
+4427,Jiveshwar,Miller,M,1971-11-02,Hamilton,ON,Codeine,182,105
+4428,Saito,Henderson,M,1984-09-01,Hamilton,ON,,182,114
+4429,Tex,Munson,M,1956-01-20,Hamilton,ON,,189,103
+4432,Jesse,Bartlet,M,1969-11-28,Hamilton,ON,Codeine,198,103
+4433,Buck,Kasen,M,1978-02-06,Ancaster,ON,,135,80
+4434,George,Garrison,M,1950-08-25,St. Catharines,ON,,192,103
+4436,Cliff,Smith,M,1993-02-09,Hamilton,ON,Penicillin,161,76
+4438,Morgan,Santoro,M,1953-04-23,Ancaster,ON,Almonds,194,102
+4439,Nick,Stottlemeyer,M,1966-01-08,Burlington,ON,Peanut Oil,137,66
+4440,Reginald,Marvin,M,1996-04-11,Toronto,ON,Bee Stings,182,122
+4442,Paul,Andrews,M,1998-08-03,Stoney Creek,ON,Penicillin,213,113
+4443,John,Corsi,M,1982-04-10,Windsor,ON,,192,118
+4444,Gene,Scott,M,1960-02-06,Hamilton,ON,,147,80
+4445,Hecky,Spaceman,M,1953-08-02,Ottawa,ON,,174,99
+4446,Ronnie,Lucchesi,M,1962-08-15,Hamilton,ON,Penicillin,184,118
+4447,Callum,Cooper,M,2012-04-13,Highland,ON,,92,25
+4450,James,Grant,M,1990-09-17,Cambridge,ON,,154,60
+4453,Andy,Wexford,M,1973-11-04,Paris,ON,Iodine,193,108
+4455,Elijah,Marlowe,M,2008-06-28,Hamilton,ON,,144,52
+4456,Gregory,Tutuola,M,1988-10-25,Hamilton,ON,,220,124
+4457,Nino,Denton,M,2002-12-12,Toronto,ON,Penicillin,186,87
+4458,William,Beck,M,2018-04-08,Burlington,ON,Codeine,30,2
+4461,Roderick,Riviera,M,1975-07-27,Milton,ON,Peanuts,196,118
+4462,Chris,Kuroda,M,1952-01-22,Hamilton,ON,Tylenol,133,73
+4471,Paul,De Lena,M,1966-05-02,Burlington,ON,,200,102
+4473,Alphonse,ONeill,M,1983-10-24,Hamilton,ON,Penicillin,171,117
+4479,Jake,Banzai,M,2010-09-24,Burlington,ON,,118,49
+4480,Zenigata,Overstreet,M,1956-05-19,Stoney Creek,ON,Codeine,178,83
+4481,Indiana,Halliwell,M,2012-12-12,Hamilton,ON,Codeine,75,36
+4482,Michael,Breaker,M,1957-05-28,Burlington,ON,Iodine,149,81
+4484,Anthony,Krueger,M,1953-09-27,Hamilton,ON,Codeine,192,105
+4486,Paul,Bloom-Wood,M,1984-01-25,Beamsville,ON,,129,74
+4488,Hank,Hill,M,1953-04-14,Hamilton,ON,,143,69
+4492,Truman,Scudder,M,1969-10-22,Ottawa,ON,,178,65
+4495,Paul,Schultz,M,1971-05-18,Oakville,ON,Penicillin,198,101
+4496,Frank,Lassiter,M,1986-12-04,Hamilton,ON,,170,66
+4497,John,Guarnaccia,M,1975-06-15,Burlington,ON,,162,77
+4500,Nero,Greer,M,1957-02-25,Hamilton,ON,Penicillin,149,78
+4502,Frank,Angie,M,2004-04-22,Toronto,ON,,188,82
+4506,Ray,Morgan,M,1991-09-27,Victoria,BC,,127,85
+4507,Wendell,Kasen,M,1983-08-28,Hamilton,ON,,190,112
+4510,Constantin,Pullman,M,1994-02-03,Delhi,ON,,188,108
+4511,Jeff,Hopper,M,2018-07-15,Hamilton,ON,Codeine,26,3
+4514,Todd,Dallas,M,1975-12-21,Ancaster,ON,Penicillin,193,100
+4515,Thomas,Smith,M,2003-09-12,Hamilton,ON,,181,73
+4516,George,Sawyer,M,1983-11-17,Toronto,ON,Sulphur,191,129
+4517,Bo,Darby,M,1961-09-24,Toronto,ON,,179,120
+4519,Eddie,Drake,M,2017-05-22,Ancaster,ON,Penicillin,42,7
+4520,Morgan,McCrary,M,1990-11-11,Caledonia,ON,,163,70
+4521,Sam,OHara,M,2017-05-17,Pickering,ON,,39,6
+4522,Charlie,Neutron,M,1964-12-09,Paris,ON,,199,116
+4526,Armando,Matthews,M,1987-12-20,Burlington,ON,Penicillin,173,74
