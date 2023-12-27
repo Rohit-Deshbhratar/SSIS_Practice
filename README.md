@@ -44,3 +44,9 @@ In this project we are combining input from two flat files into one flat file. T
 sorted first then merged and then saved into final output file. The data will be sorted on the basis of "PATIENT_ID"
 column present in both files. File used in this project are "Merge_Transformation_Female", "Merge_Transformation_Male"
 and "Merge_Transformation_Output".
+
+## 10. Merge Transformation(Without "SORT" transformation)
+This projet is very similar to the project 9, difference is we haven't used sort transformation. To sort data we used
+"Advanced editor...". First select "Flat File Source Output" -> "Common Properties" -> "ISSorted" -> "True". Then
+"Flat File Source Output" -> "Output Column" -> Select respective column name -> "Common Properties" -> "SortKeyPosition" -> 1.
+Apply "MERGE" transformation and saved output in a flat file.
