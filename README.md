@@ -34,4 +34,7 @@ script task. In script task C# is used as scripting language. Following code is 
 "MessageBox.Show(Dts.Variable["User::row_count"].value.ToString());" (without "" quotes). This code is reponsible to 
 show row count in table. "User::row_count" is variable.
 
-## 8.
+## 8. Conditional Split
+In this project we are going to use a table named "PATIENTS" which contains patients data. We are going to apply 
+conditional split on "GENDER" column of table "PATIENTS". We have also use multicast and enabled data viewer.
+Which will show total row count and data after spliting.
