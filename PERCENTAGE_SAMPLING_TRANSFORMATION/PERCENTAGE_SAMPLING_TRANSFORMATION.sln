@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PERCENTAGE_SAMPLING_TRANSFORMATION", "PERCENTAGE_SAMPLING_TRANSFORMATION\PERCENTAGE_SAMPLING_TRANSFORMATION.dtproj", "{981D2DD0-E830-4602-B1B3-F54EE6D73532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981D2DD0-E830-4602-B1B3-F54EE6D73532}.Development|Default.ActiveCfg = Development
+		{981D2DD0-E830-4602-B1B3-F54EE6D73532}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
