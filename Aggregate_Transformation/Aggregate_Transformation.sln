@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Aggregate_Transformation", "Aggregate_Transformation\Aggregate_Transformation.dtproj", "{8183C6BE-5D98-4E35-BDF4-C77EDD3778C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8183C6BE-5D98-4E35-BDF4-C77EDD3778C2}.Development|Default.ActiveCfg = Development
+		{8183C6BE-5D98-4E35-BDF4-C77EDD3778C2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
