@@ -14,7 +14,7 @@ CREATE TABLE CUSTOMERS(
 
 SELECT * FROM CUSTOMERS;
 ------------------------------------------------------------------------------------------------------------------------------------------
---USE THIS TABLE FIR SSIS PROJECT-> "EXCEL_TO_SQL".
+--USE THIS TABLE FOR SSIS PROJECT-> "EXCEL_TO_SQL".
 --USE EXCEL SHEET "Student_Marks" TO LOAD DATA IN THIS TABLE.
 CREATE TABLE STUDENTS(
 	ROLL_NUMBER INT IDENTITY(1001,1) PRIMARY KEY,
@@ -86,8 +86,32 @@ CREATE TABLE STUDENTS_DWH(
 	PERCENTAGE DECIMAL(4,2),
 	RESULT VARCHAR(4)
 );
+--SET IDENTITY_INSERT STUDENTS_DWH ON;
+--SET IDENTITY_INSERT STUDENTS_DWH OFF;
 
 SELECT * FROM STUDENTS_DWH;
 --TRUNCATE TABLE STUDENTS_DWH;
 --DROP TABLE STUDENTS_DWH;
+------------------------------------------------------------------------------------------------------------------------------------------
+-- USE "ITEM_LOOKUP_BASICS" AND "ITEM_SALES_LOOKUP_BASICS" TABLE FOR PROJECT "Lookup_Transformation_Basic".
+CREATE TABLE ITEM_LOOKUP_BASICS(
+	ITEM_CODES INT,
+	ITEM_DESC VARCHAR(15)
+);
+INSERT INTO ITEM_LOOKUP_BASICS VALUES
+(1, 'ACDC'),(2, 'BDED'), (3, 'AAAA'), (4, 'DPQD'), (5, 'BBBB'), (6, 'DDDD'), (7, 'GGGG'), (8, 'OPRT');
+SELECT * FROM ITEM_LOOKUP_BASICS;
+
+CREATE TABLE ITEM_SALES_LOOKUP_BASICS(
+	ITEM_CODE INT,
+	QTY INT,
+	VALUE INT,
+	SP_NAME VARCHAR(25)
+);
+
+SELECT * FROM ITEM_LOOKUP_BASICS;
+SELECT * FROM ITEM_SALES_LOOKUP_BASICS;
+
+--TRUNCATE TABLE ITEM_SALES_LOOKUP_BASICS;
+--DROP TABLE ITEM_SALES_LOOKUP_BASICS;
 ------------------------------------------------------------------------------------------------------------------------------------------
