@@ -50,3 +50,18 @@ This projet is very similar to the project 9, difference is we haven't used sort
 "Advanced editor...". First select "Flat File Source Output" -> "Common Properties" -> "ISSorted" -> "True". Then
 "Flat File Source Output" -> "Output Column" -> Select respective column name -> "Common Properties" -> "SortKeyPosition" -> 1.
 Apply "MERGE" transformation and saved output in a flat file.
+
+## 11. Aggregate Transformation
+## 12. Row Sampling Transformation
+## 13. Percentage Sampling Transformation
+## 14. Charactermap Transformation
+## 15. Cache Transformation
+## 16. Lookup Transformation
+## 17. Lookup Transformation Scenarios
+This project has covered 7 scenarios. 1. CASE 1 IS "EQUI JOIN". i.e. BOTH TABLE HAVE SAME DATA & SAME NUMBER OF RECORDS.
+2. CASE 2 IS "MORE NUMBER OF RECORDS IN SOURCE TABLE". 3. CASE 3 IS "MORE NUMBER OF RECORDS IN LOOKUP(REFERENCE) TABLE".
+4. CASE 4 IS "DUPLICATE RECORDS IN SOURCE TABLE". 5. CASE 5 IS "DUPLICATE RECORDS IN LOOKUP TABLE".
+6. CASE 6 IS "CASE SENSITIVE". 7. CASE 7 IS "NULL VALUE".
+
+Each secnario hac different output. NOTE: In lookup transformation editor select different cache mode to see the effect
+of these cache mode on output. Cache Mode are: Full cache, Partial Cache and No cache.
