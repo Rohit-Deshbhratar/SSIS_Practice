@@ -255,3 +255,12 @@ CREATE TABLE CASE_7_LOOKUP(
 INSERT INTO CASE_7_LOOKUP 
 VALUES(1, 'JOANNE'), (2, 'HOWARD'), (3, 'ERIC'), (4, NULL);
 ------------------------------------------------------------------------------------------------------------------------------------------
+-- USE THIS TABLE IN "Import_Column_Transformation" PROJECT.
+
+CREATE TABLE IMPORT_COLUMN(
+	FILE_PATH VARCHAR(100),
+	FILES VARBINARY(max)
+);
+-- DROP TABLE IMPORT_COLUMN;
+SELECT * FROM IMPORT_COLUMN;
+------------------------------------------------------------------------------------------------------------------------------------------

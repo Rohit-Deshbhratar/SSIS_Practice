@@ -66,6 +66,10 @@ This project has covered 7 scenarios. 1. CASE 1 IS "EQUI JOIN". i.e. BOTH TABLE 
 Each secnario hac different output. NOTE: In lookup transformation editor select different cache mode to see the effect
 of these cache mode on output. Cache Mode are: Full cache, Partial Cache and No cache.
 
-## Audit Transformation
+## 18. Audit Transformation
 The audit transformation is used to get information like, "Package name, Task name, User name, etc.". In this project
 we are also collecting some information and storing that data in a flat file named "AUDIT_TRANSFORMATION_OUTPUT".
+
+## 19. Import Column
+In this project we are storing file path and files in database. Name of table is "IMPORT_COLUMN", file type is excel and JPG.
+NOTE: size of "varbinary" datatype shoud be set to max i.e. FILES varbinary(max). 
