@@ -69,6 +69,10 @@ In this transformation we can set how many percent of rows we want for sampling.
 and other for unselected data.
 
 ## 14. Charactermap Transformation
+Charactermap is used to transform input character. Operates only on column with string data.
+Charactermap transformation convert column data in place or add column tomtransform output and put converted data into new column.
+
+In this project we havw used "patients" table to convert first name in upper case and last name in lower case using Charactermap transformation.
 ## 15. Cache Transformation
 ## 16. Lookup Transformation
 ## 17. Lookup Transformation Scenarios
