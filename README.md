@@ -95,6 +95,14 @@ of these cache mode on output. Cache Mode are: Full cache, Partial Cache and No 
 The audit transformation is used to get information like, "Package name, Task name, User name, etc.". In this project
 we are also collecting some information and storing that data in a flat file named "AUDIT_TRANSFORMATION_OUTPUT".
 
-## 19. Import Column
+## 19. Import Column Transformation
 In this project we are storing file path and files in database. Name of table is "IMPORT_COLUMN", file type is excel and JPG.
 NOTE: size of "varbinary" datatype shoud be set to max i.e. FILES varbinary(max). 
+
+## 20. Export Column Transformation
+It reads DT_TEXT, DT_NTEXT, DT_IMAGE data from database and write it to a file with name and path given in another column od same row.
+This transformation can be used to overwrite and append exixting files.
+
+In this project we are loading data from "IMPORT_COLUMN" table and saved in default location. We are appending data in excel file.
+
+
