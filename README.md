@@ -74,6 +74,9 @@ Charactermap transformation convert column data in place or add column tomtransf
 
 In this project we havw used "patients" table to convert first name in upper case and last name in lower case using Charactermap transformation.
 ## 15. Cache Transformation
+This uses memory cache/file cache as configured in cache connection manager and pulls data from there.
+In this project, we used this transformation to save reference table in ".caw" format then perform lookup transformation using cache transformation.
+
 ## 16. Lookup Transformation
 ## 17. Lookup Transformation Scenarios
 This project has covered 7 scenarios. 1. CASE 1 IS "EQUI JOIN". i.e. BOTH TABLE HAVE SAME DATA & SAME NUMBER OF RECORDS.

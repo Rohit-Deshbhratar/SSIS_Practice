@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="Cache_Transformation"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{DED054A9-6033-4009-AFB7-F9F37281A2D4}">
+  DTS:VersionBuild="7"
+  DTS:VersionGUID="{40E033AF-40A8-4195-B585-2D45D8285A9A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>

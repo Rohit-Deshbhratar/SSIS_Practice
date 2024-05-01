@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="Cache_Transformation"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{DED054A9-6033-4009-AFB7-F9F37281A2D4}">
+  DTS:VersionBuild="7"
+  DTS:VersionGUID="{40E033AF-40A8-4195-B585-2D45D8285A9A}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>
@@ -224,7 +224,8 @@
               componentClassID="{BF818E79-2C1C-410D-ADEA-B2D1A04FED01}"
               contactInfo="Cache Transform;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
               description="Writes data to a cache (a .caw file) with the Cache Connection Manager. Reuse the cache between multiple Lookup transforms to reduce database load. Share the cache to reduce memory usage. Note: cache data is stored in clear text and not recommended for sensitive data."
-              name="Cache Transform">
+              name="Cache Transform"
+              version="1">
               <properties>
                 <property
                   dataType="System.Boolean"
@@ -605,7 +606,8 @@
               componentClassID="{BF818E79-2C1C-410D-ADEA-B2D1A04FED01}"
               contactInfo="Cache Transform;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
               description="Writes data to a cache (a .caw file) with the Cache Connection Manager. Reuse the cache between multiple Lookup transforms to reduce database load. Share the cache to reduce memory usage. Note: cache data is stored in clear text and not recommended for sensitive data."
-              name="Cache Transform">
+              name="Cache Transform"
+              version="1">
               <properties>
                 <property
                   dataType="System.Boolean"
