@@ -78,8 +78,12 @@ This uses memory cache/file cache as configured in cache connection manager and 
 In this project, we used this transformation to save reference table in ".caw" format then perform lookup transformation using cache transformation.
 
 ## 16. Lookup Transformation
+It compares source data with existing table and filter matching and unmatching rows. Reference dataset can be OLEDB or cache connection manager.
+It tries to perform equi join between value in transformation and value in reference data set.
+
 ## 17. Lookup Transformation Scenarios
-This project has covered 7 scenarios. 1. CASE 1 IS "EQUI JOIN". i.e. BOTH TABLE HAVE SAME DATA & SAME NUMBER OF RECORDS.
+This project has covered 7 scenarios. 
+1. CASE 1 IS "EQUI JOIN". i.e. BOTH TABLE HAVE SAME DATA & SAME NUMBER OF RECORDS.
 2. CASE 2 IS "MORE NUMBER OF RECORDS IN SOURCE TABLE". 3. CASE 3 IS "MORE NUMBER OF RECORDS IN LOOKUP(REFERENCE) TABLE".
 4. CASE 4 IS "DUPLICATE RECORDS IN SOURCE TABLE". 5. CASE 5 IS "DUPLICATE RECORDS IN LOOKUP TABLE".
 6. CASE 6 IS "CASE SENSITIVE". 7. CASE 7 IS "NULL VALUE".
