@@ -52,6 +52,15 @@ This projet is very similar to the project 9, difference is we haven't used sort
 Apply "MERGE" transformation and saved output in a flat file.
 
 ## 11. Aggregate Transformation
+It is used to perform aggregate operations on datasets. It has one input and can have multiple output.For multiple output
+duoble click "Aggregate" -> click on "Advanced" and enter another aggregation just below the old aggregation.
+
+In this project we have used "patients" table. For aggregation, we grouped data using "city", "gender". 
+Aggregation with "city" will show patient count from all the cities, and "gender" will display total count of male and female.
+
+The difference between SQL aggregation and SSIS aggregation is -> in SSIS we can do multiple aggregation at single time and
+in SQL aggregation we can not do multiple aggregation in single time.
+
 ## 12. Row Sampling Transformation
 ## 13. Percentage Sampling Transformation
 ## 14. Charactermap Transformation

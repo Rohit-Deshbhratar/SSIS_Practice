@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="Aggregate_Transformation"
   DTS:PackageType="5"
-  DTS:VersionBuild="32"
-  DTS:VersionGUID="{00E67F5F-B682-4E8C-99C3-2ED5CB9C2F8D}">
+  DTS:VersionBuild="34"
+  DTS:VersionGUID="{42FC26E6-83D4-4171-8DCB-D774DC5FF5E3}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>
@@ -104,8 +104,8 @@
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Data Flow Task\Aggregate.Outputs[Aggregate Output 1]"
-                  name="Aggregate Output 1">
+                  refId="Package\Data Flow Task\Aggregate.Outputs[TOTAL_PATIENTS_IN_CITY]"
+                  name="TOTAL_PATIENTS_IN_CITY">
                   <properties>
                     <property
                       dataType="System.Int32"
@@ -119,11 +119,11 @@
                   </properties>
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\Aggregate.Outputs[Aggregate Output 1].Columns[CITY]"
+                      refId="Package\Data Flow Task\Aggregate.Outputs[TOTAL_PATIENTS_IN_CITY].Columns[CITY]"
                       codePage="1252"
                       dataType="str"
                       length="40"
-                      lineageId="Package\Data Flow Task\Aggregate.Outputs[Aggregate Output 1].Columns[CITY]"
+                      lineageId="Package\Data Flow Task\Aggregate.Outputs[TOTAL_PATIENTS_IN_CITY].Columns[CITY]"
                       name="CITY">
                       <properties>
                         <property
@@ -147,9 +147,9 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Aggregate.Outputs[Aggregate Output 1].Columns[PATIENT_ID]"
+                      refId="Package\Data Flow Task\Aggregate.Outputs[TOTAL_PATIENTS_IN_CITY].Columns[PATIENT_ID]"
                       dataType="ui8"
-                      lineageId="Package\Data Flow Task\Aggregate.Outputs[Aggregate Output 1].Columns[PATIENT_ID]"
+                      lineageId="Package\Data Flow Task\Aggregate.Outputs[TOTAL_PATIENTS_IN_CITY].Columns[PATIENT_ID]"
                       name="PATIENT_ID">
                       <properties>
                         <property
@@ -180,7 +180,7 @@
                   name="MALE_FEMALE_COUNT">
                   <properties>
                     <property
-                      dataType="System.UInt32"
+                      dataType="System.Int32"
                       description="Specifies the approximate number of group by keys that the aggregation produces. Low indicates 500,000 key values, Medium indicates 5 million key values, and High indicates more than 25 million key values. Unspecified indicates no KeyScale value is used."
                       name="KeyScale"
                       typeConverter="KeyScaleType">0</property>
@@ -269,30 +269,6 @@
                   deleteOutputOnPathDetached="true"
                   name="Multicast Output 1"
                   synchronousInputId="Package\Data Flow Task\MALE_FEMALE_COUNT.Inputs[Multicast Input 1]">
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Data Flow Task\Multicast"
-              componentClassID="{EC139FBC-694E-490B-8EA7-35690FB0F445}"
-              contactInfo="Multicast;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Distributes every input row to every row in one or more outputs. For example, branch your data flow to make a copy of data so that some values can be masked before sharing with external partners."
-              name="Multicast">
-              <inputs>
-                <input
-                  refId="Package\Data Flow Task\Multicast.Inputs[Multicast Input 1]"
-                  name="Multicast Input 1">
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Data Flow Task\Multicast.Outputs[Multicast Output 1]"
-                  dangling="true"
-                  deleteOutputOnPathDetached="true"
-                  name="Multicast Output 1"
-                  synchronousInputId="Package\Data Flow Task\Multicast.Inputs[Multicast Input 1]">
                   <externalMetadataColumns />
                 </output>
               </outputs>
@@ -612,13 +588,32 @@
                 </output>
               </outputs>
             </component>
+            <component
+              refId="Package\Data Flow Task\TOTAL_PATIENTS_IN_CITY"
+              componentClassID="{EC139FBC-694E-490B-8EA7-35690FB0F445}"
+              contactInfo="Multicast;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Distributes every input row to every row in one or more outputs. For example, branch your data flow to make a copy of data so that some values can be masked before sharing with external partners."
+              name="TOTAL_PATIENTS_IN_CITY">
+              <inputs>
+                <input
+                  refId="Package\Data Flow Task\TOTAL_PATIENTS_IN_CITY.Inputs[Multicast Input 1]"
+                  name="Multicast Input 1">
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Data Flow Task\TOTAL_PATIENTS_IN_CITY.Outputs[Multicast Output 1]"
+                  dangling="true"
+                  deleteOutputOnPathDetached="true"
+                  name="Multicast Output 1"
+                  synchronousInputId="Package\Data Flow Task\TOTAL_PATIENTS_IN_CITY.Inputs[Multicast Input 1]">
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
           </components>
           <paths>
-            <path
-              refId="Package\Data Flow Task.Paths[Aggregate Output 1]"
-              endId="Package\Data Flow Task\Multicast.Inputs[Multicast Input 1]"
-              name="Aggregate Output 1"
-              startId="Package\Data Flow Task\Aggregate.Outputs[Aggregate Output 1]" />
             <path
               refId="Package\Data Flow Task.Paths[MALE_FEMALE_COUNT]"
               endId="Package\Data Flow Task\MALE_FEMALE_COUNT.Inputs[Multicast Input 1]"
@@ -629,6 +624,11 @@
               endId="Package\Data Flow Task\Aggregate.Inputs[Aggregate Input 1]"
               name="OLE DB Source Output"
               startId="Package\Data Flow Task\OLE DB Source.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[TOTAL_PATIENTS_IN_CITY]"
+              endId="Package\Data Flow Task\TOTAL_PATIENTS_IN_CITY.Inputs[Multicast Input 1]"
+              name="TOTAL_PATIENTS_IN_CITY"
+              startId="Package\Data Flow Task\Aggregate.Outputs[TOTAL_PATIENTS_IN_CITY]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -665,33 +665,33 @@
         <NodeLayout
           Size="126.4,41.6"
           Id="Package\Data Flow Task\Aggregate"
-          TopLeft="258.857147265454,80.141177594538" />
+          TopLeft="245.142861317615,105.223530887485" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
           TopLeft="270.6285747567,47.7176471446212">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="51.4285725087536,32.4235304499168"
+              EndConnector="37.714286560915,57.5058837428637"
               Start="0,0"
-              End="51.4285725087536,24.9235304499168">
+              End="37.714286560915,50.0058837428637">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,12.2117652249584" />
+                    End="0,24.7529418714319" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,12.2117652249584"
-                    Point2="0,16.2117652249584"
-                    Point3="4,16.2117652249584" />
+                    Point1="0,24.7529418714319"
+                    Point2="0,28.7529418714319"
+                    Point3="4,28.7529418714319" />
                   <mssgle:LineSegment
-                    End="47.4285725087536,16.2117652249584" />
+                    End="33.714286560915,28.7529418714319" />
                   <mssgle:CubicBezierSegment
-                    Point1="47.4285725087536,16.2117652249584"
-                    Point2="51.4285725087536,16.2117652249584"
-                    Point3="51.4285725087536,20.2117652249584" />
+                    Point1="33.714286560915,28.7529418714319"
+                    Point2="37.714286560915,28.7529418714319"
+                    Point3="37.714286560915,32.7529418714319" />
                   <mssgle:LineSegment
-                    End="51.4285725087536,24.9235304499168" />
+                    End="37.714286560915,50.0058837428637" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -701,82 +701,82 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="120,41.6"
-          Id="Package\Data Flow Task\Multicast"
-          TopLeft="150.857145426225,161.505884618" />
+          Size="209.6,41.6"
+          Id="Package\Data Flow Task\TOTAL_PATIENTS_IN_CITY"
+          TopLeft="25.7142861521973,240.988234410401" />
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Aggregate Output 1]"
-          TopLeft="322.057147265454,121.741177594538">
+          Id="Package\Data Flow Task.Paths[TOTAL_PATIENTS_IN_CITY]"
+          TopLeft="308.342861317615,146.823530887485">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-111.200001839229,39.7647070234622"
+              EndConnector="-177.828575165418,94.1647035229165"
               Start="0,0"
-              End="-111.200001839229,32.2647070234622">
+              End="-177.828575165418,86.6647035229165">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,15.8823535117311" />
+                    End="0,43.0823517614582" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,15.8823535117311"
-                    Point2="0,19.8823535117311"
-                    Point3="-4,19.8823535117311" />
+                    Point1="0,43.0823517614582"
+                    Point2="0,47.0823517614582"
+                    Point3="-4,47.0823517614582" />
                   <mssgle:LineSegment
-                    End="-107.200001839229,19.8823535117311" />
+                    End="-173.828575165418,47.0823517614582" />
                   <mssgle:CubicBezierSegment
-                    Point1="-107.200001839229,19.8823535117311"
-                    Point2="-111.200001839229,19.8823535117311"
-                    Point3="-111.200001839229,23.8823535117311" />
+                    Point1="-173.828575165418,47.0823517614582"
+                    Point2="-177.828575165418,47.0823517614582"
+                    Point3="-177.828575165418,51.0823517614582" />
                   <mssgle:LineSegment
-                    End="-111.200001839229,32.2647070234622" />
+                    End="-177.828575165418,86.6647035229165" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-108.429219669615,24.8823535117311,105.6584375,16"
+              BoundingBox="-159.761885238959,52.0823517614582,141.6951953125,16"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
           Size="188.8,41.6"
           Id="Package\Data Flow Task\MALE_FEMALE_COUNT"
-          TopLeft="375.428577822082,160.235296185371" />
+          TopLeft="439.428578911996,248.941179782379" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[MALE_FEMALE_COUNT]"
-          TopLeft="341.790480598787,121.741177594538">
+          TopLeft="328.076194650949,146.823530887485">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="128.038097223295,38.4941185908334"
+              EndConnector="205.752384261047,102.117648894894"
               Start="0,0"
-              End="128.038097223295,30.9941185908334">
+              End="205.752384261047,94.6176488948941">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,11.6863533257646" />
+                    End="0,37.6129419246693" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,11.6863533257646"
-                    Point2="0,15.6863533257646"
-                    Point3="4,15.6863533257646" />
+                    Point1="0,37.6129419246693"
+                    Point2="0,41.6129419246693"
+                    Point3="4,41.6129419246693" />
                   <mssgle:LineSegment
-                    End="124.038097223295,15.6863533257646" />
+                    End="201.752384261047,41.6129419246693" />
                   <mssgle:CubicBezierSegment
-                    Point1="124.038097223295,15.6863533257646"
-                    Point2="128.038097223295,15.6863533257646"
-                    Point3="128.038097223295,19.6863533257646" />
+                    Point1="201.752384261047,41.6129419246693"
+                    Point2="205.752384261047,41.6129419246693"
+                    Point3="205.752384261047,45.6129419246693" />
                   <mssgle:LineSegment
-                    End="128.038097223295,30.9941185908334" />
+                    End="205.752384261047,94.6176488948941" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="3.26668533039743,20.6863533257646,121.5047265625,16"
+              BoundingBox="42.1238288492736,46.6129419246693,121.5047265625,16"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>

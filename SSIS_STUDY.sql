@@ -93,6 +93,17 @@ SELECT * FROM STUDENTS_DWH;
 --TRUNCATE TABLE STUDENTS_DWH;
 --DROP TABLE STUDENTS_DWH;
 ------------------------------------------------------------------------------------------------------------------------------------------
+-- USE "AGGREGATE_TRANSFORMATION_CASE_STUDY_1" TABLE FOR AGGREGATE TRANSFORMATION.
+SELECT * FROM AGGREGATE_TRANSFORMATION_CASE_STUDY_1;
+
+SELECT phone_type, COUNT(Id) AS TOTAL
+FROM AGGREGATE_TRANSFORMATION_CASE_STUDY_1
+GROUP BY phone_type;
+
+SELECT Id, COUNT(Id) AS TOTAL
+FROM AGGREGATE_TRANSFORMATION_CASE_STUDY_1
+GROUP BY Id;
+------------------------------------------------------------------------------------------------------------------------------------------
 -- USE "ITEM_LOOKUP_BASICS" AND "ITEM_SALES_LOOKUP_BASICS" TABLE FOR PROJECT "Lookup_Transformation_Basic".
 CREATE TABLE ITEM_LOOKUP_BASICS(
 	ITEM_CODES INT,
