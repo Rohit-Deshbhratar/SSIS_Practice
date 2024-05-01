@@ -62,7 +62,12 @@ The difference between SQL aggregation and SSIS aggregation is -> in SSIS we can
 in SQL aggregation we can not do multiple aggregation in single time.
 
 ## 12. Row Sampling Transformation
+In this transformation we can set how many number of rows we want for sampling. It has two output, one for selected data
+and other for unselected data.
 ## 13. Percentage Sampling Transformation
+In this transformation we can set how many percent of rows we want for sampling. It has two output, one for selected data
+and other for unselected data.
+
 ## 14. Charactermap Transformation
 ## 15. Cache Transformation
 ## 16. Lookup Transformation
